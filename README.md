@@ -3,18 +3,21 @@
 A curated list of awesome Lua frameworks, libraries and software.
 
 * [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+* [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
 * [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 * [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 * [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, LuaJIT and other Lua interpreters on Windows, OSX, and Linux
 * [loveshell/ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) - ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙
-* [rtsisyk/luafun](https://github.com/rtsisyk/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+* [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+* [copycat-killer/awesome-copycats](https://github.com/copycat-killer/awesome-copycats) - Awesome WM themes
+* [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) - Open-Source Neural Machine Translation in Torch
+* [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 * [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 * [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is  a package manager for Lua modules.
 * [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 * [openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API
 * [sailorproject/sailor](https://github.com/sailorproject/sailor) - A Lua MVC Web Framework.
 * [stevedonovan/Penlight](https://github.com/stevedonovan/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.
-* [idevz/vanilla](https://github.com/idevz/vanilla) - An OpenResty Lua MVC Web Framework
 * [fcambus/telize](https://github.com/fcambus/telize) - Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua
 * [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 * [facebook/fblualib](https://github.com/facebook/fblualib) - Facebook libraries and utilities for Lua
@@ -22,49 +25,53 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [nrk/redis-lua](https://github.com/nrk/redis-lua) - A Lua client library for the redis key value storage system.
 * [mpeterv/luacheck](https://github.com/mpeterv/luacheck) -  A tool for linting and static analysis of Lua code.
 * [bungle/lua-resty-template](https://github.com/bungle/lua-resty-template) - Templating Engine (HTML) for Lua and OpenResty.
+* [sumory/orange](https://github.com/sumory/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 * [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
+* [copycat-killer/lain](https://github.com/copycat-killer/lain) - Awesome WM complements
 * [gamesys/moonshine](https://github.com/gamesys/moonshine) - A lightweight Lua VM for the browser
 * [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 * [emmericp/MoonGen](https://github.com/emmericp/MoonGen) - MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.
+* [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.
 * [mirven/underscore.lua](https://github.com/mirven/underscore.lua) - A utility library for Lua
-* [tylerneylon/pacpac](https://github.com/tylerneylon/pacpac) - A lua-based Pac-Man clone.
 * [sumory/lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty
+* [tylerneylon/pacpac](https://github.com/tylerneylon/pacpac) - A lua-based Pac-Man clone.
 * [openresty/lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Nonblocking Lua MySQL driver library for ngx_lua or OpenResty
 * [Planimeter/grid-sdk](https://github.com/Planimeter/grid-sdk) - The Grid SDK - Game engine for Lua
-* [andremm/typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 * [pkulchenko/MobDebug](https://github.com/pkulchenko/MobDebug) - Remote debugger for Lua.
+* [andremm/typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 * [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming  in Lua
 * [franko/luajit-lang-toolkit](https://github.com/franko/luajit-lang-toolkit) - A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations
 * [kikito/bump.lua](https://github.com/kikito/bump.lua) - A collision detection library for Lua
 * [doujiang24/lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Lua kafka client driver for the Openresty based on the cosocket API
-* [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 * [dualface/gbc-core](https://github.com/dualface/gbc-core) - GameBox Cloud Core - The Game Server Framework based on Lua and OpenResty.
+* [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 * [SEEDTEAM/TeleSeed](https://github.com/SEEDTEAM/TeleSeed) - A Telegram-CLI Administration Telgram bot in Lua
-* [mongrel2/Tir](https://github.com/mongrel2/Tir) - A Simple Lua Web Framework For Mongrel2
 * [sean-lin/protoc-gen-lua](https://github.com/sean-lin/protoc-gen-lua) - Google's Protocol Buffers project, ported to Lua
+* [mongrel2/Tir](https://github.com/mongrel2/Tir) - A Simple Lua Web Framework For Mongrel2
 * [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 * [pintsized/ledge](https://github.com/pintsized/ledge) - An ESI capable HTTP cache Lua module for OpenResty
 * [kikito/tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for lua. Inspired on jQuery's animate method.
 * [kingluo/luajit.io](https://github.com/kingluo/luajit.io) - luajit io framework
-* [meric/l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
 * [openresty/lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based API for lua-nginx-module
+* [meric/l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
 * [daogangtang/bamboo](https://github.com/daogangtang/bamboo) - Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database.
-* [kikito/lua_missions](https://github.com/kikito/lua_missions) - Lua Koans, minus the Zen stuff
-* [openresty/lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty)
-* [lipp/lua-websockets](https://github.com/lipp/lua-websockets) - Websockets for Lua.
-* [leafo/magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
 * [marcoskirsch/nodemcu-httpserver](https://github.com/marcoskirsch/nodemcu-httpserver) - A (very) simple web server written in Lua for the ESP8266 firmware NodeMCU.
+* [openresty/lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty)
+* [leafo/magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
+* [kikito/lua_missions](https://github.com/kikito/lua_missions) - Lua Koans, minus the Zen stuff
+* [lipp/lua-websockets](https://github.com/lipp/lua-websockets) - Websockets for Lua.
 * [Yonaba/30log](https://github.com/Yonaba/30log) - 30 lines library for object orientation in Lua
 * [openresty/lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) - Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 * [appwilldev/moochine](https://github.com/appwilldev/moochine) - MOOCHINE - A simple and lightweight web framework based on OpenResty(ngx_lua, http://openresty.org).
-* [openresty/lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for http file uploading based on ngx_lua cosocket
 * [somesocks/lua-lockbox](https://github.com/somesocks/lua-lockbox) - A collection of cryptographic primitives written in pure Lua
+* [openresty/lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for http file uploading based on ngx_lua cosocket
 * [pavouk/lgi](https://github.com/pavouk/lgi) - Dynamic Lua binding to GObject libraries using GObject-Introspection
-* [ostinelli/gin](https://github.com/ostinelli/gin) - A LUA fast, low-latency, low-memory footprint, web JSON-API framework with Test Driven Development helpers and patterns.
 * [MisterDA/love-release](https://github.com/MisterDA/love-release) - :love_letter: Lua script that makes LÖVE game release easier
 * [starjun/openstar](https://github.com/starjun/openstar) - lua waf,nginx+lua,openresty,luajit,waf+,cdn,nginx
-* [pguillory/luajit-libuv](https://github.com/pguillory/luajit-libuv) - LuaJIT FFI binding for libuv
+* [ostinelli/gin](https://github.com/ostinelli/gin) - A LUA fast, low-latency, low-memory footprint, web JSON-API framework with Test Driven Development helpers and patterns.
 * [iresty/Mio](https://github.com/iresty/Mio) -  API statistics/summary and health datas in NGINX based on OpenResty/ngx_lua, just like NGINX Plus
+* [pguillory/luajit-libuv](https://github.com/pguillory/luajit-libuv) - LuaJIT FFI binding for libuv
+* [ers35/luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
 * [rxi/lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev
 * [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
 * [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.
@@ -74,407 +81,439 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Kadoba/Advanced-Tiled-Loader](https://github.com/Kadoba/Advanced-Tiled-Loader) - Imports Tiled maps into Lua for the LÖVE game engine. (NO LONGER IN DEVELOPMENT)
 * [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is a http server to work with web applications written in Lua language.
 * [vlipco/srv-router](https://github.com/vlipco/srv-router) - OpenResty (nginx+lua) that discovers upstream servers from SRV records
-* [openresty/lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT
+* [pkulchenko/serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer.
 * [craigmj/json4lua](https://github.com/craigmj/json4lua) - JSON (Javascript Object Notation - http://www.json.org) encoding / decoding module for Lua, and very basic JSON RPC module (requiring socket 2.0).Module requires compat-5.1 if using Lua 5.0.This repository was converted from a CVS repository on luaforge.net on Jan. 20, 2010.
-* [pkulchenko/serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer
-* [liseen/lua-resty-http](https://github.com/liseen/lua-resty-http) - Lua http client driver for the ngx_lua based on the cosocket API
-* [igrigorik/tokyo-recipes](https://github.com/igrigorik/tokyo-recipes) - Lean & mean Tokyo Cabinet recipes (with Lua)
-* [lua-stdlib/lua-stdlib](https://github.com/lua-stdlib/lua-stdlib) - General Lua libraries
-* [lefcha/concurrentlua](https://github.com/lefcha/concurrentlua) - Concurrency oriented programming in Lua
-* [daurnimator/lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
-* [xjdrew/levent](https://github.com/xjdrew/levent) - lua concurrency library based on libev, similar with gevent
 * [viruscamp/luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
-* [torhve/LuaWeb](https://github.com/torhve/LuaWeb) - A very simple blog engine using openresty, nginx, lua, markdown, git and redis
-* [openresty/lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI
-* [richardhundt/shine](https://github.com/richardhundt/shine) - A Shiny Lua Dialect
-* [davidm/lua-inspect](https://github.com/davidm/lua-inspect) - Lua code analysis, with plugins for HTML and SciTE
-* [weshoke/Lust](https://github.com/weshoke/Lust) - Lua String Templates
-* [leegao/LuaInLua](https://github.com/leegao/LuaInLua) - A self-hosting compiler for the Lua language.
-* [fjolnir/TLC](https://github.com/fjolnir/TLC) - The Tiny Lua Cocoa Bridge
+* [openresty/lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT
+* [liseen/lua-resty-http](https://github.com/liseen/lua-resty-http) - Lua http client driver for the ngx_lua based on the cosocket API
+* [daurnimator/lua-http](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
+* [lefcha/concurrentlua](https://github.com/lefcha/concurrentlua) - Concurrency oriented programming in Lua
+* [igrigorik/tokyo-recipes](https://github.com/igrigorik/tokyo-recipes) - Lean & mean Tokyo Cabinet recipes (with Lua)
+* [xjdrew/levent](https://github.com/xjdrew/levent) - lua concurrency library based on libev, similar with gevent
 * [upyun/slardar](https://github.com/upyun/slardar) - Updating your upstream list and run lua scripts without reloading Nginx.
+* [openresty/lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI
+* [lua-stdlib/lua-stdlib](https://github.com/lua-stdlib/lua-stdlib) - General Lua libraries
+* [torhve/LuaWeb](https://github.com/torhve/LuaWeb) - A very simple blog engine using openresty, nginx, lua, markdown, git and redis
+* [leegao/LuaInLua](https://github.com/leegao/LuaInLua) - A self-hosting compiler for the Lua language.
+* [davidm/lua-inspect](https://github.com/davidm/lua-inspect) - Lua code analysis, with plugins for HTML and SciTE
+* [richardhundt/shine](https://github.com/richardhundt/shine) - A Shiny Lua Dialect
+* [fjolnir/TLC](https://github.com/fjolnir/TLC) - The Tiny Lua Cocoa Bridge
+* [weshoke/Lust](https://github.com/weshoke/Lust) - Lua String Templates
 * [torch/threads](https://github.com/torch/threads) - Threads for Lua and LuaJIT. Transparent exchange of data between threads is allowed thanks to torch serialization.
 * [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) - :newspaper: Static site/blog generator written in Lua
-* [openresty/lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API
-* [openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries
 * [RememberTheAir/GroupButler](https://github.com/RememberTheAir/GroupButler) - A Lua Telegram bot based on Otouto
+* [unixhot/waf](https://github.com/unixhot/waf) - 使用Nginx+Lua实现的WAF
+* [openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries
+* [openresty/lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API
 * [appwilldev/moochine-demo](https://github.com/appwilldev/moochine-demo) - OpenResty(ngx_lua, http://openresty.org )+Moochine 完整实例
 * [TACC/Lmod](https://github.com/TACC/Lmod) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy
-* [keplerproject/xavante](https://github.com/keplerproject/xavante) - Xavante is a Lua HTTP 1.1 Web server that uses a modular architecture based on URI mapped handlers.
 * [norman/telescope](https://github.com/norman/telescope) - A highly customizable test library for Lua that allows declarative tests with nested contexts.
+* [keplerproject/xavante](https://github.com/keplerproject/xavante) - Xavante is a Lua HTTP 1.1 Web server that uses a modular architecture based on URI mapped handlers.
 * [davidm/lua2c](https://github.com/davidm/lua2c) - convert Lua source code into an equivalent C source code written in terms of Lua C API calls
 * [tanema/light_world.lua](https://github.com/tanema/light_world.lua) - A lighting model made for love 2d
-* [unixhot/waf](https://github.com/unixhot/waf) - 使用Nginx+Lua实现的WAF
+* [hpxl/nginx-lua-fastdfs-GraphicsMagick](https://github.com/hpxl/nginx-lua-fastdfs-GraphicsMagick) - nginx+lua+fastdfs+GraphicsMagick 动态生成缩略图
 * [pygy/LuLPeg](https://github.com/pygy/LuLPeg) - A port of LPeg 100% written in Lua.
 * [ignacio/StackTracePlus](https://github.com/ignacio/StackTracePlus) - StackTracePlus provides enhanced stack traces for Lua.
-* [hpxl/nginx-lua-fastdfs-GraphicsMagick](https://github.com/hpxl/nginx-lua-fastdfs-GraphicsMagick) - nginx+lua+fastdfs+GraphicsMagick 动态生成缩略图
+* [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - An experimental game framework written in luajit
 * [bungle/lua-resty-session](https://github.com/bungle/lua-resty-session) - Session library for OpenResty – flexible and secure
-* [APItools/router.lua](https://github.com/APItools/router.lua) - A barebones router for Lua. It matches urls and executes lua functions.
 * [majek/lua-channels](https://github.com/majek/lua-channels) - Go style channels in pure Lua
-* [stravant/LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
-* [DhavalKapil/elasticsearch-lua](https://github.com/DhavalKapil/elasticsearch-lua) - Lua client for Elasticsearch
+* [APItools/router.lua](https://github.com/APItools/router.lua) - A barebones router for Lua. It matches urls and executes lua functions.
 * [paulcuth/starlight](https://github.com/paulcuth/starlight) - A Lua to ES6 transpiler.
+* [stravant/LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
+* [knyar/nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
 * [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - Luaunit is a unit-testing framework for Lua, in the spirit of many others unit-testing framework. Luaunit let's you write test functions, test classes with test methods and setup/teardown functionality.
-* [mtourne/nginx_log_by_lua](https://github.com/mtourne/nginx_log_by_lua) - Simple example of aggregated logging using log_by_lua hooks
+* [DhavalKapil/elasticsearch-lua](https://github.com/DhavalKapil/elasticsearch-lua) - Lua client for Elasticsearch
 * [zrong/lua](https://github.com/zrong/lua) - A lua library by zengrong.net
-* [LuaAV/LuaAV](https://github.com/LuaAV/LuaAV) - Audiovisual scripting with Lua
 * [agoragames/nginx-google-oauth](https://github.com/agoragames/nginx-google-oauth) - Lua module to add Google OAuth to nginx
+* [mtourne/nginx_log_by_lua](https://github.com/mtourne/nginx_log_by_lua) - Simple example of aggregated logging using log_by_lua hooks
+* [openresty/lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the nginx lua module
+* [Olivine-Labs/lustache](https://github.com/Olivine-Labs/lustache) - Mustache templates for Lua
+* [LuaAV/LuaAV](https://github.com/LuaAV/LuaAV) - Audiovisual scripting with Lua
 * [nixuehan/Belial](https://github.com/nixuehan/Belial) - 基于nginx lua module 的一个 waf .
 * [jtarchie/underscore-lua](https://github.com/jtarchie/underscore-lua) - Underscore is a utility-belt library for Lua
-* [Olivine-Labs/lustache](https://github.com/Olivine-Labs/lustache) - Mustache templates for Lua
-* [openresty/lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the nginx lua module
+* [bjornbytes/RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua
 * [rxi/flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
-* [knyar/nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
+* [MutePuker/TeleMute](https://github.com/MutePuker/TeleMute) - A Telegram-CLI Administration Telgram bot in Lua - New TG
+* [pingidentity/lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) - Lua implementation to make NGINX operate as an OpenID Connect RP or OAuth 2.0 RS using the Lua extension scripting features (http://wiki.nginx.org/HttpLuaModule) which are for instance part of OpenResty (http://openresty.org/)
 * [ignacio/LuaOAuth](https://github.com/ignacio/LuaOAuth) - A OAuth client library for Lua
 * [geoffleyland/luatrace](https://github.com/geoffleyland/luatrace) - A tool for tracing Lua script execution and analysing time profiles and coverage
 * [geekscape/mqtt_lua](https://github.com/geekscape/mqtt_lua) - MQTT Client library for the Lua language
-* [bjornbytes/RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua
-* [clementfarabet/graphicsmagick](https://github.com/clementfarabet/graphicsmagick) - A simple Lua wrapper to graphicsmagick.
-* [stevedonovan/Lake](https://github.com/stevedonovan/Lake) - A Lua-based Build Tool
-* [pingidentity/lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) - Lua implementation to make NGINX operate as an OpenID Connect RP or OAuth 2.0 RS using the Lua extension scripting features (http://wiki.nginx.org/HttpLuaModule) which are for instance part of OpenResty (http://openresty.org/)
-* [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
-* [Neopallium/lualogging](https://github.com/Neopallium/lualogging) - LuaLogging provides a simple API to use logging features in Lua. Its design was based on log4j.
-* [kyleconroy/lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - A finite state machine lua micro framework
-* [YunoHost/SSOwat](https://github.com/YunoHost/SSOwat) - A simple SSO for nginx, written in Lua
-* [wingify/lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - Opinionated Lua RabbitMQ client library for the ngx_lua apps based on the cosocket API
+* [Argon-/mpv-stats](https://github.com/Argon-/mpv-stats) - Display file statistics in mpv.
 * [torhve/weechat-matrix-protocol-script](https://github.com/torhve/weechat-matrix-protocol-script) - A WeeChat script in Lua that implements the matrix.org chat protocol
-* [MutePuker/TeleMute](https://github.com/MutePuker/TeleMute) - A Telegram-CLI Administration Telgram bot in Lua - New TG
-* [luvit/lit](https://github.com/luvit/lit) - Toolkit for developing, sharing, and running luvit/lua programs and libraries.
-* [kikito/stateful.lua](https://github.com/kikito/stateful.lua) - Stateful classes for Lua
-* [xopxe/lumen](https://github.com/xopxe/lumen) - Lua Multitasking Environment.
+* [stevedonovan/Lake](https://github.com/stevedonovan/Lake) - A Lua-based Build Tool
 * [rxi/classic](https://github.com/rxi/classic) - Tiny class module for Lua
+* [kyleconroy/lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - A finite state machine lua micro framework
+* [clementfarabet/graphicsmagick](https://github.com/clementfarabet/graphicsmagick) - A simple Lua wrapper to graphicsmagick.
+* [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
+* [luvit/lit](https://github.com/luvit/lit) - Toolkit for developing, sharing, and running luvit/lua programs and libraries.
+* [wingify/lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - Opinionated Lua RabbitMQ client library for the ngx_lua apps based on the cosocket API
 * [benglard/waffle](https://github.com/benglard/waffle) - Fast, asynchronous web framework for Lua/Torch
+* [Neopallium/lualogging](https://github.com/Neopallium/lualogging) - LuaLogging provides a simple API to use logging features in Lua. Its design was based on log4j.
+* [kikito/stateful.lua](https://github.com/kikito/stateful.lua) - Stateful classes for Lua
 * [bakpakin/tiny-ecs](https://github.com/bakpakin/tiny-ecs) - ECS for Lua
-* [Neopallium/lua-handlers](https://github.com/Neopallium/lua-handlers) - Provides a set of async. callback based handlers for working with raw TCP/UDP socket, ZeroMQ sockets, or HTTP client/server.
-* [keplerproject/orbit](https://github.com/keplerproject/orbit) - Orbit is an MVC web framework for Lua.
+* [xopxe/lumen](https://github.com/xopxe/lumen) - Lua Multitasking Environment.
+* [YunoHost/SSOwat](https://github.com/YunoHost/SSOwat) - A simple SSO for nginx, written in Lua
 * [airstruck/knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua.
 * [mlnlover11/LuaAssemblyTools](https://github.com/mlnlover11/LuaAssemblyTools) - Lua Assembly/Bytecode Tools. Has functions for virtually all aspects of LASM, including reading/writing, verifying, stripping debug info, LASM decompilation, and LASM parsing.
+* [keplerproject/orbit](https://github.com/keplerproject/orbit) - Orbit is an MVC web framework for Lua.
+* [Neopallium/lua-handlers](https://github.com/Neopallium/lua-handlers) - Provides a set of async. callback based handlers for working with raw TCP/UDP socket, ZeroMQ sockets, or HTTP client/server.
+* [Aviana/LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames) - Unit Frames for WoW 1.12.1
 * [Tieske/date](https://github.com/Tieske/date) - Date & Time module for Lua 5.x
+* [paulofmandown/rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [clementfarabet/lua---nnx](https://github.com/clementfarabet/lua---nnx) - An extension to Torch7's nn package.
+* [zheng-ji/ngx_lua_reqstatus](https://github.com/zheng-ji/ngx_lua_reqstatus) - 实时统计 nginx 状态的 lua 拓展
+* [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful and flexible framework to display highly customizable graphics on your screen.
 * [tickbh/tdengine](https://github.com/tickbh/tdengine) - game server for Rust + Lua
 * [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) - An extended Lua macro preprocessor
 * [hoelzro/lua-repl](https://github.com/hoelzro/lua-repl) - A Lua REPL implemented in Lua for embedding in other programs
+* [facebook/CParser](https://github.com/facebook/CParser) - A compact C preprocessor and declaration parser written in pure Lua
 * [xolox/vim-lua-inspect](https://github.com/xolox/vim-lua-inspect) - Semantic highlighting for Lua in Vim
+* [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 * [clementfarabet/lua---parallel](https://github.com/clementfarabet/lua---parallel) - A (simple) parallel computing framework for Lua
-* [zheng-ji/ngx_lua_reqstatus](https://github.com/zheng-ji/ngx_lua_reqstatus) - 实时统计 nginx 状态的 lua 拓展
 * [xfbs/PiL3](https://github.com/xfbs/PiL3) - My solutions to the exercises from the book "Programming in Lua 3" by Roberto Ierusalimschy
 * [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
+* [saks/lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
 * [rxi/lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running LÖVE project
-* [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
-* [paulofmandown/rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
+* [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
 * [leafo/etlua](https://github.com/leafo/etlua) - Embedded Lua templates
 * [LazyZhu/lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a  leveldb server.
 * [kikito/cron.lua](https://github.com/kikito/cron.lua) - Time-related functions for Lua, inspired in javascript's setTimeout and setInterval
-* [facebook/CParser](https://github.com/facebook/CParser) - A compact C preprocessor and declaration parser written in pure Lua
-* [saks/lua-resty-repl](https://github.com/saks/lua-resty-repl) - Interactive console (REPL) for Openresty and luajit code
-* [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
-* [lubyk/dub](https://github.com/lubyk/dub) - A Lua bindings generator that uses Doxygen to parse C/C++ headers.
+* [Mic92/vicious](https://github.com/Mic92/vicious) - Vicious is a modular widget library for the "awesome" window manager.
 * [golgote/neturl](https://github.com/golgote/neturl) - URL and Query string parser, builder, normalizer for Lua
+* [lubyk/dub](https://github.com/lubyk/dub) - A Lua bindings generator that uses Doxygen to parse C/C++ headers.
+* [lovetoys/lovetoys](https://github.com/lovetoys/lovetoys) - :banana: a full-featured Entity-Component-System framework for making games with lua
 * [cloudwu/lua-trace](https://github.com/cloudwu/lua-trace) - Trace for debug lua
 * [RedisLabs/redis-lua-debugger](https://github.com/RedisLabs/redis-lua-debugger) - A Redis Lua script for debugging Redis Lua scripts
-* [luapower/dynasm](https://github.com/luapower/dynasm) - DynASM with Lua mode
 * [Windower/Lua](https://github.com/Windower/Lua) - Lua Addons and Scripts
 * [RedisLabs/geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices
 * [mpeterv/argparse](https://github.com/mpeterv/argparse) - Feature-rich command line parser for Lua
-* [lovetoys/lovetoys](https://github.com/lovetoys/lovetoys) - :banana: a full-featured Entity-Component-System framework for making games with lua
+* [luapower/dynasm](https://github.com/luapower/dynasm) - DynASM with Lua mode
 * [solso/api-aggregator](https://github.com/solso/api-aggregator) - Aggregate REST API calls easily on a sandboxed Nginx+Lua env
-* [msva/lua-htmlparser](https://github.com/msva/lua-htmlparser) - An HTML parser for lua.
 * [pintsized/lua-resty-rack](https://github.com/pintsized/lua-resty-rack) - A simple and extensible HTTP server framework for OpenResty.
+* [msva/lua-htmlparser](https://github.com/msva/lua-htmlparser) - An HTML parser for lua.
 * [jmcnamara/xlsxwriter.lua](https://github.com/jmcnamara/xlsxwriter.lua) - A lua module for creating Excel XLSX files.
-* [Olivine-Labs/lusty](https://github.com/Olivine-Labs/lusty) - Lua RESTful Web Application Framework
-* [cloudwu/ldebug](https://github.com/cloudwu/ldebug) - A Lua Remote Debugger
 * [cosmonawt/lua-telegram-bot](https://github.com/cosmonawt/lua-telegram-bot) - A simple Lua Library for the Telegram Bot API
-* [mailru/tntlua](https://github.com/mailru/tntlua) - Tarantool 1.5 Lua stored procedures
-* [keplerproject/luadoc](https://github.com/keplerproject/luadoc) - LuaDoc is obsolete, use LDoc instead →
-* [deepmind/classic](https://github.com/deepmind/classic) - A class system for Lua.
+* [Olivine-Labs/lusty](https://github.com/Olivine-Labs/lusty) - Lua RESTful Web Application Framework
 * [cocos-creator/creator-lua](https://github.com/cocos-creator/creator-lua) - Cocos Creator 的 Lua 支持
-* [leegao/see.lua](https://github.com/leegao/see.lua) - A Lua 5.x/LuaJIT introspection library for humans
-* [kikito/i18n.lua](https://github.com/kikito/i18n.lua) - A very complete i18n lib for Lua
+* [cloudwu/ldebug](https://github.com/cloudwu/ldebug) - A Lua Remote Debugger
 * [zserge/lua-promises](https://github.com/zserge/lua-promises) - A+ promises in Lua
-* [bungle/lua-resty-validation](https://github.com/bungle/lua-resty-validation) - Validation Library (Input Validation and Filtering) for Lua and OpenResty.
-* [NodeUSB/nodemcu-ide](https://github.com/NodeUSB/nodemcu-ide) - Browser based Lua IDE for ESP8266 SoC
-* [love2d-community/love-api](https://github.com/love2d-community/love-api) - The whole LÖVE wiki in a Lua table.
-* [leafo/heroku-openresty](https://github.com/leafo/heroku-openresty) - Run OpenResty on Heroku with the Lua buildpack
-* [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
-* [Cluain/Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser) - Read simple XML easily
+* [kikito/i18n.lua](https://github.com/kikito/i18n.lua) - A very complete i18n lib for Lua
+* [deepmind/classic](https://github.com/deepmind/classic) - A class system for Lua.
 * [zserge/luash](https://github.com/zserge/luash) - Tiny lua module to write shell scripts with lua (inspired by Python's sh module)
-* [henix/slt2](https://github.com/henix/slt2) - a simple Lua template processor
-* [craigbarnes/lua-gumbo](https://github.com/craigbarnes/lua-gumbo) - Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua.
+* [orts/server](https://github.com/orts/server) - A real map datapack based on TFS 1.2 engine
+* [mailru/tntlua](https://github.com/mailru/tntlua) - Tarantool 1.5 Lua stored procedures
+* [leegao/see.lua](https://github.com/leegao/see.lua) - A Lua 5.x/LuaJIT introspection library for humans
+* [keplerproject/luadoc](https://github.com/keplerproject/luadoc) - LuaDoc is obsolete, use LDoc instead →
+* [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+* [love2d-community/love-api](https://github.com/love2d-community/love-api) - The whole LÖVE wiki in a Lua table.
+* [titansec/OpenWAF](https://github.com/titansec/OpenWAF) - Web security protection system based on openresty
+* [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
+* [bungle/lua-resty-validation](https://github.com/bungle/lua-resty-validation) - Validation Library (Input Validation and Filtering) for Lua and OpenResty.
 * [zeromq/lzmq](https://github.com/zeromq/lzmq) - Lua binding to ZeroMQ
+* [NodeUSB/nodemcu-ide](https://github.com/NodeUSB/nodemcu-ide) - Browser based Lua IDE for ESP8266 SoC
+* [leafo/heroku-openresty](https://github.com/leafo/heroku-openresty) - Run OpenResty on Heroku with the Lua buildpack
+* [craigbarnes/lua-gumbo](https://github.com/craigbarnes/lua-gumbo) - Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua.
+* [Cluain/Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser) - Read simple XML easily
 * [rxi/log.lua](https://github.com/rxi/log.lua) - A tiny logging module for Lua
+* [henix/slt2](https://github.com/henix/slt2) - a simple Lua template processor
+* [bungle/lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) - LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
 * [Neopallium/LuaNativeObjects](https://github.com/Neopallium/LuaNativeObjects) - A Lua bindings generator written in Lua.
 * [javieryanez/nodemcu-modules](https://github.com/javieryanez/nodemcu-modules) - Modules for nodeMcu (LUA intepreter for ESP8266)
-* [andycai/kodelua](https://github.com/andycai/kodelua) - Kode is a free Open Source Model-View-Controller framework using Lua.
-* [duhoobo/lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) - I must be crazy trying to send mail with Nginx.
-* [bungle/lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) - LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
-* [yuri/sputnik](https://github.com/yuri/sputnik) - An Extensible Wiki/CMS in Lua
-* [torch/trepl](https://github.com/torch/trepl) - A pure Lua-based, lightweight REPL for Torch.
 * [azurewang/lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs) - Nonblocking Lua FastDFS driver library for ngx_lua
+* [andycai/kodelua](https://github.com/andycai/kodelua) - Kode is a free Open Source Model-View-Controller framework using Lua.
+* [torch/trepl](https://github.com/torch/trepl) - A pure Lua-based, lightweight REPL for Torch.
+* [duhoobo/lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) - I must be crazy trying to send mail with Nginx.
+* [CapsAdmin/pac3](https://github.com/CapsAdmin/pac3) - a character and entity editor for garry's mod
+* [yuri/sputnik](https://github.com/yuri/sputnik) - An Extensible Wiki/CMS in Lua
+* [nucular/sfxrlua](https://github.com/nucular/sfxrlua) - A port of the sfxr sound effect synthesizer to Lua
+* [renstrom/NeavUI](https://github.com/renstrom/NeavUI) - Development branch of Neav UI
+* [andremm/lua-parser](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written with LPegLabel
 * [ToxicFrog/vstruct](https://github.com/ToxicFrog/vstruct) - A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition.
 * [silentbicycle/lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style + randomized unit testing framework for Lua (and C projects using Lua, etc.)
-* [nucular/sfxrlua](https://github.com/nucular/sfxrlua) - A port of the sfxr sound effect synthesizer to Lua
+* [renoise/xrnx](https://github.com/renoise/xrnx) - The official Renoise Lua Scripting repository
 * [mirven/luaspec](https://github.com/mirven/luaspec) - A specification framework for lua
 * [keplerproject/wsapi](https://github.com/keplerproject/wsapi) - WSAPI is an API that abstracts the web server from Lua web applications.
 * [jbochi/lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) - Pure Lua Cassandra client using CQL binary protocol
 * [diegofn/TuneIn-Radio-VLC](https://github.com/diegofn/TuneIn-Radio-VLC) - TuneIn Radio LUA Script for VLC 2.x. Its compatible with VLC for Windows and Mac
-* [andremm/lua-parser](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written with LPegLabel
 * [pintsized/lua-resty-redis-connector](https://github.com/pintsized/lua-resty-redis-connector) - Connection utilities for lua-resty-redis
 * [Tieske/uuid](https://github.com/Tieske/uuid) - A pure Lua uuid generator (modified from a Rackspace module)
 * [philips/lualint](https://github.com/philips/lualint) - lua linter
-* [renoise/xrnx](https://github.com/renoise/xrnx) - The official Renoise Lua Scripting repository
+* [agentzh/lua-resty-balancer](https://github.com/agentzh/lua-resty-balancer) - A generic consistent hash implementation for OpenResty/Lua
 * [lua-nucleo/lua-nucleo](https://github.com/lua-nucleo/lua-nucleo) - A random collection of core and utility level Lua libraries
-* [graue/luasynth](https://github.com/graue/luasynth) - Audio framework in Lua
-* [vavrusa/luajit-bpf](https://github.com/vavrusa/luajit-bpf) - This has been merged to to https://github.com/iovisor/bcc
-* [silentbicycle/tamale](https://github.com/silentbicycle/tamale) - TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua
 * [psamim/telegram-cli-backup](https://github.com/psamim/telegram-cli-backup) - A simple Lua script to backup Telegram messages into a CSV or sqlite database
+* [graue/luasynth](https://github.com/graue/luasynth) - Audio framework in Lua
+* [silentbicycle/tamale](https://github.com/silentbicycle/tamale) - TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua
 * [nanomsg/luajit-nanomsg](https://github.com/nanomsg/luajit-nanomsg) - LuaJIT FFI binding to the nanomsg library
 * [moteus/lua-log](https://github.com/moteus/lua-log) - Asynchronous logging library for Lua 5.1/5.2
+* [vavrusa/luajit-bpf](https://github.com/vavrusa/luajit-bpf) - This has been merged to to https://github.com/iovisor/bcc
+* [membphis/lua-resty-test](https://github.com/membphis/lua-resty-test) - Lua test frame for the ngx_lua based on Openresty
 * [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
 * [geekscape/nodemcu_esp8266](https://github.com/geekscape/nodemcu_esp8266) - NodeMCU Lua examples for the ESP8266 Wi-Fi module
-* [agentzh/lua-resty-balancer](https://github.com/agentzh/lua-resty-balancer) - A generic consistent hash implementation for OpenResty/Lua
-* [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
 * [catwell/luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure) - MessagePack for LuaJIT (using FFI, no bindings)
-* [shawndumas/adventure.lua](https://github.com/shawndumas/adventure.lua) - Lua Text Adventure Engine
-* [membphis/lua-resty-test](https://github.com/membphis/lua-resty-test) - Lua test frame for the ngx_lua based on Openresty
 * [adobe-apiplatform/api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws) - AWS SDK for NGINX with Lua
-* [peter4431/LuaSoar](https://github.com/peter4431/LuaSoar) - A lua debugger
+* [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
+* [torch/xlua](https://github.com/torch/xlua) - A set of useful functions to extend Lua (string, table, ...).
+* [shawndumas/adventure.lua](https://github.com/shawndumas/adventure.lua) - Lua Text Adventure Engine
+* [pixeltailgames/cinema](https://github.com/pixeltailgames/cinema) - :movie_camera: Gamemode for Garry's Mod featuring multiplayer video streaming
+* [hopesoft/nginx-lua-image-module](https://github.com/hopesoft/nginx-lua-image-module) - A nginx module to resize, crop images
+* [gvvaughan/lyaml](https://github.com/gvvaughan/lyaml) - LibYAML binding for Lua.
 * [davidm/lua-matrix](https://github.com/davidm/lua-matrix) - Matrices and vectors of are real, complex, and symbolic elements, implemented as Lua tables.
+* [thibaultcha/lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid) - Fast and dependency-free UUID library for LuaJIT/ngx_lua
+* [peter4431/LuaSoar](https://github.com/peter4431/LuaSoar) - A lua debugger
+* [leafo/image-server-tutorial](https://github.com/leafo/image-server-tutorial) - An example of an image processing server in OpenResty and Lua
+* [gvx/Ser](https://github.com/gvx/Ser) - A fast, robust, richly-featured table serialisation library for Lua
 * [rgieseke/locco](https://github.com/rgieseke/locco) - Locco is Docco in Lua.
 * [norman/lua-haml](https://github.com/norman/lua-haml) - Haml for Lua
-* [gvx/Ser](https://github.com/gvx/Ser) - A fast, robust, richly-featured table serialisation library for Lua
-* [gvvaughan/lyaml](https://github.com/gvvaughan/lyaml) - LibYAML binding for Lua.
-* [brimworks/lua-http-parser](https://github.com/brimworks/lua-http-parser) - Lua binding to Ryan Dahl's "http-parser".
-* [leafo/image-server-tutorial](https://github.com/leafo/image-server-tutorial) - An example of an image processing server in OpenResty and Lua
-* [JakobOvrum/LuaIRC](https://github.com/JakobOvrum/LuaIRC) - IRC library for Lua
-* [JakobGreen/lua-requests](https://github.com/JakobGreen/lua-requests) - Requests for Lua!
 * [cloudflare/nginx-google-oauth](https://github.com/cloudflare/nginx-google-oauth) - Lua module to add Google OAuth to nginx
-* [torch/xlua](https://github.com/torch/xlua) - A set of useful functions to extend Lua (string, table, ...).
-* [thibaultcha/lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid) - Fast and dependency-free UUID library for LuaJIT/ngx_lua
+* [calio/lua-capnproto](https://github.com/calio/lua-capnproto) - Lua-capnp is a pure lua implementation of capnproto based on luajit.
+* [brimworks/lua-http-parser](https://github.com/brimworks/lua-http-parser) - Lua binding to Ryan Dahl's "http-parser".
 * [stepelu/lua-sci](https://github.com/stepelu/lua-sci) - SciLua: Scientific Computing with LuaJIT
 * [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
-* [hopesoft/nginx-lua-image-module](https://github.com/hopesoft/nginx-lua-image-module) - A nginx module to resize, crop images
-* [calio/lua-capnproto](https://github.com/calio/lua-capnproto) - Lua-capnp is a pure lua implementation of capnproto based on luajit.
-* [APItools/sandbox.lua](https://github.com/APItools/sandbox.lua) - A lua sandbox for executing non-trusted code
-* [Yonaba/Lua-Class-System](https://github.com/Yonaba/Lua-Class-System) - Lua Class System (LCS) is a small library which offers a clean, minimalistic but powerful  API for (Pseudo) Object Oriented programming style using Lua.
+* [JakobOvrum/LuaIRC](https://github.com/JakobOvrum/LuaIRC) - IRC library for Lua
+* [JakobGreen/lua-requests](https://github.com/JakobGreen/lua-requests) - Requests for Lua!
 * [xolox/lua-lxsh](https://github.com/xolox/lua-lxsh) - Lexing & Syntax Highlighting in Lua (using LPeg)
+* [Skycrab/skynet_websocket](https://github.com/Skycrab/skynet_websocket) - skynet websocket(lua)
 * [pintsized/lua-resty-qless](https://github.com/pintsized/lua-resty-qless) - Lua binding to Qless (Queue / Pipeline management) for OpenResty
 * [mfenner/pandoc-jats](https://github.com/mfenner/pandoc-jats) - A Lua custom writer for Pandoc generating JATS XML
-* [medcl/lua-resty-weedfs](https://github.com/medcl/lua-resty-weedfs) - weefs,lua,nginx and file post processing with ffmpeg and graphicsmagick
-* [LuaDist/squish](https://github.com/LuaDist/squish) - Squish Lua libraries and apps into a single compact file.
 * [kikito/sha1.lua](https://github.com/kikito/sha1.lua) - SHA-1 secure hash computation, and HMAC-SHA1 signature computation in Lua (5.1)
-* [emilk/sol](https://github.com/emilk/sol) - Lua + Typesafety = Sol
-* [amireh/lua_cliargs](https://github.com/amireh/lua_cliargs) - A command-line argument parsing module for Lua.
 * [ittner/lua-iconv](https://github.com/ittner/lua-iconv) - Lua bindings for POSIX iconv
 * [hamishforbes/lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) - Library to interface with the consul HTTP API from ngx_lua
+* [APItools/sandbox.lua](https://github.com/APItools/sandbox.lua) - A lua sandbox for executing non-trusted code
+* [Yonaba/Lua-Class-System](https://github.com/Yonaba/Lua-Class-System) - Lua Class System (LCS) is a small library which offers a clean, minimalistic but powerful  API for (Pseudo) Object Oriented programming style using Lua.
+* [LuaDist/squish](https://github.com/LuaDist/squish) - Squish Lua libraries and apps into a single compact file.
 * [EmmanuelOga/easing](https://github.com/EmmanuelOga/easing) - Easing functions implemented in lua (Functions from http://www.robertpenner.com/easing/ )
+* [amireh/lua_cliargs](https://github.com/amireh/lua_cliargs) - A command-line argument parsing module for Lua.
+* [medcl/lua-resty-weedfs](https://github.com/medcl/lua-resty-weedfs) - weefs,lua,nginx and file post processing with ffmpeg and graphicsmagick
+* [kikito/beholder.lua](https://github.com/kikito/beholder.lua) - Minimal observer pattern for Lua, with a couple twists
+* [emilk/sol](https://github.com/emilk/sol) - Lua + Typesafety = Sol
+* [bjornbytes/graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL implementation in Lua
+* [Olivine-Labs/luassert](https://github.com/Olivine-Labs/luassert) - Assertion library for Lua
+* [KSDaemon/wiola](https://github.com/KSDaemon/wiola) - WAMP implementation in LUA
+* [FAForever/fa](https://github.com/FAForever/fa) - Lua code for FAF
+* [bighil/aeslua](https://github.com/bighil/aeslua) - Implementation of aes in nearly pure lua (bitlib is required)
 * [artemshein/luv](https://github.com/artemshein/luv) - [abandoned] Lua MVC web-framework
 * [Wiladams/LAPHLibs](https://github.com/Wiladams/LAPHLibs) - Lua Application Programming Helper Libraries
-* [Skycrab/skynet_websocket](https://github.com/Skycrab/skynet_websocket) - skynet websocket(lua)
-* [KSDaemon/wiola](https://github.com/KSDaemon/wiola) - WAMP implementation in LUA
-* [kikito/beholder.lua](https://github.com/kikito/beholder.lua) - Minimal observer pattern for Lua, with a couple twists
-* [fperrad/lua-Spore](https://github.com/fperrad/lua-Spore) - a generic ReST client
-* [FAForever/fa](https://github.com/FAForever/fa) - Lua code for FAF
-* [dvv/nodemcu-thingies](https://github.com/dvv/nodemcu-thingies) - Assorted set of small Lua modules for nodemcu-firmware
-* [bjornbytes/graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL implementation in Lua
-* [bakpakin/binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [torhve/lua-resty-letsencrypt](https://github.com/torhve/lua-resty-letsencrypt) - Lua script for Nginx to automatically get certificates from LetsEncrypt CA
+* [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
+* [fperrad/lua-Spore](https://github.com/fperrad/lua-Spore) - a generic ReST client
+* [dvv/nodemcu-thingies](https://github.com/dvv/nodemcu-thingies) - Assorted set of small Lua modules for nodemcu-firmware
 * [robmiracle/Simple-Table-Load-Save-Functions-for-Corona-SDK](https://github.com/robmiracle/Simple-Table-Load-Save-Functions-for-Corona-SDK) - Two very simple load and save function to store a Lua Table and Read it back in.  Requires the Corona SDK JSON Library
 * [mindreframer/ProFi.lua](https://github.com/mindreframer/ProFi.lua) - a non-official git mirror for ProFi, a Lua profiler
 * [iamaleksey/lua-zmq](https://github.com/iamaleksey/lua-zmq) - Lua zeromq2 binding
 * [bobsayshilol/luajit-decomp](https://github.com/bobsayshilol/luajit-decomp) - LuaJIT decompiler
-* [bighil/aeslua](https://github.com/bighil/aeslua) - Implementation of aes in nearly pure lua (bitlib is required)
+* [bakpakin/binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [azurewang/lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) - Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [andrewmcwatters/lclass](https://github.com/andrewmcwatters/lclass) - Lua with Classes
-* [stevedonovan/luaish](https://github.com/stevedonovan/luaish) - A Lua REPL with global name tab-completion and a shell sub-mode
-* [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
-* [Olivine-Labs/luassert](https://github.com/Olivine-Labs/luassert) - Assertion library for Lua
 * [zym2014/MoonWarriors-lua](https://github.com/zym2014/MoonWarriors-lua) - 《雷电战机》游戏-Lua移植版
-* [thibaultcha/lua-cassandra](https://github.com/thibaultcha/lua-cassandra) - Pure Lua driver for Apache Cassandra
 * [tanema/behaviourtree.lua](https://github.com/tanema/behaviourtree.lua) - a simple behaviour tree library for lua ported from javascript
+* [stevedonovan/luaish](https://github.com/stevedonovan/luaish) - A Lua REPL with global name tab-completion and a shell sub-mode
+* [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia) - Discord API library written in Lua for the Luvit runtime environment
+* [moteus/lua-llthreads2](https://github.com/moteus/lua-llthreads2) - `llthreads` library rewritten without `LuaNativeObjects` code generator
+* [IronsDu/Joynet](https://github.com/IronsDu/Joynet) - high performance  network library for lua, based on https://github.com/IronsDu/accumulation-dev and lua coroutine.
+* [thibaultcha/lua-cassandra](https://github.com/thibaultcha/lua-cassandra) - Pure Lua driver for Apache Cassandra
+* [gvx/bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT
+* [BlackBulletIV/strong](https://github.com/BlackBulletIV/strong) - A Lua library that makes your strings stronger!
+* [tullamods/Dominos](https://github.com/tullamods/Dominos) - A main actionbar replacement
 * [sroccaserra/object-lua](https://github.com/sroccaserra/object-lua) - [Deprecated] A class-oriented OOP module for Lua
 * [pygy/strung.lua](https://github.com/pygy/strung.lua) - Lua string patterns rewritten in Lua + FFI, for LuaJIT.
 * [ppissanetzky/AndThen](https://github.com/ppissanetzky/AndThen) - Lua Promises library inspired by Q
 * [perky/FEZ](https://github.com/perky/FEZ) - A lua library that helps you create component based projects inspired by Artemis.
 * [peanode/simple-url-shorten](https://github.com/peanode/simple-url-shorten) - 基于Openresty的lua模块开发的简单网址缩短系统，特点是使用Nginx+lua+redis，性能非常高；具有域名黑名单、白名单，支持简单认证；支持自定义短网址；支持自定义短URL长度；支持自定义短网址字符前缀后缀等等
-* [osa1/language-lua](https://github.com/osa1/language-lua) - Lua parser and pretty-printer
-* [moteus/lua-llthreads2](https://github.com/moteus/lua-llthreads2) - `llthreads` library rewritten without `LuaNativeObjects` code generator
 * [JesterXL/Robotlegs-for-Corona](https://github.com/JesterXL/Robotlegs-for-Corona) - Small subset of the ActionScript 3 Robotlegs framework ported to Lua for Corona.
-* [BlackBulletIV/strong](https://github.com/BlackBulletIV/strong) - A Lua library that makes your strings stronger!
+* [bungle/lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) - LuaJIT FFI-based cJSON library for OpenResty.
 * [xfguo/luactor](https://github.com/xfguo/luactor) - A pure Lua (at least for now) Actor Model framework.
 * [skaae/rbm_toolbox_lua](https://github.com/skaae/rbm_toolbox_lua) - Port of RBM_toolbox to lua
+* [SiENcE/astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and rougelike video games
+* [osa1/language-lua](https://github.com/osa1/language-lua) - Lua parser and pretty-printer
 * [mozilla/videur](https://github.com/mozilla/videur) - Lua scripts for Nginx
+* [luakit/luakit-plugins](https://github.com/luakit/luakit-plugins) - Version control for various luakit plugins.
+* [lattejed/a-star-lua](https://github.com/lattejed/a-star-lua) - A clean, simple implementation of the A* pathfinding algorithm for Lua.
 * [jsimmons/mongrel2-lua](https://github.com/jsimmons/mongrel2-lua) - Lua api for the mongrel2 zeromq handler interface
 * [jp-ganis/JPS](https://github.com/jp-ganis/JPS) - Protected LUA DPS Addon
-* [IronsDu/Joynet](https://github.com/IronsDu/Joynet) - high performance  network library for lua, based on https://github.com/IronsDu/accumulation-dev and lua coroutine.
 * [cloudwu/luacc](https://github.com/cloudwu/luacc) - LUACC allows you write C code in lua
-* [bungle/lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) - LuaJIT FFI-based cJSON library for OpenResty.
-* [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia) - Discord API library written in Lua for the Luvit runtime environment
+* [starwing/lua-protobuf](https://github.com/starwing/lua-protobuf) - A Lua module to work with Google protobuf
+* [RealUI/RealUI](https://github.com/RealUI/RealUI) - A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.
 * [neovim/lua-client](https://github.com/neovim/lua-client) - Lua client for Neovim
 * [nczempin/Turres-Monacorum](https://github.com/nczempin/Turres-Monacorum) - scifi tower defense made with löve2d and lua
 * [koreader/android-luajit-launcher](https://github.com/koreader/android-luajit-launcher) - Android NativeActivity based launcher for LuaJIT, implementing the main loop within Lua land via FFI
 * [Jasoco/LOVE-Adventure-Game-Engine](https://github.com/Jasoco/LOVE-Adventure-Game-Engine) - An unfinished adventure game engine in the style of Zelda and modern real-time battle RPG's. To be finished sometime in 2015. Just in time for flying cars, power laces and self-drying jackets. Built with the awesome Lua-powered LÖVE 2D game development tool.
-* [gvx/bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT
-* [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
-* [clementfarabet/lua---csv](https://github.com/clementfarabet/lua---csv) - A package to read and write CSV. Provides high-level database-like handlers.
-* [SiENcE/astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and rougelike video games
-* [Playermet/luajit-tcc](https://github.com/Playermet/luajit-tcc) - Tiny C Compiler 0.9.26 binding for LuaJIT
-* [luakit/luakit-plugins](https://github.com/luakit/luakit-plugins) - Version control for various luakit plugins.
-* [lattejed/a-star-lua](https://github.com/lattejed/a-star-lua) - A clean, simple implementation of the A* pathfinding algorithm for Lua.
 * [grasses/nginx-lua-static-merger](https://github.com/grasses/nginx-lua-static-merger) - Static file merger base on openresty
-* [Eonblast/fleece-lite](https://github.com/Eonblast/fleece-lite) - Fast Lua to JSON
 * [davidm/lua-compress-deflatelua](https://github.com/davidm/lua-compress-deflatelua) - DEFLATE (RFC1951)/gunzip implemented in pure Lua
-* [Yonaba/Allen](https://github.com/Yonaba/Allen) - An utility library to manipulate strings in Lua
+* [cloudflare/raven-lua](https://github.com/cloudflare/raven-lua) - A Lua interface to Sentry
+* [clementfarabet/lua---csv](https://github.com/clementfarabet/lua---csv) - A package to read and write CSV. Provides high-level database-like handlers.
 * [robmiracle/Corona-SDK-RSS-Reader](https://github.com/robmiracle/Corona-SDK-RSS-Reader) - A way to read RSS feeds using Lua and Corona SDK
+* [Playermet/luajit-tcc](https://github.com/Playermet/luajit-tcc) - Tiny C Compiler 0.9.26 binding for LuaJIT
+* [Eonblast/fleece-lite](https://github.com/Eonblast/fleece-lite) - Fast Lua to JSON
+* [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
+* [Yonaba/Allen](https://github.com/Yonaba/Allen) - An utility library to manipulate strings in Lua
 * [ilua/ilua](https://github.com/ilua/ilua) - Interactive Lua
+* [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
+* [davisdude/mlib](https://github.com/davisdude/mlib) - A math and collisions library for Lua.
 * [davidm/lua-fish](https://github.com/davidm/lua-fish) - Parses Lua to abstract syntax tree (AST) using LPeg.
 * [davidm/lua-bit-numberlua](https://github.com/davidm/lua-bit-numberlua) - Bitwise operators in pure Lua using Lua numbers
-* [cloudflare/raven-lua](https://github.com/cloudflare/raven-lua) - A Lua interface to Sentry
 * [bungle/lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) - LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library.
 * [torch/class](https://github.com/torch/class) - Oriented Object Programming for Lua
+* [torch/argcheck](https://github.com/torch/argcheck) - A powerful (and blazing fast) argument checker and function overloading system for Lua or LuaJIT
+* [TeamUlysses/ulx](https://github.com/TeamUlysses/ulx) - ULX: A powerful administration addon for Garry's Mod
+* [tbastos/lift](https://github.com/tbastos/lift) - Lua automation tool and scripting framework
+* [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 * [LPGhatguy/luajit-request](https://github.com/LPGhatguy/luajit-request) - Simple HTTPS for LuaJIT!
-* [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
+* [karai17/lapis-chan](https://github.com/karai17/lapis-chan) - Image board software written in Lua using the Lapis web framework.
+* [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 * [ejmr/Luvent](https://github.com/ejmr/Luvent) - Simple Event Library for Lua
 * [aconbere/vert](https://github.com/aconbere/vert) - Virtual Environments For Lua
-* [torch/argcheck](https://github.com/torch/argcheck) - A powerful (and blazing fast) argument checker and function overloading system for Lua or LuaJIT
-* [tbastos/lift](https://github.com/tbastos/lift) - Lua automation tool and scripting framework
 * [StudioSol/ngx_stats](https://github.com/StudioSol/ngx_stats) - Collect nginx status in lua.
+* [openresty/lua-ssl-nginx-module](https://github.com/openresty/lua-ssl-nginx-module) - NGINX C module that extends ngx_http_lua_module for enhanced SSL/TLS capabilities
 * [nrk/hige](https://github.com/nrk/hige) - {{growing mustaches in your templates with Lua}}
 * [nly/SingleLua](https://github.com/nly/SingleLua) - Simple but powerful ngx_lua web framework
-* [karai17/lapis-chan](https://github.com/karai17/lapis-chan) - Image board software written in Lua using the Lapis web framework.
-* [hnakamur/luajit-examples](https://github.com/hnakamur/luajit-examples) - my example codes for LuaJIT
-* [davisdude/mlib](https://github.com/davisdude/mlib) - A math and collisions library for Lua.
-* [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
-* [openresty/lua-ssl-nginx-module](https://github.com/openresty/lua-ssl-nginx-module) - NGINX C module that extends ngx_http_lua_module for enhanced SSL/TLS capabilities
-* [mlnlover11/XFuscator](https://github.com/mlnlover11/XFuscator) - Most advanced Lua obfuscator 3V4R
 * [koreader/koreader-base](https://github.com/koreader/koreader-base) - Base framework offering a Lua scriptable environment for creating document readers
+* [hnakamur/luajit-examples](https://github.com/hnakamur/luajit-examples) - my example codes for LuaJIT
+* [x25/luajwt](https://github.com/x25/luajwt) - JSON Web Tokens for Lua
+* [sharpobject/panel-attack](https://github.com/sharpobject/panel-attack) - Tetris Attack/Panel de Pon clone in lua with LOVE
+* [seblindfors/ConsolePort](https://github.com/seblindfors/ConsolePort) - ConsolePort - Game Controller Addon for World of Warcraft
+* [mlnlover11/XFuscator](https://github.com/mlnlover11/XFuscator) - Most advanced Lua obfuscator 3V4R
 * [fsantanna/luagravity](https://github.com/fsantanna/luagravity) - LuaGravity is a reactive language that implements the synchronous approach for concurrency.
 * [EvandroLG/computer_science_in_lua](https://github.com/EvandroLG/computer_science_in_lua) - :first_quarter_moon_with_face: Implementation of some classic data structures and algorithms in Lua
 * [eaglewu/nlgm](https://github.com/eaglewu/nlgm) - NLGM (Nginx Lua GraphicsMagick)
 * [cloudwu/luareload](https://github.com/cloudwu/luareload) - reload a lua module
 * [asamy/forgottenmapeditor](https://github.com/asamy/forgottenmapeditor) - Map editor written in lua for Open Tibia.  Written with OtClient's framework.
 * [06wj/cocos2d_lua_snippets](https://github.com/06wj/cocos2d_lua_snippets) - cocos2d-x lua snippets for sublime text
-* [x25/luajwt](https://github.com/x25/luajwt) - JSON Web Tokens for Lua
+* [TeamUlysses/ulib](https://github.com/TeamUlysses/ulib) - ULib: A Lua library for more rapid development on Garry's Mod servers
 * [Sorroko/cclite](https://github.com/Sorroko/cclite) - A cc emulator written in lua
-* [sharpobject/panel-attack](https://github.com/sharpobject/panel-attack) - Tetris Attack/Panel de Pon clone in lua with LOVE
+* [robertswan/diorama-game](https://github.com/robertswan/diorama-game) - The moddable lua scripts that drive the game
 * [laomoi/lua_complete_eclipse](https://github.com/laomoi/lua_complete_eclipse) - Parse lua files to make execution environment for lua/eclipse/ldt
+* [jirutka/ngx-oauth](https://github.com/jirutka/ngx-oauth) - OAuth 2.0 proxy for nginx written in Lua.
 * [grandquista/Lua-ReQL](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua
 * [weshoke/DSL](https://github.com/weshoke/DSL) - Domain Specific Language generator for Lua
 * [tcjennings/LUA-RFC-4122-UUID-Generator](https://github.com/tcjennings/LUA-RFC-4122-UUID-Generator) - Pure Lua Implementation of RFC 4122-compliant v4 pseudorandom UUID generator. Also includes an RFC 4122-compliant v5 SHA1-based UUID generator (bring your own crypto library). Both modules use the same license as Lua (the MIT license).
 * [starius/lua-lru](https://github.com/starius/lua-lru) - LRU cache in Lua
 * [sergeyzavadski/breeze](https://github.com/sergeyzavadski/breeze) - High performance lua execution environment
-* [robertswan/diorama-game](https://github.com/robertswan/diorama-game) - The moddable lua scripts that drive the game
+* [rrfeng/lua-resty-upstream-etcd](https://github.com/rrfeng/lua-resty-upstream-etcd) - A OpenResty lua module that can use upstream config in etcd, Like nginx-upsync-module.
+* [rizaumami/merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
 * [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) - A unified http/s client library for lua
 * [kikito/memoize.lua](https://github.com/kikito/memoize.lua) - memoized functions in lua
-* [jirutka/ngx-oauth](https://github.com/jirutka/ngx-oauth) - OAuth 2.0 proxy for nginx written in Lua.
 * [fperrad/lua-TestMore](https://github.com/fperrad/lua-TestMore) - an Unit Testing Framework
+* [danShumway/Piglet](https://github.com/danShumway/Piglet) - A LUA driven AI that plays classic gameboy color games using experimentation.
 * [bungle/lua-resty-random](https://github.com/bungle/lua-resty-random) - LuaJIT FFI-based Random Library for OpenResty.
+* [xinmingyao/skynet_web](https://github.com/xinmingyao/skynet_web) - http websocket  support lua skynet
 * [WetDesertRock/vivid](https://github.com/WetDesertRock/vivid) - Vivid is a simple lua library for dealing with simple color math.
 * [timebug/lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) - 17MonIP parsing library for ngx_lua.
-* [rrfeng/lua-resty-upstream-etcd](https://github.com/rrfeng/lua-resty-upstream-etcd) - A OpenResty lua module that can use upstream config in etcd, Like nginx-upsync-module.
+* [Stepets/utf8.lua](https://github.com/Stepets/utf8.lua) - one-file pure-lua 5.1 regex library
+* [rdlaitila/LURE](https://github.com/rdlaitila/LURE) - Lua User Interface Rendering engine
 * [mkottman/lua-git](https://github.com/mkottman/lua-git) - An attempt to implement the basics of Git in pure Lua
 * [lipp/nodish](https://github.com/lipp/nodish) - A Lightweight Lua equivalent to Node.js
 * [kengonakajima/lua-msgpack](https://github.com/kengonakajima/lua-msgpack) - msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.
-* [danShumway/Piglet](https://github.com/danShumway/Piglet) - A LUA driven AI that plays classic gameboy color games using experimentation.
+* [elihugarret/Moonlet](https://github.com/elihugarret/Moonlet) - Live coding with Lua.
+* [bsm/lua-resty-http](https://github.com/bsm/lua-resty-http) - Lua HTTP client driver for ngx_lua
 * [agentzh/lua-tablepool](https://github.com/agentzh/lua-tablepool) - Lua table recycling pools for LuaJIT
+* [tomasguisasola/luasoap](https://github.com/tomasguisasola/luasoap) - LuaSOAP provides a very simple API that convert Lua tables to and from XML documents
 * [thehunmonkgroup/jester](https://github.com/thehunmonkgroup/jester) - Scripting toolkit for FreeSWITCH written in the Lua programming language
-* [TeamUlysses/ulib](https://github.com/TeamUlysses/ulib) - ULib: A Lua library for more rapid development on Garry's Mod servers
-* [Stepets/utf8.lua](https://github.com/Stepets/utf8.lua) - one-file pure-lua 5.1 regex library
 * [silentbicycle/sidereal](https://github.com/silentbicycle/sidereal) - Redis library for Lua, with optional non-blocking mode and Lua-style lists & sets.
-* [rdlaitila/LURE](https://github.com/rdlaitila/LURE) - Lua User Interface Rendering engine
 * [moteus/luacov-coveralls](https://github.com/moteus/luacov-coveralls) - LuaCov reporter for coveralls.io service
 * [Moones/-OLD-Ensage-scripts](https://github.com/Moones/-OLD-Ensage-scripts) - Lua scripts for Ensage (Outdated)
+* [libmoon/libmoon](https://github.com/libmoon/libmoon) - libmoon is a library for fast and flexible packet processing with DPDK and LuaJIT.
+* [JaapBraam/LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway) - A LoRaWan Gateway in LUA
+* [fffonion/lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) - SNI Proxy based on ngx_stream_lua_module
 * [daly88/lutem](https://github.com/daly88/lutem) - a lua template engine like a famous python template engine jinja2
-* [bsm/lua-resty-http](https://github.com/bsm/lua-resty-http) - Lua HTTP client driver for ngx_lua
 * [zm33y/vlc-lua-sia](https://github.com/zm33y/vlc-lua-sia) - Say It Again - a VLC player extension that offers "per-phrase" video navigation and words lookup with export to Anki
-* [tomasguisasola/luasoap](https://github.com/tomasguisasola/luasoap) - LuaSOAP provides a very simple API that convert Lua tables to and from XML documents
 * [simeon/Drazzard](https://github.com/simeon/Drazzard) - :video_game: Arcade survival video game written in Lua
 * [Mogara/LuaSkillsForQSGS](https://github.com/Mogara/LuaSkillsForQSGS) - 新版太阳神三国杀武将技能代码速查手册（Lua版）
 * [mkosler/LoveAStar](https://github.com/mkosler/LoveAStar) - A* search, written in Lua, for use in the LOVE 2D game engine
 * [mikelovesrobots/lua-enumerable](https://github.com/mikelovesrobots/lua-enumerable) - A port of ruby's Enumerable module to Lua
+* [MattJeanes/TARDIS](https://github.com/MattJeanes/TARDIS) - Time and Relative Dimension in Space. Now in your Garry's Mod.
+* [koenwtje/awesome-batteryInfo](https://github.com/koenwtje/awesome-batteryInfo) - lua function to get a formatted string with the current battery status. Can be used to fill a text widget in the awesome window manager.
 * [keplerproject/lua-compat-5.2](https://github.com/keplerproject/lua-compat-5.2) - Compatibility module providing Lua-5.2-style APIs for Lua 5.1
+* [jasonsantos/remdebug](https://github.com/jasonsantos/remdebug) - Remote debugger for Lua using LuaSocket. RemDebug offers breakpoints, inspection, step into, step over and watch expressions using a simple command-line controller. The protocol allows the use of the debugger engine with other client interfaces.
 * [jamesmarlowe/lua-resty-s3](https://github.com/jamesmarlowe/lua-resty-s3) - Lua driver for uploading content to amazon s3
+* [icowan/lua-resty-17mon](https://github.com/icowan/lua-resty-17mon) - IP数据库之openresty版
 * [hprose/hprose-lua](https://github.com/hprose/hprose-lua) - Hprose for Lua
-* [fffonion/lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) - SNI Proxy based on ngx_stream_lua_module
-* [elihugarret/Moonlet](https://github.com/elihugarret/Moonlet) - Live coding with Lua.
 * [chetannaik/learning_torch](https://github.com/chetannaik/learning_torch) - Learning to program in Lua using "Torch" and other useful libraries
 * [catwell/cw-lua](https://github.com/catwell/cw-lua) - Catwell's Lua playground
+* [bsm/fakengx](https://github.com/bsm/fakengx) - Library for testing Lua scripts embedded into Nginx
 * [adriweb/EEPro-for-Nspire](https://github.com/adriweb/EEPro-for-Nspire) - FormulaPro: An open-source EEPro-like application for the TI-Nspire, written in Lua.
-* [xinmingyao/skynet_web](https://github.com/xinmingyao/skynet_web) - http websocket  support lua skynet
 * [timotta/wrk-scripts](https://github.com/timotta/wrk-scripts) - Script Lua to work better with wrk
 * [TheLinx/ltwitter](https://github.com/TheLinx/ltwitter) - A Twitter API wrapper for Lua.
 * [slact/lua-ohm](https://github.com/slact/lua-ohm) - Lua Redis Object-hash-mapping and more
 * [Olivine-Labs/mediator_lua](https://github.com/Olivine-Labs/mediator_lua) - Mediator pattern implementation for pub-sub management
+* [Neopallium/lua-nanomsg](https://github.com/Neopallium/lua-nanomsg) - Lua bindings to NanoMsg
 * [lipp/lua-jet](https://github.com/lipp/lua-jet) - Realtime Message Bus for the Web. Lua Implementation
 * [kikito/semver.lua](https://github.com/kikito/semver.lua) - Semantic versioning for Lua
-* [icowan/lua-resty-17mon](https://github.com/icowan/lua-resty-17mon) - IP数据库之openresty版
 * [GravityScore/LuaIDE](https://github.com/GravityScore/LuaIDE) - An in-game IDE for ComputerCraft
 * [creationix/lua-git](https://github.com/creationix/lua-git) - Git implementation in pure lua for luvit.
 * [cornelisse/LuaFSM](https://github.com/cornelisse/LuaFSM) - Finite State Machine library for Lua
 * [camchenry/sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games.
-* [bsm/fakengx](https://github.com/bsm/fakengx) - Library for testing Lua scripts embedded into Nginx
 * [bartbes/lovelybigplanet](https://github.com/bartbes/lovelybigplanet) - A lua implementation of LittleBigPlanet created with LÖVE.
 * [woothee/lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) - Woothee Lua-Openresty implementation
 * [stevedonovan/Orbiter](https://github.com/stevedonovan/Orbiter) - A personal Lua Web Application Server
-* [Neopallium/lua-nanomsg](https://github.com/Neopallium/lua-nanomsg) - Lua bindings to NanoMsg
 * [Nayruden/ns2lua](https://github.com/Nayruden/ns2lua) - A collaborative effort to hack and improve lua with the new Natural Selection 2 engine. Join the discussion at #ns2devs on irc.gamesurge.net
 * [LuaJIT/LuaJIT-test-cleanup](https://github.com/LuaJIT/LuaJIT-test-cleanup) - Cleanup Workspace for LuaJIT tests
-* [koenwtje/awesome-batteryInfo](https://github.com/koenwtje/awesome-batteryInfo) - lua function to get a formatted string with the current battery status. Can be used to fill a text widget in the awesome window manager.
-* [jasonsantos/remdebug](https://github.com/jasonsantos/remdebug) - Remote debugger for Lua using LuaSocket. RemDebug offers breakpoints, inspection, step into, step over and watch expressions using a simple command-line controller. The protocol allows the use of the debugger engine with other client interfaces.
 * [itdxer/4DaysORM](https://github.com/itdxer/4DaysORM) - Lua 4Days ORM for sqlite3 and mysql
 * [bakins/lua-resty-riak](https://github.com/bakins/lua-resty-riak) - Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API
+* [yestein/cocos_lua](https://github.com/yestein/cocos_lua) - It is a pure Lua framework contains Game Logic for mobile game developing. It can works on cocos2d-x 3.0~3.2, and can  easiy suit for furture versions
 * [timn/lua-xmlrpc](https://github.com/timn/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
+* [superzazu/denver.lua](https://github.com/superzazu/denver.lua) - a simple library to help you play custom waveforms with LÖVE
+* [siffiejoe/lua-amalg](https://github.com/siffiejoe/lua-amalg) - Amalgamation of Lua modules/scripts
+* [pygy/require.lua](https://github.com/pygy/require.lua) - `require()` rewritten in plain Lua
 * [nenofite/mm](https://github.com/nenofite/mm) - A delicious Lua inspector 🍒🍪🍰
 * [moteus/lua-path](https://github.com/moteus/lua-path) - File system path manipulation library
 * [mikejsavage/flea](https://github.com/mikejsavage/flea) - A lightweight Lua web framework
 * [linkedin/dmarc-msys](https://github.com/linkedin/dmarc-msys) - This set of scripts in Lua implements DMARC policy checking and reporting for the Message Systems MTA products, a popular extendable commercial MTA.
 * [khaledhosny/luaotfload](https://github.com/khaledhosny/luaotfload) - Moved to https://github.com/lualatex/luaotfload
 * [joshtynjala/gtween.lua](https://github.com/joshtynjala/gtween.lua) - Port of Grant Skinner's GTween to Lua for Corona SDK
+* [ioddly/love-repl](https://github.com/ioddly/love-repl) - Magic-free in-game REPL for the Love game engine
 * [fperrad/lua-CodeGen](https://github.com/fperrad/lua-CodeGen) - a template engine
 * [bakpakin/Splash.lua](https://github.com/bakpakin/Splash.lua) - 2D Spatial Hashing in Lua
 * [akbooer/openLuup](https://github.com/akbooer/openLuup) -  a pure-Lua open-source emulation of the Vera Luup environment
-* [yestein/cocos_lua](https://github.com/yestein/cocos_lua) - It is a pure Lua framework contains Game Logic for mobile game developing. It can works on cocos2d-x 3.0~3.2, and can  easiy suit for furture versions
+* [zackdreaver/ROenglishRE](https://github.com/zackdreaver/ROenglishRE) - Ragnarok Online REnewal english translation
 * [timn/roslua](https://github.com/timn/roslua) - ROS Client Library for Lua
-* [siffiejoe/lua-amalg](https://github.com/siffiejoe/lua-amalg) - Amalgamation of Lua modules/scripts
-* [r-lyeh/AVA](https://github.com/r-lyeh/AVA) - A tiny 3D game engine in C++, with C and Lua interfaces. Written in 32 random d̶a̶y̶s̶ m̶o̶n̶t̶h̶s̶ years.
-* [pygy/require.lua](https://github.com/pygy/require.lua) - `require()` rewritten in plain Lua
+* [tietang/ngx-lua-zuul](https://github.com/tietang/ngx-lua-zuul) - 基于Nginx&Lua 和Netflix Eureka的微服务网关。
+* [svof/svof](https://github.com/svof/svof) - Svof is an AI system for Achaea, an online MUD. It has advanced and adaptable curing capabilities, defence raising, and addons.
+* [r-lyeh/AVA](https://github.com/r-lyeh/AVA) - A tiny 3D game engine in C++, with C and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
+* [perusio/lua-resty-tarantool](https://github.com/perusio/lua-resty-tarantool) - Library for working with tarantool from nginx with the embedded Lua module or with Openresty
 * [pakozm/lua-mapreduce](https://github.com/pakozm/lua-mapreduce) - Lua-MapReduce framework implemented in Lua using luamongo driver and MongoDB as storage. It follows Iterative MapReduce for training of Machine Learning statistical models.
 * [lovelyrpgcommunity/A-Whiff-of-Steam](https://github.com/lovelyrpgcommunity/A-Whiff-of-Steam) - This is LövelyRPG project, community initiative aiming to create open source role playing game using Lua and Love 2D engine.
+* [love2d-community/splashes](https://github.com/love2d-community/splashes) - A collection of splash screens for LÖVE
+* [lloydzhou/lua-resty-cache](https://github.com/lloydzhou/lua-resty-cache) - http cache to redis, can server stale response, and using "lua-resty-lock" only allow one request to populate a new cache
 * [Kinematics/GearSwap-Jobs](https://github.com/Kinematics/GearSwap-Jobs) - Repository for GearSwap lua files for various jobs
+* [fcambus/motyl](https://github.com/fcambus/motyl) - Opinionated static site generator written in Lua
 * [catwell/lua-toolbox](https://github.com/catwell/lua-toolbox) - Lua Toolbox website (deprecated)
+* [cappelnord/EzSVG](https://github.com/cappelnord/EzSVG) - A Lua library for easy SVG generation
+* [boyliang/lua_badboy](https://github.com/boyliang/lua_badboy) - Some useful tools for lua
 * [blitmap/lua-utf8-simple](https://github.com/blitmap/lua-utf8-simple) - Basic UTF8-handling functions for Lua
 * [Yonaba/strictness](https://github.com/Yonaba/strictness) - Tracks accesses and assignments of undefined variables in Lua
+* [wrxck/mattata](https://github.com/wrxck/mattata) - A powerful, plugin-based, multi-purpose Telegram bot designed to serve a wide variety of purposes
 * [tonetheman/love_shaders](https://github.com/tonetheman/love_shaders) - some shaders that work for love lua 0.9.1
 * [thehunmonkgroup/luchia](https://github.com/thehunmonkgroup/luchia) - Lua API for CouchDB
-* [superzazu/denver.lua](https://github.com/superzazu/denver.lua) - a simple library to help you play custom waveforms with LÖVE
 * [singularity-is-i/SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua) - This is a quick and dirty way to extract path coordinates which can be used Corona SDK using Lua scripting Language
 * [simoncozens/cassowary.lua](https://github.com/simoncozens/cassowary.lua) - A port of the cassowary constraint solver engine to lua
 * [shenzhan168/crushGame](https://github.com/shenzhan168/crushGame) - 三消游戏 源码 ，使用quick-lua 3.3 开发
 * [salmito/leda](https://github.com/salmito/leda) - Leda is a SEDA (Staged Event-Driven Architecture) implementation in Lua.
-* [robotboy655/gmod-lua-menu](https://github.com/robotboy655/gmod-lua-menu) - A Lua powered ( No HTML ) main menu for Garry's Mod.
+* [rizaumami/tdcli.lua](https://github.com/rizaumami/tdcli.lua) - A simple Lua library for the telegram-cli
 * [randrews/color](https://github.com/randrews/color) - An ANSI color library for Lua
+* [Playermet/luajit-glfw](https://github.com/Playermet/luajit-glfw) - GLFW binding for LuaJIT
+* [mlepage/heightmap](https://github.com/mlepage/heightmap) - Simple heightmap module for Lua. Uses the diamond-square algorithm to generate realistic terrain. MIT license.
 * [MINIONBOTS/GW2Minion](https://github.com/MINIONBOTS/GW2Minion) - The LUA-Bot-Module for guild wars 2 from mmominion.com
 * [luoxinliang/pomelo_quick_x](https://github.com/luoxinliang/pomelo_quick_x) - pomelo lua(quick-cocos2d-x) client.
 * [luapower/winapi](https://github.com/luapower/winapi) - winapi Lua+ffi binding
-* [luaforge/html](https://github.com/luaforge/html) - Library for parsing HTML, writen in pure-Lua.
 * [LPGhatguy/luajit-ffipp](https://github.com/LPGhatguy/luajit-ffipp) - (PROTOTYPE) A proof-of-concept C++ FFI for LuaJIT
-* [lloydzhou/lua-resty-cache](https://github.com/lloydzhou/lua-resty-cache) - http cache to redis, can server stale response, and using "lua-resty-lock" only allow one request to populate a new cache
+* [KSDaemon/Loowy](https://github.com/KSDaemon/Loowy) - LUA WAMP client
 * [JesterXL/PlaneShooter](https://github.com/JesterXL/PlaneShooter) - A simple plane shooter in Lua for Corona that mimics 1942 gameplay.
+* [iamwilhelm/frock](https://github.com/iamwilhelm/frock) - A flocking simulation written in Lua Love
 * [hishamhm/datafile](https://github.com/hishamhm/datafile) - A Lua library for handling paths when loading data files
 * [ErnieE5/ee5_base64](https://github.com/ErnieE5/ee5_base64) - Lua base64 encoding
 * [darkstalker/LuaTwit](https://github.com/darkstalker/LuaTwit) - Lua library for accessing the Twitter REST and Streaming API v1.1
 * [ccppluagopy/pomeloTolua4cocos2dxChat](https://github.com/ccppluagopy/pomeloTolua4cocos2dxChat) - provides some API binded to lua using libpomelo and cocos2dx-3.0
-* [boyliang/lua_badboy](https://github.com/boyliang/lua_badboy) - Some useful tools for lua
-* [tietang/ngx-lua-zuul](https://github.com/tietang/ngx-lua-zuul) - 基于Nginx&Lua 和Netflix Eureka的微服务网关。
-* [Playermet/luajit-glfw](https://github.com/Playermet/luajit-glfw) - GLFW binding for LuaJIT
+* [stvp/lua-statsd-client](https://github.com/stvp/lua-statsd-client) - Statsd client for Lua
+* [robotboy655/gmod-lua-menu](https://github.com/robotboy655/gmod-lua-menu) - A Lua powered ( No HTML ) main menu for Garry's Mod.
 * [neomantra/nm-luajit-playground](https://github.com/neomantra/nm-luajit-playground) - LuaJIT-oriented code, particularly FFI bindings
-* [mlepage/heightmap](https://github.com/mlepage/heightmap) - Simple heightmap module for Lua. Uses the diamond-square algorithm to generate realistic terrain. MIT license.
-* [KSDaemon/Loowy](https://github.com/KSDaemon/Loowy) - LUA WAMP client
-* [JaapBraam/LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway) - A LoRaWan Gateway in LUA
+* [luaforge/html](https://github.com/luaforge/html) - Library for parsing HTML, writen in pure-Lua.
+* [iryont/lua-struct](https://github.com/iryont/lua-struct) - Implementation of binary packing/unpacking in pure lua
 * [IonoclastBrigham/firth](https://github.com/IonoclastBrigham/firth) - A simple Forth-like language intended for DSL creation, implemented in Lua.
-* [iamwilhelm/frock](https://github.com/iamwilhelm/frock) - A flocking simulation written in Lua Love
 * [Fizzadar/Luawa](https://github.com/Fizzadar/Luawa) - Lua Web Application (Framework)
-* [fcambus/motyl](https://github.com/fcambus/motyl) - Opinionated static site generator written in Lua
+* [excessive/cdata](https://github.com/excessive/cdata) - Serialize Lua tables to C structs and strings.
 * [devyte/nodemcu-platform](https://github.com/devyte/nodemcu-platform) - A platform to serve as a base for nodemcu-firmware Lua applications
 * [DawnAngel/lua-nats](https://github.com/DawnAngel/lua-nats) - LUA client for NATS messaging system. https://nats.io
+* [calio/luaflow](https://github.com/calio/luaflow) - A tool like GNU cflow but for Lua programming language
 * [budda/hc2-scenes](https://github.com/budda/hc2-scenes) - Fibaro Home Centre 2 Scenes written in LUA
 * [bowerhaus/BhWax](https://github.com/bowerhaus/BhWax) - Wax is a Lua to ObjectiveC bridge. This version is tuned for Gideros SDK.
 * [batrick/lunadry](https://github.com/batrick/lunadry) - A code formatter in Lua.
@@ -483,85 +522,85 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [zhhchen/lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) - Lua gearman client driver for the ngx_lua based on the cosocket API
 * [yandex-sysmon/nginx-lua-stats](https://github.com/yandex-sysmon/nginx-lua-stats) - Collect nginx reply statuses.
 * [Team-CC-Corp/JVML-JIT](https://github.com/Team-CC-Corp/JVML-JIT) - A continuation of JVML which JITs Java bytecode to Lua bytecode rather than interpreting.
-* [stvp/lua-statsd-client](https://github.com/stvp/lua-statsd-client) - Statsd client for Lua
+* [Sulunia/beatfever](https://github.com/Sulunia/beatfever) - An open-source reimplementation of the osu! "game engine" in Lua/Love2d
 * [saucisson/lua-coronest](https://github.com/saucisson/lua-coronest) - Lua coroutines that allow nesting
 * [rxi/coil](https://github.com/rxi/coil) - A tiny cooperative threading module for Lua
 * [rohitjoshi/lua-mapreduce](https://github.com/rohitjoshi/lua-mapreduce) - Map Reduce implemented in Lua
-* [perusio/lua-resty-tarantool](https://github.com/perusio/lua-resty-tarantool) - Library for working with tarantool from nginx with the embedded Lua module or with Openresty
+* [philnelson/A-Star-Pathfinding-For-Lua](https://github.com/philnelson/A-Star-Pathfinding-For-Lua) - This is an A* (A-Star) pathfinding algorithm for the Lua programming language.
 * [openresty/lua-resty-shdict-simple](https://github.com/openresty/lua-resty-shdict-simple) - Simple applicaton-oriented interface to the OpenResty shared dictionary API
 * [openresty/lua-resty-memcached-shdict](https://github.com/openresty/lua-resty-memcached-shdict) - Powerful memcached client with a shdict caching layer and many other features
+* [MINIONBOTS/FFXIVMinion](https://github.com/MINIONBOTS/FFXIVMinion) - The LUA-Bot-Module for FFXIVMinion, from MMOMinion.com
 * [mascarenhas/cosmo](https://github.com/mascarenhas/cosmo) - Cosmo is a “safe templates” engine for Lua.
 * [markandgo/text.lua](https://github.com/markandgo/text.lua) - Fancy text library for LOVE
 * [luapower/nw](https://github.com/luapower/nw) - native windows for Lua
 * [kstep/scheme.lua](https://github.com/kstep/scheme.lua) - Simple Scheme interpreter written in Lua
+* [Kamikaze94/WolfHUD](https://github.com/Kamikaze94/WolfHUD) - Payday 2 HUD
+* [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
 * [jnwhiteh/luasandbox](https://github.com/jnwhiteh/luasandbox) - A fairly simple and robust Lua sandbox
 * [iopass4/behavior3-lua](https://github.com/iopass4/behavior3-lua) - behavior3-lua
+* [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
 * [gvvaughan/specl](https://github.com/gvvaughan/specl) - Behaviour Driven Development for Lua.
 * [GloryFish/lua-astar](https://github.com/GloryFish/lua-astar) - A simple implementation of the A* (A Star) pathfinding algorithm for lua
+* [FlightControl-Master/MOOSE](https://github.com/FlightControl-Master/MOOSE) - Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World
+* [eugeneia/s-lua](https://github.com/eugeneia/s-lua) - S-Lua, S-expressions and Macros for Lua
 * [DracoBlue/lua-oauth](https://github.com/DracoBlue/lua-oauth) - OAuth Implementation for Lua
 * [daurnimator/mongol](https://github.com/daurnimator/mongol) - A lua driver for mongodb
 * [CapsAdmin/ffibuild](https://github.com/CapsAdmin/ffibuild) - ffibuild is a utility for generating C bindings for luajit using ffi and wrap them safe (if you want) lua code
+* [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework
+* [betaflight/betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts) - Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx)
 * [YoRyan/awesome-redshift](https://github.com/YoRyan/awesome-redshift) - A small, simple lua library for interfacing the Awesome window manager with redshift.
 * [weshoke/codepeg](https://github.com/weshoke/codepeg) - General lexing / parsing and AST manipulation using Lua and listlpeg
+* [vzhong/CoreNLP.lua](https://github.com/vzhong/CoreNLP.lua) - Lua client for Stanford CoreNLP
 * [tst2005/lua-utf8](https://github.com/tst2005/lua-utf8) - [#####] Lua UTF8 limited support in pure lua script
 * [silentbicycle/lua-memcached](https://github.com/silentbicycle/lua-memcached) - A Lua client for memcached, with optional non-blocking mode.
-* [Shrike78/Shilke2D](https://github.com/Shrike78/Shilke2D) - MOAI Lua porting of the AS3 Starling Framework
 * [sacek/Luajit-LPEG](https://github.com/sacek/Luajit-LPEG) - LPeg v.10 virtual machine and capture evaluator implemented in LuaJIT 2.x
 * [rrthomas/lua-rlcompleter](https://github.com/rrthomas/lua-rlcompleter) - Readline completion for Lua: DEPRECATED IN FAVOUR OF http://smbolton.com/lua.html
 * [robinef/ua-lua](https://github.com/robinef/ua-lua) - LUA User-Agent detector
+* [Redsmin/redis-lua-unit](https://github.com/Redsmin/redis-lua-unit) - Redis-lua-unit - Framework agnostic unit-testing for Redis Lua scripts
 * [qbolec/Redis-Tree](https://github.com/qbolec/Redis-Tree) - LUA scripts which provide a tree index for Redis
-* [philnelson/A-Star-Pathfinding-For-Lua](https://github.com/philnelson/A-Star-Pathfinding-For-Lua) - This is an A* (A-Star) pathfinding algorithm for the Lua programming language.
 * [mrkulk/Julia-Torch](https://github.com/mrkulk/Julia-Torch) - Interface between Julia and Torch (Lua) using ZMQ
-* [MINIONBOTS/FFXIVMinion](https://github.com/MINIONBOTS/FFXIVMinion) - The LUA-Bot-Module for FFXIVMinion, from MMOMinion.com
 * [martinfelis/luatablediff](https://github.com/martinfelis/luatablediff) - Diffing and patching for Lua tables
+* [maiome-development/lsso](https://github.com/maiome-development/lsso) - Nginx SSO middleware for protecting your internets.
 * [LuaDist/luasrcdiet](https://github.com/LuaDist/luasrcdiet) - LuaSrcDiet - Compresses Lua source code by removing unnecessary characters.
 * [leafo/tableshape](https://github.com/leafo/tableshape) - Test the shape or structure of a Lua table, inspired by React.PropTypes
+* [knq/nginx-crowd-lua](https://github.com/knq/nginx-crowd-lua) - Simple Lua based authentication script for nginx designed to authenticate against Atlassian Crowd
 * [JakobOvrum/ircbot](https://github.com/JakobOvrum/ircbot) - IRC bot framework in Lua.
-* [iryont/lua-struct](https://github.com/iryont/lua-struct) - Implementation of binary packing/unpacking in pure lua
-* [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
 * [dualface/easycocos-lua-framework](https://github.com/dualface/easycocos-lua-framework) - The Game Framework for Cocos2d-x Lua
 * [davidm/lua-compat-env](https://github.com/davidm/lua-compat-env) - Lua 5.1/5.2 environment compatibility functions.
 * [catwell/lua-multipart-post](https://github.com/catwell/lua-multipart-post) - HTTP Multipart Post helper that does just that.
 * [catwell/haricot](https://github.com/catwell/haricot) - Beanstalk client for Lua
-* [cappelnord/EzSVG](https://github.com/cappelnord/EzSVG) - A Lua library for easy SVG generation
-* [calio/luaflow](https://github.com/calio/luaflow) - A tool like GNU cflow but for Lua programming language
-* [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework
+* [bakpakin/corope](https://github.com/bakpakin/corope) - Lua threading utility using coroutines.
 * [azurewang/Nginx_Lua-FastDFS](https://github.com/azurewang/Nginx_Lua-FastDFS) - nginx_lua fastdfs module
 * [AterCattus/luaghetti](https://github.com/AterCattus/luaghetti) - Spaghetti html+lua code templater inside nginx
 * [AshleighAdams/LuaFlare](https://github.com/AshleighAdams/LuaFlare) - An entire web server written in Lua.
 * [alekso56/ComputercraftLua](https://github.com/alekso56/ComputercraftLua) - A history of changes made in the ROM/BIOS of CC     --
 * [ZhaoTianze/A-Star-PathFinder](https://github.com/ZhaoTianze/A-Star-PathFinder) - A星寻路算法 for cocos2dx-lua
 * [YakLabs/kube-openresty-ingress](https://github.com/YakLabs/kube-openresty-ingress) - Kubernetes Ingress Controller using Lua in Openresty
-* [Wikia/api-gateway](https://github.com/Wikia/api-gateway) - Wikia API Gateway (nginx+lua)
-* [vzhong/CoreNLP.lua](https://github.com/vzhong/CoreNLP.lua) - Lua client for Stanford CoreNLP
 * [Tieske/pe-parser](https://github.com/Tieske/pe-parser) - Lua module to parse a Portable Executable (.exe , .dll, etc.) file and extract metadata
 * [stepelu/lua-time](https://github.com/stepelu/lua-time) - Time: Dates and Periods in Lua
 * [soveran/resp](https://github.com/soveran/resp) - Lightweight RESP client for Lua
 * [sonoro1234/Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client for supercollider scsynth and supernova
-* [rizaumami/tdcli.lua](https://github.com/rizaumami/tdcli.lua) - A simple Lua library for the telegram-cli
-* [Redsmin/redis-lua-unit](https://github.com/Redsmin/redis-lua-unit) - Redis-lua-unit - Framework agnostic unit-testing for Redis Lua scripts
+* [siffiejoe/lua-microscope](https://github.com/siffiejoe/lua-microscope) - Creates images of arbitrary Lua values using GraphViz
+* [Shrike78/Shilke2D](https://github.com/Shrike78/Shilke2D) - MOAI Lua porting of the AS3 Starling Framework
+* [philanc/plc](https://github.com/philanc/plc) - Pure Lua Crypto
 * [norman/grackle](https://github.com/norman/grackle) - A static blog generator written in Lua
 * [nodchip/fceux-lua-simulated-annealing](https://github.com/nodchip/fceux-lua-simulated-annealing) - An implementation of Simulated Annealing for FCEUX Lua Script to search NES input sequence automatically.
+* [mozilla-services/lua_sandbox_extensions](https://github.com/mozilla-services/lua_sandbox_extensions) - Extension packages (sandboxes and modules) for the lua_sandbox project
 * [mimetic/corona-styled-textwrap](https://github.com/mimetic/corona-styled-textwrap) - (Replaced by corona-textrender) A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, and even basic font metrics.
 * [maurits150/simploo](https://github.com/maurits150/simploo) - Simple Lua Object Orientation
 * [lua-carbon/carbon](https://github.com/lua-carbon/carbon) - The standard library Lua never had!
-* [knq/nginx-crowd-lua](https://github.com/knq/nginx-crowd-lua) - Simple Lua based authentication script for nginx designed to authenticate against Atlassian Crowd
 * [kmarkus/rFSM](https://github.com/kmarkus/rFSM) - rFSM is a lightweight Statechart implementation in Lua
 * [kevinlekiller/mpv_scripts](https://github.com/kevinlekiller/mpv_scripts) - Various lua scripts for the http://mpv.io video player.
 * [katcipis/luanotify](https://github.com/katcipis/luanotify) - Luanotify is a Lua package providing tools for implementing observer programming pattern
-* [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
 * [jagt/pprint.lua](https://github.com/jagt/pprint.lua) - yet another lua pretty printer
 * [h4rm/luafft](https://github.com/h4rm/luafft) - Lua package that includes functions for Fast Fourier Transformations.
 * [grosskur/lua-resty-aws](https://github.com/grosskur/lua-resty-aws) - AWS signature V4 library for OpenResty + Lua
-* [FlightControl-Master/MOOSE](https://github.com/FlightControl-Master/MOOSE) - Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World
-* [eugeneia/s-lua](https://github.com/eugeneia/s-lua) - S-Lua, S-expressions and Macros for Lua
 * [denglf/FormatLua](https://github.com/denglf/FormatLua) - Formatting lua to a more readable form by using Lua Development Tools library.
 * [db4linq/lua](https://github.com/db4linq/lua) - NodeMCU Example
 * [davidm/lua-annotate](https://github.com/davidm/lua-annotate) - C code comments externally stored but displayed inline
 * [cucumber/cucumber-lua](https://github.com/cucumber/cucumber-lua) - A cucumber wire protocol implementation for Lua step definitions
 * [ColonelThirtyTwo/lsqlite3-ffi](https://github.com/ColonelThirtyTwo/lsqlite3-ffi) - Lua SQLite using LuaJIT's FFI library.
 * [coderczp/MycatLB](https://github.com/coderczp/MycatLB) - 基于lua的负载均衡器,配置简单,性能跟nginx不相上下
-* [bakpakin/corope](https://github.com/bakpakin/corope) - Lua threading utility using coroutines.
 * [axmat/lodash.lua](https://github.com/axmat/lodash.lua) - lodash inspired library for lua
 * [aiq/basexx](https://github.com/aiq/basexx) - A Lua library which provides base2(bitfield), base16(hex), base32(crockford/rfc), base64(rfc/url), base85(z85) decoding and encoding.
 * [xopxe/bbl-twitter](https://github.com/xopxe/bbl-twitter) - Barebones Lua Twitter
@@ -571,36 +610,41 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [tesnos/SMMOCM](https://github.com/tesnos/SMMOCM) - A 3DS homebrew app written in Lua to allow people to exchange courses over the internet
 * [tekkub/wow-globalstrings](https://github.com/tekkub/wow-globalstrings) - GlobalStrings.lua files from each locale
 * [svyatogor/resty-lua-jwt](https://github.com/svyatogor/resty-lua-jwt) - NGinx (OpenResty) LUA plugin for JWT authentication using Redis cache
-* [Sulunia/beatfever](https://github.com/Sulunia/beatfever) - An open-source reimplementation of the osu! "game engine" in Lua/Love2d
 * [starius/lua-rote](https://github.com/starius/lua-rote) - Lua binding to ROTE, Terminal Emulation library
 * [starius/lua-resty-socks5](https://github.com/starius/lua-resty-socks5) - Lua SOCKS5 client for the ngx_lua based on the cosocket API
 * [slime73/love-snippets](https://github.com/slime73/love-snippets) - Snippets of Lua code useful in the LÖVE game framework.
-* [siffiejoe/lua-microscope](https://github.com/siffiejoe/lua-microscope) - Creates images of arbitrary Lua values using GraphViz
-* [philanc/plc](https://github.com/philanc/plc) - Pure Lua Crypto
 * [nightsailer/lua-resty-mongo](https://github.com/nightsailer/lua-resty-mongo) - Lua mongodb client driver for the ngx_lua based on the cosocket API
-* [mozilla-services/lua_sandbox_extensions](https://github.com/mozilla-services/lua_sandbox_extensions) - Extension packages (sandboxes and modules) for the lua_sandbox project
+* [netxfly/nginx_lua_security](https://github.com/netxfly/nginx_lua_security) - 浅谈nginx+lua在安全中的应用
+* [nanopack/flip](https://github.com/nanopack/flip) - Simple, lightweight, virtual IP management utility for moving IPs around nodes in response to cluster events.
+* [minism/leaf](https://github.com/minism/leaf) - Lua utility library for game programming
 * [lusis/lua-github](https://github.com/lusis/lua-github) - Lua wrapper for talking to the github api
+* [leihog/hashids.lua](https://github.com/leihog/hashids.lua) - A Lua implementation of http://www.hashids.org
+* [leeyiw/ngx_lua_anticc](https://github.com/leeyiw/ngx_lua_anticc) - HTTP flood attacks mitigation tool for Nginx
 * [leegao/Rocket-for-Lua](https://github.com/leegao/Rocket-for-Lua) - A Sqlite ORM modeler (implements Django's model paradigm in Lua) for all data related projects.
 * [jk3064/chiliui](https://github.com/jk3064/chiliui) - a lua-based opengl GUI
 * [jaderhs/lua-consistent-hash](https://github.com/jaderhs/lua-consistent-hash) - Consistent hash implemented in lua
 * [headchant/bhtlua](https://github.com/headchant/bhtlua) - behaviour trees in lua
 * [golgote/lua-resty-info](https://github.com/golgote/lua-resty-info) - HTML-rendered information about installation of Nginx with ngx_lua module and OpenResty
+* [dingshukai/lua-oop](https://github.com/dingshukai/lua-oop) - Lua Object Oriented Programming Framework. WOW!
 * [DelusionalLogic/pngLua](https://github.com/DelusionalLogic/pngLua) - A pure lua implementation of a PNG decoder
 * [ColonelThirtyTwo/LuaJIT-Threads](https://github.com/ColonelThirtyTwo/LuaJIT-Threads) - Incomplete LuaJIT threading library. Not working on this anymore.
 * [ayourtch/luajit-fun](https://github.com/ayourtch/luajit-fun) - Fun with LuaJIT
 * [ayourtch/gliese](https://github.com/ayourtch/gliese) - A Lua microframework for small web app backends for  Mongrel2 server
+* [asqbtcupid/lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate) - my lua hotudpate(hot swap) implement
 * [agladysh/lua-phpserialize](https://github.com/agladysh/lua-phpserialize) - Lua module to support PHP serialize()
+* [agentzh/lua-resty-multipart-parser](https://github.com/agentzh/lua-resty-multipart-parser) - Simple multipart data parser for OpenResty/Lua
+* [unXedDani/Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [SpaceTown-Developers/Lemon-Gate](https://github.com/SpaceTown-Developers/Lemon-Gate) - Expression Advanced a Lua sub language.
 * [slact/lua-feedparser](https://github.com/slact/lua-feedparser) - A decent RSS and Atom XML feed parser
 * [shomeax/wireshark-http-extra](https://github.com/shomeax/wireshark-http-extra) - Lua based plugin for Wireshark network sniffer to display more information about HTTP traffic
 * [RobloxLabs/internal-code](https://github.com/RobloxLabs/internal-code) - This repository contains Lua code used internally by ROBLOX.
 * [pib/calabash](https://github.com/pib/calabash) - A cucumber-like BDD library for Lua on top of telescope.
-* [netxfly/nginx_lua_security](https://github.com/netxfly/nginx_lua_security) - 浅谈nginx+lua在安全中的应用
 * [mpeterv/markdown](https://github.com/mpeterv/markdown) - An implementation of the Markdown text-to-html markup system in pure Lua.
+* [moteus/lua-vararg](https://github.com/moteus/lua-vararg) - Library for manipulation of variable arguements of functions
+* [mkarliner/nodemcu-scripts](https://github.com/mkarliner/nodemcu-scripts) - Simple scripts for ESP8266 Lua, aka: NodeMcu
+* [Mashape/lua-resty-worker-events](https://github.com/Mashape/lua-resty-worker-events) - Cross Worker Events for Nginx in Pure Lua
 * [malkia/luajit-opencl](https://github.com/malkia/luajit-opencl) - Dead project (Please refer to github.com/malkia/ufo) [OpenCL bindings for LuaJIT using the FFI library]
 * [lipp/tango](https://github.com/lipp/tango) - A simple and transparent RPC module for Lua.
-* [leihog/hashids.lua](https://github.com/leihog/hashids.lua) - A Lua implementation of http://www.hashids.org
-* [leeyiw/ngx_lua_anticc](https://github.com/leeyiw/ngx_lua_anticc) - HTTP flood attacks mitigation tool for Nginx
 * [leafo/lapis-bayes](https://github.com/leafo/lapis-bayes) - Naive Bayes classifier for use in Lua
 * [leafo/cloud_storage](https://github.com/leafo/cloud_storage) - A Lua library for communicating with Google Cloud Storage
 * [laomoi/lua_complete_intellij](https://github.com/laomoi/lua_complete_intellij) - auto complete for quick-cocos2d-x in intellij IDEA
@@ -610,15 +654,14 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [jamesmarlowe/lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
 * [isage/lua-resty-moongoo](https://github.com/isage/lua-resty-moongoo) - MongoDB library for OpenResty
 * [ignacio/luagleck](https://github.com/ignacio/luagleck) - A ZX Spectrum emulator written in Lua 5.3.
+* [ibdknox/lueve](https://github.com/ibdknox/lueve) - Temporary home of Eve in Lua - will be merged into witheve/eve soon.
 * [gamax92/OCEmu](https://github.com/gamax92/OCEmu) - OpenComputers Emulator in Lua
 * [edwinhollen/ChanceLua](https://github.com/edwinhollen/ChanceLua) - A random "everything" generator, written in pure Lua.
 * [dreamfairy/PrompaLua](https://github.com/dreamfairy/PrompaLua) - 横版RPG的lua移植版本
-* [dingshukai/lua-oop](https://github.com/dingshukai/lua-oop) - Lua Object Oriented Programming Framework. WOW!
 * [cloudflare/lua-re2](https://github.com/cloudflare/lua-re2) - RE2's C and Lua interface
 * [clementfarabet/lua---ffmpeg](https://github.com/clementfarabet/lua---ffmpeg) - An interface between ffmpeg and Lua/Torch
 * [bungle/lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) - LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C.
 * [annejan/nodemcu-lua-watch](https://github.com/annejan/nodemcu-lua-watch) - ESP8266 NodeMCU Lua code for ijWatch project
-* [agentzh/lua-resty-multipart-parser](https://github.com/agentzh/lua-resty-multipart-parser) - Simple multipart data parser for OpenResty/Lua
 * [xight/flashair-lua-dev](https://github.com/xight/flashair-lua-dev) - Stub for FlashAir
 * [williamwilling/luagui](https://github.com/williamwilling/luagui) - An easy-to-use library for creating GUIs with Lua.
 * [unanimated/luaegisub](https://github.com/unanimated/luaegisub) - Aegisub automation scripts
@@ -632,86 +675,93 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [rsisto/luaGpio](https://github.com/rsisto/luaGpio) - Simple lua file for GPIO control in embedded systems
 * [prasannakkcse/Custom-particle-emitter](https://github.com/prasannakkcse/Custom-particle-emitter) - Lua based Custom particle emitter for corona SDK
 * [norman/hops](https://github.com/norman/hops) - A lightweight, pluggable web framework for Lua
-* [moteus/lua-vararg](https://github.com/moteus/lua-vararg) - Library for manipulation of variable arguements of functions
-* [mkarliner/nodemcu-scripts](https://github.com/mkarliner/nodemcu-scripts) - Simple scripts for ESP8266 Lua, aka: NodeMcu
-* [minism/leaf](https://github.com/minism/leaf) - Lua utility library for game programming
 * [malkia/luajit-winapi](https://github.com/malkia/luajit-winapi) - Complete Windows API Bindings for LuaJIT
 * [luapower/glue](https://github.com/luapower/glue) - everyday Lua functions
 * [ladc/lgsl](https://github.com/ladc/lgsl) - LGSL: A numerical library for Lua based on GSL
-* [ibdknox/lueve](https://github.com/ibdknox/lueve) - Temporary home of Eve in Lua - will be merged into witheve/eve soon.
+* [Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk) - A collection of Lua scripts and RAM watches for BizHawk.
 * [gutschke/fido-u2f-nginx-lua](https://github.com/gutschke/fido-u2f-nginx-lua) - Example code for FIDO U2F authentication with the Lua module in nginx
 * [glua/luaserverbrowser](https://github.com/glua/luaserverbrowser) - updated legacy server browser
 * [gfoot/kopiluadebug](https://github.com/gfoot/kopiluadebug) - Some glue to allow debugging of KopiLua using remote Lua debuggers such as ZeroBrane
+* [gamax92/midi2pico](https://github.com/gamax92/midi2pico) - Midi to PICO-8 converter
 * [fperrad/lua-CoatPersistent](https://github.com/fperrad/lua-CoatPersistent) - an ORM for lua-Coat
 * [Foohy/gm-rollercoaster](https://github.com/Foohy/gm-rollercoaster) - Lua rollercoasters in Garry's Mod.
 * [dukov777/esp8266-evb-lua](https://github.com/dukov777/esp8266-evb-lua) - Controlling esp8266-evb relay with Lua
 * [dmzgroup/lmk](https://github.com/dmzgroup/lmk) - Lua Based Build System
 * [detailyang/lua-resty-socks5-server](https://github.com/detailyang/lua-resty-socks5-server) - This is an implementation of the SOCKS v5 server in the OpenResty
 * [davidhollander/ox](https://github.com/davidhollander/ox) - Lightweight, asynchronous server library for Lua and LuaJIT
+* [bungle/lua-resty-route](https://github.com/bungle/lua-resty-route) - URL Routing Library for OpenResty Supporting Pluggable Matching Engines
 * [aperezdc/lua-itertools](https://github.com/aperezdc/lua-itertools) - Functional iterators for Lua based on coroutines
 * [akshendra/Serene-Conky](https://github.com/akshendra/Serene-Conky) - Nice and clean conky theme, made using lua and cairo
+* [ziontab/lua-nginx-tarantool](https://github.com/ziontab/lua-nginx-tarantool) - Driver for tarantool 1.6 on nginx cosockets
 * [Xkeeper0/emu-lua](https://github.com/Xkeeper0/emu-lua) - Lua scripts for emulators supporting Emulua
 * [thePanz/VLC-Subtitles-Finder](https://github.com/thePanz/VLC-Subtitles-Finder) - VLC plugin (written in LUA) for subtitles search and download.
 * [stevedonovan/lglob](https://github.com/stevedonovan/lglob) - Extended undefined-variable checker for Lua 5.1 and 5.2
+* [starwing/luaiter](https://github.com/starwing/luaiter) - A iteration library for Lua
 * [ssimunic/esp8266-dht22](https://github.com/ssimunic/esp8266-dht22) - ESP8266 Lua script running on NodeMCU firmware which sends DHT22 data to web server, with deepsleep mode
 * [silentbicycle/lua-bdd](https://github.com/silentbicycle/lua-bdd) - Binary decision diagram library (Lua)
+* [siffiejoe/lua-luaepnf](https://github.com/siffiejoe/lua-luaepnf) - Extended PEG Notation Format (easy grammars for LPeg)
+* [rxi/tick](https://github.com/rxi/tick) - Lua module for delaying function calls
 * [rweichler/lucy](https://github.com/rweichler/lucy) - LUa CYcript
+* [rtoshiro/hammerspoon-init](https://github.com/rtoshiro/hammerspoon-init) - Hammerspoon init.lua file.
 * [Polkm/learn](https://github.com/Polkm/learn) - A lightweight, simple, and modular machine learning library written in pure Lua.
 * [Plaque-fcc/luakit-adblock](https://github.com/Plaque-fcc/luakit-adblock) - AdBlock for luakit browser.
+* [Olivine-Labs/lua-jwt](https://github.com/Olivine-Labs/lua-jwt) - JSON Web Token library
 * [Neopallium/lua-clang-cindex](https://github.com/Neopallium/lua-clang-cindex) - FFI bindings to libclang's CIndex interface.
 * [mirrexagon/lua-irc-engine](https://github.com/mirrexagon/lua-irc-engine) - A Lua IRC module that tries to be minimal and extensible.
 * [minetest-mods/mg](https://github.com/minetest-mods/mg) - A custom Lua-mapgen, with biomes, caves, villages, cliffs and ore generation.
 * [meric/loveui.love](https://github.com/meric/loveui.love) - A GUI library for the lua game framework `love2d`
 * [markandgo/tile-collision](https://github.com/markandgo/tile-collision) - Tile collision in Lua/LOVE
 * [lusis/lubot](https://github.com/lusis/lubot) - Lua Chatbot running inside OpenResty
+* [lujian101/LuaTableOptimizer](https://github.com/lujian101/LuaTableOptimizer) - simple readonly lua table optimizer
 * [lipp/ludent](https://github.com/lipp/ludent) - A primitive Lua indenter / formatter / beautfier
 * [Kyrremann/LuaPill](https://github.com/Kyrremann/LuaPill) - A Lua library for creating and loading isometric maps
 * [jie123108/lua-resty-stats](https://github.com/jie123108/lua-resty-stats) - lua-resty-stats - is a statistical module for nginx base on ngx_lua, Statistical key and values are configurable, can use the nginx core's variables and this module's variables. The statistical result store in mongodb.
 * [henriquemoody/LuaValidation](https://github.com/henriquemoody/LuaValidation) - Validation library for Lua with fluent API and error message handling
 * [gtimworks/lua-process](https://github.com/gtimworks/lua-process) - This is a pure lua solution which supports process concept. Each lua code chunk is sandboxed as a lua co-routine. The process are still non-preemptive, but with a CPU limitation.
 * [Germanunkol/Affair](https://github.com/Germanunkol/Affair) - Networking library for the Löve engine. Uses Lua Socket. TCP only.
-* [excessive/cdata](https://github.com/excessive/cdata) - Serialize Lua tables to C structs and strings.
 * [dcartoon/redis-lua-scripts](https://github.com/dcartoon/redis-lua-scripts) - Collection of Lua scripts for use with Redis
+* [daurnimator/lredis](https://github.com/daurnimator/lredis) - A redis client for lua
 * [daurnimator/fifo.lua](https://github.com/daurnimator/fifo.lua) - Fifo library for Lua
 * [coronalabs/framework-cloud](https://github.com/coronalabs/framework-cloud) - The Core LUA Library for Corona Cloud
-* [bungle/lua-resty-route](https://github.com/bungle/lua-resty-route) - URL Routing Library for OpenResty Supporting Pluggable Matching Engines
 * [Aysegul/torch-kitti](https://github.com/Aysegul/torch-kitti) - lua-torch code to load KITTI dataset
 * [autismuk/Font-Manager](https://github.com/autismuk/Font-Manager) - Bitmap Font Manager for Corona / Lua
 * [AterCattus/estrela](https://github.com/AterCattus/estrela) - Lua web framework for nginx
-* [asqbtcupid/lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate) - my lua hotudpate(hot swap) implement
 * [arunpersaud/osbf-lua](https://github.com/arunpersaud/osbf-lua) - Text classification module for the Lua Programming Language and a production class anti-spam in Lua using the module
 * [apendley/CocosCodea](https://github.com/apendley/CocosCodea) - Cocos2d ported to Lua(for Codea)
-* [ziontab/lua-nginx-tarantool](https://github.com/ziontab/lua-nginx-tarantool) - Driver for tarantool 1.6 on nginx cosockets
+* [zeta0134/LuaGB](https://github.com/zeta0134/LuaGB) - A gameboy emulator written in Pure Lua. Work in progress.
 * [XuJiandong/lua-ctags](https://github.com/XuJiandong/lua-ctags) - By parsing output from luac program, generate tags file.
+* [Xamla/torch-ros](https://github.com/Xamla/torch-ros) - Torch7/lua wrapper of roscpp via ffi.
+* [wookay/luacat](https://github.com/wookay/luacat) - unit testing, logger, OOP, string, table extensions for lua.
+* [ToddWegner/clidebugger](https://github.com/ToddWegner/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its remote facilities.
 * [tdzl2003/node-lua](https://github.com/tdzl2003/node-lua) - evented I/O for LuaJIT
 * [tbergeron/love-ludumdare-starter](https://github.com/tbergeron/love-ludumdare-starter) - Löve 2D (lua) Game Development Starter Bundle
-* [starwing/luaiter](https://github.com/starwing/luaiter) - A iteration library for Lua
 * [speedata/luamarkdown](https://github.com/speedata/luamarkdown) - Pure lua implementation of markdown
 * [s-ol/st8.lua](https://github.com/s-ol/st8.lua) - A tiny double-stacked state manging library for Lua/LÖVE
 * [slime73/Lua-Event](https://github.com/slime73/Lua-Event) - Basic event system I have been using in my LÖVE games
-* [siffiejoe/lua-luaepnf](https://github.com/siffiejoe/lua-luaepnf) - Extended PEG Notation Format (easy grammars for LPeg)
+* [simenkid/lua-events](https://github.com/simenkid/lua-events) - A Lua EventEmitter class in node.js style.
+* [siffiejoe/lua-multikey](https://github.com/siffiejoe/lua-multikey) - A simple multidimensional table
 * [SEEDTEAM/file-manager-bot](https://github.com/SEEDTEAM/file-manager-bot) - A Linux file manager telegram bot written in lua
+* [satom99/litcord](https://github.com/satom99/litcord) - Being rewritten as of December. Relaunching soon.
 * [sacado/luarc](https://github.com/sacado/luarc) - Arc Lisp's web server, implemented in Lua
-* [rxi/async](https://github.com/rxi/async) - Asynchronous TCP networking for Lua
-* [rtoshiro/hammerspoon-init](https://github.com/rtoshiro/hammerspoon-init) - Hammerspoon init.lua file.
 * [redjack/lua-avro-c](https://github.com/redjack/lua-avro-c) - Lua bindings for the Avro C library
 * [Phrogz/LXSC](https://github.com/Phrogz/LXSC) - Lua XML StateChart interpreter - parses and executes SCXML state machines with a Lua data model.
-* [Olivine-Labs/lua-jwt](https://github.com/Olivine-Labs/lua-jwt) - JSON Web Token library
 * [nusov/lua-object](https://github.com/nusov/lua-object) - Prototype based OOP library for Lua
 * [norman/lua-devtools](https://github.com/norman/lua-devtools) - An irb-workalike for Lua, and a command-line debugger with readline support.
 * [mirven/lua-bert](https://github.com/mirven/lua-bert) - A Lua library for BERT serliaization
-* [Mashape/lua-resty-worker-events](https://github.com/Mashape/lua-resty-worker-events) - Cross Worker Events for Nginx in Pure Lua
 * [markandgo/Lua-FOV](https://github.com/markandgo/Lua-FOV) - Field of Vision (FOV) algorithms in Lua
 * [lua-shellscript/lua-shellscript](https://github.com/lua-shellscript/lua-shellscript) - Shell-Scriping for Lua
 * [luapower/path2d](https://github.com/luapower/path2d) - 2D geometry library in Lua
+* [linbc/crontab.lua](https://github.com/linbc/crontab.lua) - lua crontab
+* [lewei50/lua](https://github.com/lewei50/lua) - Lua lib for lewei50(iot) platform
 * [larme/hua](https://github.com/larme/hua) - Hua (㕦) is a hy-like lisp language to lua compiler.
 * [Krikroff77/Fibaro-HC2-Toolkit-Framework](https://github.com/Krikroff77/Fibaro-HC2-Toolkit-Framework) - This Framework is a lua library for Fibaro HC2 and is an addon for HC2 Toolkit application in a goal to aid the integration.
 * [joshtynjala/signal.lua](https://github.com/joshtynjala/signal.lua) - Signals are a light-weight messaging tools for Lua and the Corona SDK.
 * [jmaygarden/gzio](https://github.com/jmaygarden/gzio) - The Lua gzip file I/O module emulates the standard I/O module, but operates on compressed gzip format files.
-* [Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk) - A collection of Lua scripts and RAM watches for BizHawk.
+* [ivan386/lua-dht](https://github.com/ivan386/lua-dht) - Bittorrent DHT Tracker
 * [ikaras/nodemcu-websocket-client](https://github.com/ikaras/nodemcu-websocket-client) - WebSocket client for nodemcu, esp8266 on Lua
 * [hoelzro/ansicolors](https://github.com/hoelzro/ansicolors) - ANSI terminal color manipulation for Lua.
 * [gzldx/lua-upload](https://github.com/gzldx/lua-upload) - 使用Openresty搭建的图片上传系统，使用fastdfs做存储
+* [gityf/ngx_lua_thrift](https://github.com/gityf/ngx_lua_thrift) - thrift lua for nginx.
 * [geoffleyland/lua-mmapfile](https://github.com/geoffleyland/lua-mmapfile) - A simple interface to mmap for writing and reading binary data
 * [geoffleyland/lua-kdtree](https://github.com/geoffleyland/lua-kdtree) - n-dimensional kdtree spatial indexing
 * [FPtje/MySQLite](https://github.com/FPtje/MySQLite) - Lua module for Garry's mod. Depends on MySQLOO or tmysql4.
@@ -722,14 +772,15 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [dlaurie/lua-apl](https://github.com/dlaurie/lua-apl) - APL-like functions for use from Lua.
 * [dlaurie/lua52vm-tools](https://github.com/dlaurie/lua52vm-tools) - Notes and Lua modules on Lua 5.2 Virtual Machine and Bytecode
 * [daveyang/EventDispatcher](https://github.com/daveyang/EventDispatcher) - Provides custom event broadcaster/listener mechanism to regular Lua objects.
+* [catwell/cwtest](https://github.com/catwell/cwtest) - Tiny Lua test helper.
+* [bungle/lua-resty-reqargs](https://github.com/bungle/lua-resty-reqargs) - Read application/x-www-form-urlencoded, multipart/form-data, and application/json request args
 * [blacktaxi/oops](https://github.com/blacktaxi/oops) - Simple OOP with classes for Lua
-* [zeta0134/LuaGB](https://github.com/zeta0134/LuaGB) - A gameboy emulator written in Pure Lua. Work in progress.
+* [128technology/protobuf_dissector](https://github.com/128technology/protobuf_dissector) - A Wireshark Lua plugin for decoding Google protobuf packets
 * [Yonaba/Binary-Heaps](https://github.com/Yonaba/Binary-Heaps) - Implementation of binary heaps data structure in pure Lua
 * [wscherphof/lua-loader](https://github.com/wscherphof/lua-loader) - Manage your Lua modules with npm.
-* [wookay/luacat](https://github.com/wookay/luacat) - unit testing, logger, OOP, string, table extensions for lua.
+* [woshihuo12/LuaDesignPattern](https://github.com/woshihuo12/LuaDesignPattern) - lua design pattern example code
 * [VideahGams/LuaEight](https://github.com/VideahGams/LuaEight) - CHIP-8 Virtual Machine in Lua
 * [VideahGams/discord.lua](https://github.com/VideahGams/discord.lua) - LuaJIT API Wrapper for Discord
-* [ToddWegner/clidebugger](https://github.com/ToddWegner/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its remote facilities.
 * [toastdriven/lua-base64](https://github.com/toastdriven/lua-base64) - Another base64 implementation.
 * [TheLinx/LuaHTML](https://github.com/TheLinx/LuaHTML) - LuaHTML is a template engine that allows the use of Lua code in your HTML websites.
 * [theganyo/lua2go](https://github.com/theganyo/lua2go) - Easy access to your Go (Golang) modules from Lua and NGINX!
@@ -739,26 +790,29 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [stepelu/lua-ljsqlite3](https://github.com/stepelu/lua-ljsqlite3) - LJSQLite3: SQlite3 Interface
 * [soulik/luazmq](https://github.com/soulik/luazmq) - ZeroMQ 4.x.x+ binding for Lua
 * [slact/webylene-lua](https://github.com/slact/webylene-lua) - a bit of a web framework for lua
-* [siffiejoe/lua-multikey](https://github.com/siffiejoe/lua-multikey) - A simple multidimensional table
 * [SatheeshJM/Lua-Preference-Library](https://github.com/SatheeshJM/Lua-Preference-Library) - save and retrieve tables,numbers,strings or boolean
 * [samuel/lua-quadtree](https://github.com/samuel/lua-quadtree) - Quadtree library for Lua
-* [rxi/tick](https://github.com/rxi/tick) - Lua module for delaying function calls
 * [rrthomas/mork](https://github.com/rrthomas/mork) - Automatic C bindings for Lua, using alien and ctypesgen-json
 * [rm-code/logivi](https://github.com/rm-code/logivi) - Git visualisation software written in Lua.
 * [radamanthus/radlib](https://github.com/radamanthus/radlib) - Rad's Library of awesome Lua functions to complement the awesome Corona SDK
+* [qqwer1/GoS-Lua](https://github.com/qqwer1/GoS-Lua) - 123
 * [ptrv/company-lua](https://github.com/ptrv/company-lua) - company-mode completion backend for Lua
 * [PlayFab/LuaSdk](https://github.com/PlayFab/LuaSdk) - PlayFab Lua SDK for LuaDist command-line, Defold, and more
 * [PerimeterX/perimeterx-nginx-plugin](https://github.com/PerimeterX/perimeterx-nginx-plugin) - PerimeterX NGINX Lua Middleware
 * [pangliang/cocos2dx_videoview_extends](https://github.com/pangliang/cocos2dx_videoview_extends) - cocos2dx 播放视频插件, 支持lua调用
 * [p0pr0ck5/lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) - OpenResty response time inflation
+* [OpenPrograms/Sangar-Programs](https://github.com/OpenPrograms/Sangar-Programs) - Experiments and stuffs.
 * [OpenPrograms/Kenny-Programs](https://github.com/OpenPrograms/Kenny-Programs) - Kenny's lua programs
 * [oneoo/lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient) - Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
 * [Olivine-Labs/lua-oauth2-server](https://github.com/Olivine-Labs/lua-oauth2-server) - Lusty Lua implementation of an oauth2 server
 * [notcake/glib](https://github.com/notcake/glib) - OOP Lua library for Garry's Mod.
 * [Neopallium/luagit2](https://github.com/Neopallium/luagit2) - LuaGit2 has move to a new home at https://github.com/libgit2/luagit2
 * [neomantra/luajit-jemalloc](https://github.com/neomantra/luajit-jemalloc) - LuaJIT FFI bindings to the jemalloc library version 3.5
-* [linbc/crontab.lua](https://github.com/linbc/crontab.lua) - lua crontab
-* [lewei50/lua](https://github.com/lewei50/lua) - Lua lib for lewei50(iot) platform
+* [m-mf/m-mf](https://github.com/m-mf/m-mf) - m&mf is an AI system for Lusternia, an online MUD. It has advanced and adaptable curing capabilities, defence raising, and addons.
+* [martin-damien/babel](https://github.com/martin-damien/babel) - Babel is a module to enable internationalisation in Lua applications. It is designed to work with LÖVE 2D too.
+* [markuman/tinywebdis](https://github.com/markuman/tinywebdis) - tinywebdis - a lean webdis replacement using turbo.lua
+* [ls-/ls_UI](https://github.com/ls-/ls_UI) - Development repository of ls: UI
+* [kurapica/PLoop](https://github.com/kurapica/PLoop) - Pure Lua object-oriented program system, with many modern features like attribute, overload, etc. For Lua 5.1 or above(luajit included)
 * [kikito/pulsar.lua](https://github.com/kikito/pulsar.lua) - A-star algorithm implementation in Lua
 * [karai17/lua-obj](https://github.com/karai17/lua-obj) - Load a Wavefront Object file into Lua
 * [jdp/tarn](https://github.com/jdp/tarn) - A completely Lua-scriptable roguelike engine
@@ -766,41 +820,40 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [irr/lua-labs](https://github.com/irr/lua-labs) - lua programming repository
 * [Hoksmur/uLuaNode](https://github.com/Hoksmur/uLuaNode) - http microserver works on NodeMCU firmware for esp8266 chip
 * [hellotakyon/gamejoltlua](https://github.com/hellotakyon/gamejoltlua) - Access to GameJolt's opportunities for all your lovely Lua projects.
-* [gityf/ngx_lua_thrift](https://github.com/gityf/ngx_lua_thrift) - thrift lua for nginx.
 * [flily/lua-performance](https://github.com/flily/lua-performance) - Lua performance guide
 * [ElunaLuaEngine/Scripts](https://github.com/ElunaLuaEngine/Scripts) - Lua scripts for Eluna
+* [eleme/lua-resty-ssdb](https://github.com/eleme/lua-resty-ssdb) - The fastest lua client for ssdb and nginx (lua-nginx-module based)
+* [ds84182/LuaVM](https://github.com/ds84182/LuaVM) - Lua Virtual Machine (and various tools) for Lua so you can Lua while you Lua
 * [davidm/lua-parser-loose](https://github.com/davidm/lua-parser-loose) - loose parsing of Lua code, ignoring syntax errors
 * [daurnimator/luasodium](https://github.com/daurnimator/luasodium) - Lua binding to libsodium (https://github.com/jedisct1/libsodium)
-* [daurnimator/lredis](https://github.com/daurnimator/lredis) - A redis client for lua
 * [dannote/lua-template](https://github.com/dannote/lua-template) - The simplest Lua template engine
 * [dabing1022/LuaAndLove2dLearningTest](https://github.com/dabing1022/LuaAndLove2dLearningTest) - LuaAndLove2dLearningTest
-* [catwell/cwtest](https://github.com/catwell/cwtest) - Tiny Lua test helper.
 * [bungle/lua-resty-scrypt](https://github.com/bungle/lua-resty-scrypt) - LuaJIT FFI-based scrypt library for OpenResty.
-* [bungle/lua-resty-reqargs](https://github.com/bungle/lua-resty-reqargs) - Read application/x-www-form-urlencoded, multipart/form-data, and application/json request args
 * [bjornbytes/trickle](https://github.com/bjornbytes/trickle) - Lua bitstream
 * [beyondblog/ngx_lua_google_auth](https://github.com/beyondblog/ngx_lua_google_auth) - simple google authentication for nginx by lua
 * [benglard/htmlua](https://github.com/benglard/htmlua) - Lua HTML templater
 * [bartbes/Meta](https://github.com/bartbes/Meta) - Add some extra syntax to lua (name pending)
 * [bakins/lua-resty-beanstalkd](https://github.com/bakins/lua-resty-beanstalkd) - Simple Beanstalkd client for nginx/openresty
 * [3demax/vlc-clickpause](https://github.com/3demax/vlc-clickpause) - "clickpause.lua" is lua extension for VLC. After activation, click video to toggle Play/Pause
-* [128technology/protobuf_dissector](https://github.com/128technology/protobuf_dissector) - A Wireshark Lua plugin for decoding Google protobuf packets
 * [united-adstir/fluent-logger-lua](https://github.com/united-adstir/fluent-logger-lua) - A structured logger for Fluentd (Lua)
 * [uluadist/lua-pkg](https://github.com/uluadist/lua-pkg) - Pkg: ULua package manager
 * [Tieske/binaryheap.lua](https://github.com/Tieske/binaryheap.lua) - Binary heap implementation in Lua
 * [TeddyEngel/Luoop](https://github.com/TeddyEngel/Luoop) - Easy and flexible object orientated library for Lua
 * [SilverWingedSeraph/Vectorial](https://github.com/SilverWingedSeraph/Vectorial) - A Lua library for easy, intuitive 2D and 3D vectors.
 * [shuax/lua-excel](https://github.com/shuax/lua-excel) - 一个纯Lua的excel解析库
+* [shironecko/LuaMaze](https://github.com/shironecko/LuaMaze) - A tiny Lua module aimed at perfect maze random generation.
 * [rxi/shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua
 * [Rinnegatamante/Lua-RayCast3D](https://github.com/Rinnegatamante/Lua-RayCast3D) - 3D Game Engine using RayCasting algorithm for Lua Player Plus
+* [remibergsma/fibaro-hc2-scenes](https://github.com/remibergsma/fibaro-hc2-scenes) - Scenes written in Lua for the Fibaro Home Center 2
 * [rdlaitila/lua-libxml](https://github.com/rdlaitila/lua-libxml) - Lua XML LIbrary
-* [qwook/sunscript](https://github.com/qwook/sunscript) - a scripting language written in lua
 * [PenguinToast/PenguinGUI](https://github.com/PenguinToast/PenguinGUI) - RMGUI library for Starbound lua canvases
 * [norman/tlua](https://github.com/norman/tlua) - A simple task runner for Lua - now abandoned because I think it's just easier to use plain old Makefiles.
 * [myselfghost/AuthCode](https://github.com/myselfghost/AuthCode) - AuthCode function for ngx_lua
+* [moteus/lua-socket-async](https://github.com/moteus/lua-socket-async) - Asyncronus wrapper around LuaSocket library
 * [mkottman/wdm](https://github.com/mkottman/wdm) - web data mining - a small utility library for Lua for easy HTTP mining with curl & sqlite3
 * [miurahr/lua-nginx-osm](https://github.com/miurahr/lua-nginx-osm) - OpenStreetMap extension for Nginx Lua module
+* [maxiwell/conky-seamod](https://github.com/maxiwell/conky-seamod) - Seamod theme for conky 1.10 (lua config)
 * [mascarenhas/luma](https://github.com/mascarenhas/luma) - LPEG-based Lua macros
-* [markuman/tinywebdis](https://github.com/markuman/tinywebdis) - tinywebdis - a lean webdis replacement using turbo.lua
 * [mangoszero/LuaScripts](https://github.com/mangoszero/LuaScripts) - Eluna Scripts for MangosZero
 * [lvzixun/ljson](https://github.com/lvzixun/ljson) - a lib for json convert lua
 * [luastoned/lua-essentials](https://github.com/luastoned/lua-essentials) - A module that extends Lua with a few essential functions
@@ -810,18 +863,14 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [lewtds/pathfinder.lua](https://github.com/lewtds/pathfinder.lua) - A* pathfinder for Lua
 * [Lerg/smartpixel-config-lua](https://github.com/Lerg/smartpixel-config-lua) - Pixel perfect content scaling on most devices.
 * [legatvs/libquvi-scripts](https://github.com/legatvs/libquvi-scripts) - A selection of Lua scripts that libquvi calls upon to parse the properties for a media URL
-* [leafo/lua-twitter](https://github.com/leafo/lua-twitter) - A Lua twitter library that works with OpenResty or LuaSocket
 * [lancelijade/qqwry.lua](https://github.com/lancelijade/qqwry.lua) - a Lua interface to famous IP <=> Location database qqwry.dat
 * [laeciofreitas/design-patterns-lua](https://github.com/laeciofreitas/design-patterns-lua) - Exemplo de alguns design patterns implementados com a linguagem Lua.
-* [kurapica/PLoop](https://github.com/kurapica/PLoop) - Pure Lua object-oriented program system, with many modern features like attribute, overload, etc. For Lua 5.1 or above(luajit included)
+* [jessezha/CoAP-For-Wireshark](https://github.com/jessezha/CoAP-For-Wireshark) - A Lua implementation for CoAP dissector of wireshark
 * [jeancaffou/VLC-Player-Auto-Subtitles](https://github.com/jeancaffou/VLC-Player-Auto-Subtitles) - Automatically download subtitles in VLC player. LUA Extension.
 * [isage/lua-resty-mobile](https://github.com/isage/lua-resty-mobile) - Mobile detection for nginx/openresty
 * [hsluv/hsluv-lua](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (revision 4)
 * [gvx/Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialisation library for Lua
 * [geoffleyland/luasimplex](https://github.com/geoffleyland/luasimplex) - The simplex method for solving linear programming problems implemented in Lua
-* [eleme/lua-resty-ssdb](https://github.com/eleme/lua-resty-ssdb) - The fastest lua client for ssdb and nginx (lua-nginx-module based)
-* [ds84182/LuaVM](https://github.com/ds84182/LuaVM) - Lua Virtual Machine (and various tools) for Lua so you can Lua while you Lua
-* [drmingdrmer/lua-paxos](https://github.com/drmingdrmer/lua-paxos) - classic paxos implementation in lua
 * [dodo/lua-dbus](https://github.com/dodo/lua-dbus) - convenient dbus api in lua
 * [dmccuskey/lua-corovel](https://github.com/dmccuskey/lua-corovel) - Asynchronous, event-loop development environment for Lua (think nodejs, luvit, etc)
 * [develephant/Eventable](https://github.com/develephant/Eventable) - A Series of Tubes for Lua tables.
@@ -829,39 +878,38 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [daogangtang/lglib](https://github.com/daogangtang/lglib) - The basic extended lua libraries for legerobot's all products
 * [cereda/checkcites](https://github.com/cereda/checkcites) - checkcites is a Lua script written for the sole purpose of detecting undefined/unused references from LaTeX auxiliary or bibliography files.
 * [callin2/lockout.lua](https://github.com/callin2/lockout.lua) - Knockout.js clone in Lua
+* [britzl/defpro](https://github.com/britzl/defpro) - Defold Profiler interaction using Lua
 * [aperezdc/luabot](https://github.com/aperezdc/luabot) - An XMPP (Jabber) bot written in Lua using the protocol implementation from Verse/Prosody
+* [antonheryanto/lua-resty-post](https://github.com/antonheryanto/lua-resty-post) - HTTP post utility for openresty
 * [airtrack/lua-debugger](https://github.com/airtrack/lua-debugger) - A simple command line lua debugger
+* [sivieri/lua-firmata](https://github.com/sivieri/lua-firmata) - Porting of Firmata in Lua
+* [lua-aplicado/lua-aplicado](https://github.com/lua-aplicado/lua-aplicado) - A random collection of application-level Lua libraries
+* [isage/lua-imagick](https://github.com/isage/lua-imagick) - Lua pure-c bindings to ImageMagick
+* [rtsisyk/luafun](https://github.com/rtsisyk/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+* [idevz/vanilla](https://github.com/idevz/vanilla) - An OpenResty Lua MVC Web Framework
+* [qwook/sunscript](https://github.com/qwook/sunscript) - a scripting language written in lua
+* [leafo/lua-twitter](https://github.com/leafo/lua-twitter) - A Lua twitter library that works with OpenResty or LuaSocket
+* [drmingdrmer/lua-paxos](https://github.com/drmingdrmer/lua-paxos) - classic paxos implementation in lua
 * [Yonaba/Raytracer](https://github.com/Yonaba/Raytracer) - A basic raytracer written in Lua
-* [Xamla/torch-ros](https://github.com/Xamla/torch-ros) - Torch7/lua wrapper of roscpp via ffi.
-* [woshihuo12/LuaDesignPattern](https://github.com/woshihuo12/LuaDesignPattern) - lua design pattern example code
 * [varbrad/super-soccer-sim-lua](https://github.com/varbrad/super-soccer-sim-lua) - A football simulation game where you play as a Director of Football of a club of your choice.
 * [tenntenn/lupe](https://github.com/tenntenn/lupe) - LUPE - Lua Debugger
 * [stevedonovan/lua-command-tools](https://github.com/stevedonovan/lua-command-tools) - Command-line utilties for performing common Lua one-liners, like matching string patterns and substitution.
-* [sivieri/lua-firmata](https://github.com/sivieri/lua-firmata) - Porting of Firmata in Lua
 * [siffiejoe/lua-testy](https://github.com/siffiejoe/lua-testy) - Easy unit testing for Lua modules
-* [shironecko/LuaMaze](https://github.com/shironecko/LuaMaze) - A tiny Lua module aimed at perfect maze random generation.
 * [rm-code/Graphoon](https://github.com/rm-code/Graphoon) - A force directed graph algorithm written in Lua.
 * [remjey/luaotp](https://github.com/remjey/luaotp) - A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
-* [remibergsma/fibaro-hc2-scenes](https://github.com/remibergsma/fibaro-hc2-scenes) - Scenes written in Lua for the Fibaro Home Center 2
-* [qqwer1/GoS-Lua](https://github.com/qqwer1/GoS-Lua) - 123
 * [profan/lua-bk-tree](https://github.com/profan/lua-bk-tree) - A pure Lua implementation of bk-trees, created because it was needed for fuzzy term matching.
 * [pelevesque/gamemath](https://github.com/pelevesque/gamemath) - A collection of Lua math functions useful for video games.
 * [nitoyon/lua-console-lightroom-plugin](https://github.com/nitoyon/lua-console-lightroom-plugin) - "Lua Console" plugin for Lightroom 3.0+
-* [moteus/lua-socket-async](https://github.com/moteus/lua-socket-async) - Asyncronus wrapper around LuaSocket library
 * [morfoh/lua-sodium](https://github.com/morfoh/lua-sodium) - Lua bindings for libsodium
 * [mimetic/corona-textrender](https://github.com/mimetic/corona-textrender) - A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics. (Takes over from corona-styled-textwrap)
 * [miletbaker/spriter2moai](https://github.com/miletbaker/spriter2moai) - Converts Spriter SCML files to lua file for use with Moai SDK
-* [maxiwell/conky-seamod](https://github.com/maxiwell/conky-seamod) - Seamod theme for conky 1.10 (lua config)
 * [maetrics/wireshark-scripts](https://github.com/maetrics/wireshark-scripts) - Wireshark Post-Descriptors written in LUA
-* [lujian101/LuaTableOptimizer](https://github.com/lujian101/LuaTableOptimizer) - simple readonly lua table optimizer
-* [lua-aplicado/lua-aplicado](https://github.com/lua-aplicado/lua-aplicado) - A random collection of application-level Lua libraries
 * [justincormack/luacparse-example](https://github.com/justincormack/luacparse-example) - Example of using clang to parse and generate Lua bindings
 * [jsimmons/tnetstrings.lua](https://github.com/jsimmons/tnetstrings.lua) - tnetstrings http://tnetstrings.org/ implementation in Lua
 * [jnwhiteh/snippets_luacode](https://github.com/jnwhiteh/snippets_luacode) - A website for the contribution, tagging, searching and discussing of Lua code recipes.
 * [jinq0123/hotfix](https://github.com/jinq0123/hotfix) - Lua 5.2/5.3 hotfix. Hot update functions and keep old data.
 * [james2doyle/Lico](https://github.com/james2doyle/Lico) - Lico is Pico re-written using Luvit for Lua
 * [JakeChapeskie/MyoScripts](https://github.com/JakeChapeskie/MyoScripts) - A collection of lua scripts for use with Myo
-* [isage/lua-imagick](https://github.com/isage/lua-imagick) - Lua pure-c bindings to ImageMagick
 * [idehong/ltest](https://github.com/idehong/ltest) - lua tester
 * [icrawler/HexaMoon](https://github.com/icrawler/HexaMoon) - Hexagonal Grid Library for Lua
 * [GUI/lua-libcidr-ffi](https://github.com/GUI/lua-libcidr-ffi) - LuaJIT FFI bindings to libcidr. Provides CIDR calculations for IPv4 and IPv6.
@@ -878,7 +926,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [bauen1/LuaMalwareToolkit](https://github.com/bauen1/LuaMalwareToolkit) - Educational Purpose only! This is a toolkit to assemble viruses for penetration testing on various platforms (ComputerCraft / OpenComputers / Lua 5.3)
 * [APItools/autoswagger.lua](https://github.com/APItools/autoswagger.lua) - Generate swagger specs from raw API traces
 * [antonheryanto/lua-resty-stack](https://github.com/antonheryanto/lua-resty-stack) - Openresty Simple Application Stack
-* [antonheryanto/lua-resty-post](https://github.com/antonheryanto/lua-resty-post) - HTTP post utility for openresty
 * [andremm/lad](https://github.com/andremm/lad) - Lua Assembler/Disassembler based on ChunkSpy
 * [aliasgar84/Appirater](https://github.com/aliasgar84/Appirater) - The famous Appirater is now ported for Corona SDK. Uses lua code.
 * [AdamBuchweitz/ToggleClass](https://github.com/AdamBuchweitz/ToggleClass) - A simple toggle class for Lua/CoronaSDK
@@ -888,12 +935,9 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [xs-embedded-llc/l2dbus](https://github.com/xs-embedded-llc/l2dbus) - Lua-to-D-Bus (L2DBUS) is a Lua module that provides a *nearly* complete binding to the D-Bus IPC service. It is not, however, a complete re-implementation of the D-Bus protocol in Lua but instead leverages the tested D-Bus reference library which implements the lower-level protocol stack. What L2DBUS does provide, however, is access to lower-level features of D-Bus along with a higher level abstraction to make developing Lua D-Bus clients and services easier. These capabilities make it entirely feasible to re-implement a low level program like *dbus-monitor* in Lua as well more complex client/server applications. In this respect the Lua binding is similar to the popular D-Bus Python binding without the implicit GLib/GObject dependency. Hopefully L2DBUS strikes a balance between both low and high level APIs so that there really isn't any D-Bus related feature that is not available to the developer.
 * [ocallaco/redis-queue](https://github.com/ocallaco/redis-queue) - a lua framework for queueing jobs using redis-async
 * [nielsvanspauwen/corona-async-http](https://github.com/nielsvanspauwen/corona-async-http) - A lua library enabling async http requests based on webpopups
-* [martin-damien/babel](https://github.com/martin-damien/babel) - Babel is a module to enable internationalisation in Lua applications. It is designed to work with LÖVE 2D too.
 * [kplaube/Gi-s-Rampage](https://github.com/kplaube/Gi-s-Rampage) - A little (and lovely) experiment with Lua and Corona.
-* [jessezha/CoAP-For-Wireshark](https://github.com/jessezha/CoAP-For-Wireshark) - A Lua implementation for CoAP dissector of wireshark
 * [excessive/iqe](https://github.com/excessive/iqe) - Load an Inter-Quake Export file into Lua
 * [dsoulayrol/flaw](https://github.com/dsoulayrol/flaw) - Fully Loaded AWesome - a LUA library to handle awesome widgets.
-* [britzl/defpro](https://github.com/britzl/defpro) - Defold Profiler interaction using Lua
 * [tobspr/LUATowerDefense](https://github.com/tobspr/LUATowerDefense) - Some small fun project, making towerdefense in LUA with Löve2D
 * [pkulchenko/LuaRemote](https://github.com/pkulchenko/LuaRemote) - Mobile Lua client for MobDebug
 * [hpenedones/luacnn](https://github.com/hpenedones/luacnn) - convolutional neural networks for hand digit recognition - uses torch7 and lua
@@ -902,7 +946,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [arrayfire/arrayfire-lua](https://github.com/arrayfire/arrayfire-lua) - Lua wrapper for ArrayFire
 * [luastar/luastar](https://github.com/luastar/luastar) - 一个用lua实现的基于openresty的接口(api)开发框架
 * [matthewhesketh/mattata](https://github.com/matthewhesketh/mattata) - mattata is a plugin-based bot for Telegram, written in Lua and regularly updated. Created by @matthewhesketh.
-* [satom99/litcord](https://github.com/satom99/litcord) - Yet another unofficial Lua client API for Discord.
 * [husl-colors/husl-lua](https://github.com/husl-colors/husl-lua) - Lua implementation of HUSL (revision 2)
 * [mlepage/polycube-solver](https://github.com/mlepage/polycube-solver) - Lua program using Algorithm X to solve the problem of packing polycubic pieces into boxes. Includes bit matrix module. MIT license.
 * [lilien1010/lua-resty-s3uploader](https://github.com/lilien1010/lua-resty-s3uploader) - an http s3 client for openresty
@@ -972,7 +1015,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [zhhchen/lua-resty-handlersocket](https://github.com/zhhchen/lua-resty-handlersocket) - lua-resty-handlersocket
 * [yuri/lua-xssfilter](https://github.com/yuri/lua-xssfilter) - An XSS filter written in Lua
 * [tarantool/tarantool-lua](https://github.com/tarantool/tarantool-lua) - Tarantool connector for Lua
-* [simenkid/lua-events](https://github.com/simenkid/lua-events) - A Lua EventEmitter class in node.js style.
 * [sam-github/lunit](https://github.com/sam-github/lunit) - unit testing for lua
 * [rdlaitila/lua-upperclass](https://github.com/rdlaitila/lua-upperclass) - Yet Another Lua Class Implimentation
 * [r0fls/luastats](https://github.com/r0fls/luastats) - Statistics for lua
@@ -1142,11 +1184,9 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Mashape/kong](https://github.com/Mashape/kong) -  Microservice & API Management Layer
 * [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 * [kennyledet/Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations) - Share, discuss and learn about algorithm implementations!
-* [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices
 * [axkibe/lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [SnabbCo/snabbswitch](https://github.com/SnabbCo/snabbswitch) - Snabb Switch: Simple and fast packet networking
 * [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
-* [copycat-killer/awesome-copycats](https://github.com/copycat-killer/awesome-copycats) - Awesome WM themes
 * [hawkthorne/hawkthorne-journey](https://github.com/hawkthorne/hawkthorne-journey) - Digital Estate Planning: The Game
 * [facebook/iTorch](https://github.com/facebook/iTorch) - IPython kernel for Torch with visualization and plotting
 * [yagop/telegram-bot](https://github.com/yagop/telegram-bot) - A Telegram Bot based on plugins
@@ -1161,7 +1201,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [garrynewman/garrysmod](https://github.com/garrynewman/garrysmod) - Sandbox mod for the Source Engine
 * [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 * [justincormack/ljsyscall](https://github.com/justincormack/ljsyscall) - LuaJIT Unix syscall FFI
-* [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.
 * [Fluorohydride/ygopro](https://github.com/Fluorohydride/ygopro) - A script engine for "yu-gi-oh!" and sample gui
 * [cznweb/arkos-pkgbuilds](https://github.com/cznweb/arkos-pkgbuilds) - Apps and files for the development of the arkOS distro [MIRROR]
 * [vrld/hump](https://github.com/vrld/hump) - LÖVE Helper Utilities for Massive Progression
@@ -1169,7 +1208,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Yonaba/Jumper](https://github.com/Yonaba/Jumper) - Fast, lightweight and easy-to-use pathfinding library for grid-based games
 * [wiremod/wire](https://github.com/wiremod/wire) - Garry's Mod add-on that allows users to wire up components in order to make more elaborate automatic and user-controlled contraptions.
 * [tekkub/wow-ui-source](https://github.com/tekkub/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
-* [copycat-killer/lain](https://github.com/copycat-killer/lain) - Awesome WM complements
 * [ymobe/rapanui](https://github.com/ymobe/rapanui) - High level API for MOAI framework
 * [FPtje/DarkRP](https://github.com/FPtje/DarkRP) - DarkRP, a non-serious roleplay gamemode for Garry's Mod.
 * [fab13n/metalua](https://github.com/fab13n/metalua) - The metalua programming language
@@ -1222,7 +1260,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [mikar/awesome-themes](https://github.com/mikar/awesome-themes) - themes for the current version of awesome-wm
 * [centos-bz/HttpGuard](https://github.com/centos-bz/HttpGuard) - prevent cc attack
 * [Germanunkol/trAInsported](https://github.com/Germanunkol/trAInsported) - Löve2D Game
-* [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - An experimental game framework written in luajit
 * [dmccuskey/DMC-Corona-Library](https://github.com/dmccuskey/DMC-Corona-Library) - Development library for Corona SDK
 * [ninjalulz/FORGOTTENSERVER-ORTS](https://github.com/ninjalulz/FORGOTTENSERVER-ORTS) - Try to make the perfect open real tibia server!
 * [josefnpat/vapor](https://github.com/josefnpat/vapor) - Vapor - LÖVE Distribution Client
@@ -1290,7 +1327,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Ofaloaf/postapoc](https://github.com/Ofaloaf/postapoc) - After the End is a post-apocalypse total conversion mod for Crusader Kings II
 * [500px/500pxPublisher.lrplugin](https://github.com/500px/500pxPublisher.lrplugin) - Lightroom Plugin for publishing directly to 500px
 * [roaminggamer/RG_FreeStuff](https://github.com/roaminggamer/RG_FreeStuff) - Roaming Gamer's Free Stuff Repository
-* [orts/server](https://github.com/orts/server) - A real map datapack based on TFS 1.2 engine
 * [UPenn-RoboCup/UPennalizers](https://github.com/UPenn-RoboCup/UPennalizers) - Open Source Repository for Team UPennalizers
 * [nsf/pnoise](https://github.com/nsf/pnoise) - Perlin noise benchmark
 * [kikito/love-loader](https://github.com/kikito/love-loader) - Threaded resource loading for LÖVE
@@ -1300,10 +1336,8 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [tdy/dots](https://github.com/tdy/dots) - Configs and screenshots from tdy's Arch Linux machines
 * [silentbicycle/wn](https://github.com/silentbicycle/wn) - "what next?" - simple command-line task-interdependency tracker
 * [cycojesus/awesome-solarized](https://github.com/cycojesus/awesome-solarized) - @altercation's solarized themes for awesome
-* [Mic92/vicious](https://github.com/Mic92/vicious) - Vicious is a modular widget library for the "awesome" window manager.
 * [Adze1502/mwan](https://github.com/Adze1502/mwan) - Simple policy routing for multiple WANs in OpenWrt
 * [soumith/imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch) - an imagenet example free of fbcunn dependencies in torch.
-* [renstrom/NeavUI](https://github.com/renstrom/NeavUI) - Development branch of Neav UI
 * [khaledhosny/euler-otf](https://github.com/khaledhosny/euler-otf) - An OpenType/Unicode math port of AMS Euler font
 * [forthxu/talkbox](https://github.com/forthxu/talkbox) - a talkbox build with skynet
 * [GymbylCoding/CBEffects](https://github.com/GymbylCoding/CBEffects) - The ultimate Corona SDK particle effects engine.
@@ -1324,9 +1358,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [RafaelDeJongh/cap](https://github.com/RafaelDeJongh/cap) - Carter Addons Pack Code
 * [Haleth/FreeUI](https://github.com/Haleth/FreeUI) - A World of Warcraft user interface
 * [GlitchGames/GGData](https://github.com/GlitchGames/GGData) - GGData is a simple persistent data storage class for your game or app. Currently it supports the Corona SDK and Love 2D.
-* [CapsAdmin/pac3](https://github.com/CapsAdmin/pac3) - a character and entity editor for garry's mod
 * [tales/sourceoftales](https://github.com/tales/sourceoftales) - Our entry for the Liberated Pixel Cup.
-* [pixeltailgames/cinema](https://github.com/pixeltailgames/cinema) - Gamemode for Garry's Mod featuring multiplayer video streaming.
 * [minetest-technic/technic](https://github.com/minetest-technic/technic) - Technic mod for Minetest
 * [adamdburton/pointshop](https://github.com/adamdburton/pointshop) - PointShop is a shop system for Garry's Mod 13 developed by _Undefined
 * [OutlawGameTools/Lime2DTileEngine](https://github.com/OutlawGameTools/Lime2DTileEngine) - Library for creating 2D tile-based games with Corona SDK.
@@ -1362,7 +1394,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Thalassicus/cep-bnw](https://github.com/Thalassicus/cep-bnw) - Civ V Communitas Expansion Pack
 * [RafaelDeJongh/cap_resources](https://github.com/RafaelDeJongh/cap_resources) - Cap resource files
 * [waf/nice-and-clean-theme](https://github.com/waf/nice-and-clean-theme) - A port of the Openbox "nice and clean" theme for awesome window manager
-* [tullamods/Dominos](https://github.com/tullamods/Dominos) - WoW Addon - A main actionbar replacement
 * [tarantool/queue](https://github.com/tarantool/queue) - Create task queues, add and take jobs, monitor failed tasks
 * [keplerproject/cgilua](https://github.com/keplerproject/cgilua) - CGILua is a tool for creating dynamic HTML pages and manipulating input data from Web forms.
 * [johnpolacek/Match-The-Letter-Game](https://github.com/johnpolacek/Match-The-Letter-Game) - Match The Letter is a cross-device mobile educational game for kids built with the Corona SDK
@@ -1454,12 +1485,10 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [mtourne/ngx.shcache](https://github.com/mtourne/ngx.shcache) - shcache - simple cache object atop ngx.shared.DICT
 * [mechanicalmind/murder](https://github.com/mechanicalmind/murder) - Garry's Mod Murder Gamemode
 * [jdesgats/ILuaJIT](https://github.com/jdesgats/ILuaJIT) - Readline powered shell for LuaJIT
-* [hoelzro/obvious](https://github.com/hoelzro/obvious) - Widget library for the awesome window manager
 * [aypierre42/FTP](https://github.com/aypierre42/FTP) - Programmes dans FTP
 * [Elv13/blind](https://github.com/Elv13/blind) - An pack of advanced themes for Awesome WM
 * [Chessnut/hl2rp](https://github.com/Chessnut/hl2rp) - A NutScript framework schema based off Half-Life 2.
 * [BenDol/otclient-candybot](https://github.com/BenDol/otclient-candybot) - CandyBot is designed to fill the 'bot' gap for OTClient. Botting is a big part of OpenTibia, many people have demanded this functionality for OTClient so people that want to just have fun in OpenTibia servers can do so.
-* [Aviana/LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames) - Unit Frames for WoW 1.12.1
 * [thefnox/Tiramisu--outdated--don-t-use-](https://github.com/thefnox/Tiramisu--outdated--don-t-use-) - Roleplay Gamemode for Garry's Mod
 * [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
 * [netjungle/courseplay](https://github.com/netjungle/courseplay) - PathTractor for FS 2011
@@ -1470,14 +1499,12 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Wiladams/LJIT2RPi](https://github.com/Wiladams/LJIT2RPi) - LuaJIT FFI Interop to Raspberry Pi
 * [Quenty/NevermoreEngine](https://github.com/Quenty/NevermoreEngine) - NevermoreEngine
 * [Positive07/material-love](https://github.com/Positive07/material-love) - Implementing parts of the material-design spec in LÖVE
-* [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
 * [unclebob/PDP8EmulatorIpad](https://github.com/unclebob/PDP8EmulatorIpad) - PDP8 Emulator for the iPad
 * [prefanatic/exsto](https://github.com/prefanatic/exsto) - Its a framework for Garry's Mode.
 * [pkulchenko/ZeroBranePackage](https://github.com/pkulchenko/ZeroBranePackage) - Packages for ZeroBrane Studio
 * [picsoung/uberSlackBot](https://github.com/picsoung/uberSlackBot) - A bot for Slack to get Uber price estimates
 * [perky/Goo](https://github.com/perky/Goo) - Gui and animation lib for love2d game library.
 * [kengonakajima/luvit-mysql](https://github.com/kengonakajima/luvit-mysql) - Luvit port of node-mysql
-* [ioddly/love-repl](https://github.com/ioddly/love-repl) - Magic-free in-game REPL for the Love game engine
 * [intrntbrn/awesome](https://github.com/intrntbrn/awesome) - awesome wm
 * [gyakovlev/xCT](https://github.com/gyakovlev/xCT) - X Combat Text
 * [funkyvisions/EndlessScroller](https://github.com/funkyvisions/EndlessScroller) - Endless Scroller example using Corona SDK
@@ -1527,7 +1554,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [HandsomeMatt/3d2d-vgui](https://github.com/HandsomeMatt/3d2d-vgui) - https://gitlab.com/HandsomeMatt/3d2d-vgui
 * [GTWCode/GTW-RPG](https://github.com/GTWCode/GTW-RPG) - Package of Real life/RPG resources for the multiplayer mod "Multi Theft Auto" for the game "Grand Theft Auto - San Andreas".
 * [Duffed/Duffed-UI](https://github.com/Duffed/Duffed-UI) - Duffed's Interface
-* [Argon-/mpv-stats](https://github.com/Argon-/mpv-stats) - Display file statistics in mpv. Using mpv ≤ 0.9.2? Go here: https://github.com/Argon-/mpv-stats/releases/tag/0.1
 * [3SillyHats/LoveHotel](https://github.com/3SillyHats/LoveHotel) - Build and manage a sexy hotel for lovestruck couples, making the most of a skimpy budget and showing your guests a great time.
 * [sda97ghb/realtest](https://github.com/sda97ghb/realtest) - Realtest game for Minetest
 * [mokasin/apw](https://github.com/mokasin/apw) - Small and simple Awesome WM widget to control volume of Pulseaudio.
@@ -1566,7 +1592,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [creationix/weblit](https://github.com/creationix/weblit) - A web framework for luvit 2.0 and lit
 * [blankoworld/makefly](https://github.com/blankoworld/makefly) - Makefly is a fast and lightweight command line alternative to Nanoblogger static weblog engine
 * [Taytay/api-proxy-3scale-heroku](https://github.com/Taytay/api-proxy-3scale-heroku) - A sample 3Scale API Proxy running on Heroku
-* [RealUI/RealUI](https://github.com/RealUI/RealUI) - A minimalistic UI designed to be functional, yet also efficient and elegant.
 * [Jasje/JasjeUI](https://github.com/Jasje/JasjeUI) - Jasje Edit
 * [torch/senna](https://github.com/torch/senna) - NLP SENNA (http://ml.nec-labs.com/senna) interface to LuaJIT
 * [sk89q/PlayX](https://github.com/sk89q/PlayX) - In-game Internet (YouTube, Vimeo, etc.) media player for Garry's Mod
