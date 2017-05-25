@@ -1126,7 +1126,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [wstucco/ssga.lua](https://github.com/wstucco/ssga.lua) - Server Side Google Analytics in LUA
 * [wscherphof/lua-set](https://github.com/wscherphof/lua-set) - Straightforward Set library for Lua
 * [whoopdedo/number-lua](https://github.com/whoopdedo/number-lua) - NumberScript is a little language that compiles into Lua
-* [vadi2/mudlet-lua](https://github.com/vadi2/mudlet-lua) - Official location of the LuaGlobal additions for Mudlet
+* [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD client with scripting in Lua
 * [thormagnusson/sclua](https://github.com/thormagnusson/sclua) - This library is a lua client for SC-Server. It is a simple client that implements most of the interface of SC-Server.
 * [sgraf812/push](https://github.com/sgraf812/push) - Lua library implementing knockout.js-like observable properties.
 * [raycmorgan/wsapi-more](https://github.com/raycmorgan/wsapi-more) - Lua - addons for the wsapi library
