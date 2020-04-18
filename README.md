@@ -12,6 +12,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) - Open Source Neural Machine Translation in Torch (deprecated)
 * [apache/incubator-apisix](https://github.com/apache/incubator-apisix) - Cloud-Native Microservices API Gateway
 * [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
+* [@runluabot](https://t.me/runluabot) - A Telegram bot that executes Lua code.
 * [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 * [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 * [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
