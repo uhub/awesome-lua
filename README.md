@@ -5,6 +5,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 * [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 * [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
+* [sodomon2/SODPlayer](https://github.com/sodomon2/SODPlayer) - A lua-based video playing software made with GTK and GStreamer
 * [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 * [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 * [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
