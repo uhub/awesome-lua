@@ -1066,3 +1066,4 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [adnzzzzZ/boipushy](https://github.com/adnzzzzZ/boipushy) - Input module for LÖVE
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 * [GUI/lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
+* [xmake](https://github.com/xmake-io/xmake) -  A cross-platform build utility based on Lua
