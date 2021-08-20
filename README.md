@@ -1061,3 +1061,4 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [adnzzzzZ/boipushy](https://github.com/adnzzzzZ/boipushy) - Input module for LÖVE
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 * [GUI/lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
+* [ESP32 IoT toolkit and web framework](https://github.com/RealTimeLogic/LspAppMgr-ESP32) - Create an advanced ESP32 powered Edge Controller and IoT Gateway using Lua.
