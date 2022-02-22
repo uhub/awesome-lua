@@ -3,6 +3,7 @@
 A curated list of awesome Lua frameworks, libraries and software.
 
 * [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+* [Barracuda App Server](https://github.com/RealTimeLogic/BAS) - a web and application server designed for embedded systems with a Lua framework called [LSP](https://realtimelogic.com/products/lua-server-pages/).
 * [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 * [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
