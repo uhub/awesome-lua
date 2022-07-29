@@ -1067,3 +1067,4 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [adnzzzzZ/boipushy](https://github.com/adnzzzzZ/boipushy) - Input module for LÖVE
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 * [GUI/lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
+* [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage) - Framework for service management based on openresty
