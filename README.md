@@ -1,7 +1,7 @@
 # awesome-lua
 
 A curated list of awesome Lua frameworks, libraries and software.
-
+*  [Barracuda App Server](https://github.com/RealTimeLogic/BAS) - a web and application server designed for embedded systems with a Lua framework called [LSP](https://realtimelogic.com/products/lua-server-pages/).
 * [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 * [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
