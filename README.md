@@ -355,6 +355,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
 * [teckel12/LuaTelemetry](https://github.com/teckel12/LuaTelemetry) - FrSky SmartPort(S.Port), D-series, F.Port and TBS Crossfire telemetry on all Taranis and Horus transmitters
 * [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
+* [svermeulen/lusc](https://github.com/svermeulen/lusc) - Structured Async/Concurrency for Lua
 * [Alloyed/lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 * [rxi/log.lua](https://github.com/rxi/log.lua) - A tiny logging module for Lua
 * [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Fish/Zsh, Neovim, and Tmux
