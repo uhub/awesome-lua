@@ -57,7 +57,7 @@ Lua
 * [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) - Release lua-language-server for VSCode
 * [Alloyed/lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 * [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
-* [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
+* [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
 * [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
 
 ### Debugging
@@ -89,7 +89,7 @@ Lua
 <!-- keywords: test -->
 * [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 * [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
-* [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be used directly or work with Continuous Integration platforms (Jenkins, Maven, ...).
+* [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a unit-testing framework, with an interface typical of xUnit libraries (Python unittest, Junit). It supports several output formats
 * [norman/telescope](https://github.com/norman/telescope) - A highly customizable test library for Lua that allows declarative tests with nested contexts.
 * [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework
 * [silentbicycle/lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style + randomized unit testing framework for Lua (and C projects using Lua, etc.)
@@ -109,7 +109,7 @@ Lua
 * [stravant/LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
 * [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 * [keplerproject/luadoc](https://github.com/keplerproject/luadoc) - LuaDoc is obsolete, use LDoc instead →
-* [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty-printed example files.
+* [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments
 
 ### Build
 
@@ -194,11 +194,11 @@ Lua
 
 <!-- keywords: json, xml, html, parse, msgpack, serializ -->
 * [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
-* [craigmj/json4lua](https://github.com/craigmj/json4lua) - JSON (Javascript Object Notation - http://www.json.org) encoding / decoding module for Lua, and very basic JSON RPC module (requiring socket 2.0).Module requires compat-5.1 if using Lua 5.0.This repository was converted from a CVS repository on luaforge.net on Jan. 20, 2010.
+* [craigmj/json4lua](https://github.com/craigmj/json4lua) - JSON encoding / decoding module for Lua, and very basic JSON RPC module
 * [Phrogz/NeatJSON](https://github.com/Phrogz/NeatJSON) - Pretty-print your JSON in Ruby, JS, or Lua with more power than JSON.stringify or JSON.pretty_generate
 * [api7/jsonschema](https://github.com/api7/jsonschema) - Pure Lua JSON schema validator for Lua/LuaJIT
 * [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
-* [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.
+* [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua. Parses JSON using LPEG for speed and flexibility
 * [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
 * [Cluain/Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser) - Read simple XML easily
 * [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
@@ -235,7 +235,7 @@ Lua
 ### Frameworks
 
 <!-- keywords: framework, web -->
-* [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.
+* [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework to simplify the task of building fast and scalable network applications. It uses a non-blocking design to deliver excellent performance. Also providing excellent support for embedded uses
 * [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 * [sailorproject/sailor](https://github.com/sailorproject/sailor) - A Lua MVC Web Framework.
 * [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic Redbean-based Lua web framework in one file.
