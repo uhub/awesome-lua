@@ -1,8 +1,50 @@
+<!-- omit from toc -->
 # awesome-lua
 
 A curated list of awesome Lua frameworks, libraries and software.
 
-## 🚧 development
+- [🚧 Development](#-development)
+	- [Debugging](#debugging)
+	- [Logging](#logging)
+	- [Testing](#testing)
+	- [Standalone utils](#standalone-utils)
+	- [Build](#build)
+	- [Helpers](#helpers)
+	- [Other](#other)
+- [🔧 Utils / Small libs](#-utils--small-libs)
+	- [Crypto](#crypto)
+	- [Parsing / Serialization](#parsing--serialization)
+	- [OOP / Classes](#oop--classes)
+- [🕸️ Web](#️-web)
+	- [Frameworks](#frameworks)
+	- [Clients](#clients)
+	- [Servers](#servers)
+	- [Templating](#templating)
+	- [OpenResty (ngx)](#openresty-ngx)
+	- [other](#other-1)
+- [🔗 API services](#-api-services)
+	- [Frameworks](#frameworks-1)
+	- [Applications](#applications)
+- [🧶 Applications-related](#-applications-related)
+	- [Nvim](#nvim)
+	- [MPV](#mpv)
+	- [Vim](#vim)
+	- [Other](#other-2)
+- [🎮 Game development](#-game-development)
+	- [love2d](#love2d)
+	- [GTA V](#gta-v)
+	- [Roblox](#roblox)
+	- [Garry's Mod](#garrys-mod)
+	- [World Of Warcraft](#world-of-warcraft)
+	- [Other](#other-3)
+- [📦 Storages](#-storages)
+	- [Redis](#redis)
+	- [SQL\*](#sql)
+	- [Tarantool](#tarantool)
+- [😕 Unsorted](#-unsorted)
+
+
+## 🚧 Development
 <!-- Не включать сюда всякие OOP, functional programming и тж. Это все в utils -->
 
 <!-- keywords: language server, luarocks, vscode, ide -->
@@ -18,7 +60,7 @@ Lua
 * [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
 * [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
 
-### debugging
+### Debugging
 
 <!-- keywords: profiler, panda, luajit, debug, repl, trace -->
 * [mindreframer/ProFi.lua](https://github.com/mindreframer/ProFi.lua) - a non-official git mirror for ProFi, a Lua profiler
@@ -35,14 +77,14 @@ Lua
 * [ignacio/StackTracePlus](https://github.com/ignacio/StackTracePlus) - StackTracePlus provides enhanced stack traces for Lua.
 * [geoffleyland/luatrace](https://github.com/geoffleyland/luatrace) - A tool for tracing Lua script execution and analysing time profiles and coverage
 
-### logging
+### Logging
 
 <!-- keywords: log -->
 * [rxi/log.lua](https://github.com/rxi/log.lua) - A tiny logging module for Lua
 * [Neopallium/lualogging](https://github.com/Neopallium/lualogging) - New maintainer at: https://github.com/lunarmodules/lualogging
 * [moteus/lua-log](https://github.com/moteus/lua-log) - Asynchronous logging library for Lua
 
-### testing
+### Testing
 
 <!-- keywords: test -->
 * [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
@@ -53,7 +95,7 @@ Lua
 * [silentbicycle/lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style + randomized unit testing framework for Lua (and C projects using Lua, etc.)
 * [IUdalov/u-test](https://github.com/IUdalov/u-test) - Sane and simple unit testing framework for Lua
 
-### standalone utils
+### Standalone utils
 
 <!-- keywords: lint, coverage, analy, obfuscator, minifier, pretty -->
 * [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
@@ -69,7 +111,7 @@ Lua
 * [keplerproject/luadoc](https://github.com/keplerproject/luadoc) - LuaDoc is obsolete, use LDoc instead →
 * [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty-printed example files.
 
-### build
+### Build
 
 <!-- keywords: static, build -->
 * [ers35/luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
@@ -78,7 +120,7 @@ Lua
 * [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 * [stevedonovan/Lake](https://github.com/stevedonovan/Lake) - A Lua-based Build Tool
 
-### helpers
+### Helpers
 
 * [leegao/see.lua](https://github.com/leegao/see.lua) - A Lua 5.x/LuaJIT introspection library for humans
 * [pkulchenko/serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer.
@@ -87,7 +129,7 @@ Lua
 * [asqbtcupid/lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate) - lua hotudpate(hot swap) implementation
 * [cloudwu/luareload](https://github.com/cloudwu/luareload) - reload a lua module
 
-### other
+### Other
 
 * [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 * [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
@@ -105,7 +147,7 @@ Lua
 * [yaukeywang/LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump) - Lua memory snapshot dump utility, used for memory leak detection
 
 
-## 🔧 utils / small libs
+## 🔧 Utils / Small libs
 
 * [kikito/memoize.lua](https://github.com/kikito/memoize.lua) - memoized functions in lua
 * [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming in Lua
@@ -136,7 +178,7 @@ Lua
 * [kikito/semver.lua](https://github.com/kikito/semver.lua) - Semantic versioning for Lua
 
 
-### crypto
+### Crypto
 
 <!-- keywords: crypto, md5, aes, sha, base64 -->
 * [philanc/plc](https://github.com/philanc/plc) - Pure Lua Crypto
@@ -148,7 +190,7 @@ Lua
 * [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
 * [aiq/basexx](https://github.com/aiq/basexx) - A Lua library which provides base2(bitfield), base16(hex), base32(crockford/rfc), base64(rfc/url), base85(z85) decoding and encoding.
 
-### parsing / serialization
+### Parsing / Serialization
 
 <!-- keywords: json, xml, html, parse, msgpack, serializ -->
 * [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
@@ -170,7 +212,7 @@ Lua
 * [gvx/bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT
 * [bakpakin/binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 
-### OOP / classes
+### OOP / Classes
 
 <!-- keywords: class, oop, lexing -->
 * [rxi/classic](https://github.com/rxi/classic) - Tiny class module for Lua
@@ -429,7 +471,7 @@ Lua
 
 ## 🔗 API services
 
-### frameworks
+### Frameworks
 
 * [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia) - Discord API library written in Lua for the Luvit runtime environment
 * [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
@@ -437,7 +479,7 @@ Lua
 * [wrxck/telegram-bot-lua](https://github.com/wrxck/telegram-bot-lua) - A simple yet extensive Lua library for the Telegram bot API.
 * [topkecleon/otouto](https://github.com/topkecleon/otouto) - A Lua-based Telegram bot with plugins.
 
-### applications
+### Applications
 
 * [MutePuker/TeleMute](https://github.com/MutePuker/TeleMute) - A Telegram-CLI Administration Telgram bot in Lua - New TG
 * [Bambooir/TeleSeed](https://github.com/Bambooir/TeleSeed) - A Telegram-CLI Administration Telegram bot in Lua
@@ -447,7 +489,7 @@ Lua
 
 ## 🧶 Applications-related
 
-### nvim
+### Nvim
 
 <!-- keywords: nvim, telescope, neovim, neo* -->
 * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -909,7 +951,7 @@ nvim' library.
 * [wiiaboo/mpv-scripts](https://github.com/wiiaboo/mpv-scripts) - Scripts I've made or adapted from others
 * [rossy/mpv-repl](https://github.com/rossy/mpv-repl) - A graphical REPL for mpv input commands
 
-### vim
+### Vim
 
 * [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 * [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
@@ -920,7 +962,7 @@ nvim' library.
 * [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - Ok, hear me out. vim9script... but in lua... so fast
 * [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - light of sun, more than IDE
 
-### other
+### Other
 
 <!-- keywords: lvim, awesome, nmap, wireshark -->
 * [abzcoding/lvim](https://github.com/abzcoding/lvim) - 🧑‍🚀 Bloated LunarVim 🚀
@@ -1066,12 +1108,12 @@ nvim' library.
 * [RedisLabs/geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices
 * [RedisLabs/redis-lua-debugger](https://github.com/RedisLabs/redis-lua-debugger) - A Redis Lua script for debugging Redis Lua scripts
 
-### sql
+### SQL*
 
 * [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 * [itdxer/4DaysORM](https://github.com/itdxer/4DaysORM) - Lua 4Days ORM for sqlite3 and mysql
 
-### tarantool
+### Tarantool
 
 * [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 * [mailru/tntlua](https://github.com/mailru/tntlua) - Tarantool 1.5 Lua stored procedures
