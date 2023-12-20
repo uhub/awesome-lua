@@ -139,8 +139,6 @@ end
 
 --- @param item ParsedHeaderItem
 local function calc_item_score(item)
-	if item.info.archived then return -math.huge end
-
 	local score = 0
 	score = score + math.sqrt(item.info.stars) -- sqrt 1 = 1, 10 = 3.16, 100 = 10, 1000 = 31.6, 10000 = 100
 	-- score = score + item.info.subscribers
@@ -165,6 +163,10 @@ local function calc_item_score(item)
 		-- local delta = 1 - math.min(item.info.last_commit_days_ago, 90) / 90 -- 0..1 higher is better
 		local delta = 1 - math.min(item.info.last_commit_days_ago, 180) / 90 -- -1..1 higher is better
 		score = score + math.max(delta * 30, -5) -- -5..30
+	end
+
+	if item.info.archived then
+		score = score - 20
 	end
 
 	return score
@@ -288,21 +290,21 @@ local function count_items(all_headers)
 	return total_items
 end
 
-local function create_header(level, name, items)
-	sort_items_by_score(items)
-
+local function create_list_of_formatted_items(items, formatter)
 	local body = ""
 	for _, item in ipairs(items) do
-		body = body .. generate_spoiled_item(item) .. "\n"
+		body = body .. formatter(item) .. "\n"
 	end
+	return body
+end
+
+local function create_header_struct(level, name, items, item_formatter)
+	sort_items_by_score(items)
 
 	local struct = {
-		header_level = level,
-		header_name = name,
-		items = items,
 		[1] = string.rep("#", level) .. " " .. name,
 		[2] = "\n\n",
-		[3] = body,
+		[3] = create_list_of_formatted_items(items, item_formatter),
 	}
 
 	return struct
@@ -323,15 +325,15 @@ local function get_meta(page_struct)
 	})
 end
 
-local function create_structure_text(category_tree)
-	local root_struct = create_header(1, category_tree[1].header_name, category_tree[1].items)
+local function create_structure_text(category_tree, item_formatter)
+	local root_struct = create_header_struct(1, category_tree[1].header_name, category_tree[1].items, item_formatter)
 	table.insert(root_struct, 3, get_meta(category_tree))
 
 	local content = table.concat(root_struct)
 
 	for i = 2, #category_tree do
 		local category = category_tree[i]
-		local struct = create_header(category.header_level, category.header_name, category.items)
+		local struct = create_header_struct(category.header_level, category.header_name, category.items, item_formatter)
 		content = content .. table.concat(struct) .. "\n"
 	end
 
@@ -355,7 +357,7 @@ local function create_category_file(headers)
 		"---",
 		"sidebar_position: " .. sidebar_position,
 		"---\n\n",
-	}, "\n") .. create_structure_text(headers)
+	}, "\n") .. create_structure_text(headers, generate_spoiled_item)
 
 	local slug = generate_slug(headers[1].header_name)
 	file_write("site/docs/" .. slug .. ".md", content)
@@ -367,11 +369,11 @@ local function create_index_file(headers)
 
 	local content = table.concat({
 		"---",
-		"title: All In One",
+		"title: All In One Simple List",
 		"slug: /",
 		"sidebar_position: " .. sidebar_position, -- always 1
 		"---\n\n",
-	}, "\n") .. create_structure_text(headers)
+	}, "\n") .. create_structure_text(headers, generate_list_item)
 
 	file_write("site/docs/index.md", content)
 end

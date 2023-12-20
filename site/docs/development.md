@@ -5,7 +5,7 @@ sidebar_position: 2
 # 🚧 Development
 
 **Total items**: 70 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -301,7 +301,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [Neopallium/lualogging](https://github.com/Neopallium/lualogging) – New maintainer at: https://github.com/lunarmodules/lualogging</summary>
+<summary>⚫ -3 [Neopallium/lualogging](https://github.com/Neopallium/lualogging) – New maintainer at: https://github.com/lunarmodules/lualogging</summary>
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 67 **Stars**: 146 **Issues**: 5 \
@@ -363,7 +363,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 6 **Forks**: 11 **Stars**: 97 **Issues**: 0 \
-**Last commit**: 2023-08-22 (119 days ago) \
+**Last commit**: 2023-08-22 (120 days ago) \
 **Created at**: 2015-01-02 \
 **License**: MIT License
 
@@ -421,7 +421,7 @@ Last commit..
 
 **Topics**: `linter`, `lua` \
 **Watchers**: 54 **Forks**: 306 **Stars**: 1829 **Issues**: 45 \
-**Last commit**: 2022-12-18 (366 days ago) \
+**Last commit**: 2022-12-18 (367 days ago) \
 **Created at**: 2014-03-10 \
 **License**: MIT License
 
@@ -516,7 +516,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [keplerproject/luadoc](https://github.com/keplerproject/luadoc) – LuaDoc is obsolete, use LDoc instead →</summary>
+<summary>⚫ -6 [keplerproject/luadoc](https://github.com/keplerproject/luadoc) – LuaDoc is obsolete, use LDoc instead →</summary>
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 26 **Stars**: 81 **Issues**: 1 \
@@ -643,7 +643,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [cloudwu/luareload](https://github.com/cloudwu/luareload) – reload a lua module</summary>
+<summary>⚫ -2 [cloudwu/luareload](https://github.com/cloudwu/luareload) – reload a lua module</summary>
 
 **Topics**: none \
 **Watchers**: 16 **Forks**: 50 **Stars**: 148 **Issues**: 7 \
@@ -679,11 +679,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 81 [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.</summary>
+<summary>🟡 81 [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.</summary>
 
 **Topics**: `c`, `compiler`, `efficient`, `language`, `lua`, `luajit`, `metaprogramming`, `minimal`, `nelua`, `programming-language`, `statically-typed` \
 **Watchers**: 45 **Forks**: 56 **Stars**: 1722 **Issues**: 6 \
-**Last commit**: 2023-11-19 (30 days ago) \
+**Last commit**: 2023-11-19 (31 days ago) \
 **Created at**: 2017-10-28 \
 **License**: MIT License
 
@@ -800,7 +800,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [facebookresearch/CParser](https://github.com/facebookresearch/CParser) – A compact C preprocessor and declaration parser written in pure Lua</summary>
+<summary>⚫ 0 [facebookresearch/CParser](https://github.com/facebookresearch/CParser) – A compact C preprocessor and declaration parser written in pure Lua</summary>
 
 **Topics**: none \
 **Watchers**: 24 **Forks**: 24 **Stars**: 203 **Issues**: 0 \

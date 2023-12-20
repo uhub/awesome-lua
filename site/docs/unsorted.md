@@ -5,7 +5,7 @@ sidebar_position: 9
 # 😕 Unsorted
 
 **Total items**: 239 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -131,7 +131,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 61 [esx-framework/esx-legacy](https://github.com/esx-framework/esx-legacy) – Official Repo For core resources for esx-legacy</summary>
+<summary>⚪ 61 [esx-framework/esx_core](https://github.com/esx-framework/esx_core) – Official Repo For core resources for esx-legacy</summary>
 
 **Topics**: `core`, `esx`, `esx-framework`, `fivem`, `grandtheftauto5`, `lua`, `roleplay`, `rp`, `server` \
 **Watchers**: 14 **Forks**: 742 **Stars**: 315 **Issues**: 24 \
@@ -142,7 +142,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 61 [esx-framework/esx_core](https://github.com/esx-framework/esx_core) – Official Repo For core resources for esx-legacy</summary>
+<summary>⚪ 61 [esx-framework/esx-legacy](https://github.com/esx-framework/esx-legacy) – Official Repo For core resources for esx-legacy</summary>
 
 **Topics**: `core`, `esx`, `esx-framework`, `fivem`, `grandtheftauto5`, `lua`, `roleplay`, `rp`, `server` \
 **Watchers**: 14 **Forks**: 742 **Stars**: 315 **Issues**: 24 \
@@ -219,6 +219,17 @@ Last commit..
 </details>
 
 <details>
+<summary>⚫ 56 [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) – Facebook AI Research Sequence-to-Sequence Toolkit</summary>
+
+**Topics**: none \
+**Watchers**: 212 **Forks**: 633 **Stars**: 3757 **Issues**: 16 \
+**Last commit**: 2021-09-17 (824 days ago) \
+**Created at**: 2017-03-12 \
+**License**: Other
+
+</details>
+
+<details>
 <summary>⚪ 56 [DeadlyBossMods/DBM-Retail](https://github.com/DeadlyBossMods/DBM-Retail) – The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.</summary>
 
 **Topics**: `boss`, `encounter`, `lua`, `world-of-warcraft`, `wow`, `wow-addon` \
@@ -252,17 +263,6 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 54 [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) – Tiled scrollable window manager for MacOS</summary>
-
-**Topics**: `hammerspoon`, `lua`, `macos`, `osx`, `paperwm`, `tiling-window-manager`, `window-manager` \
-**Watchers**: 7 **Forks**: 10 **Stars**: 158 **Issues**: 4 \
-**Last commit**: 2023-12-14 (5 days ago) \
-**Created at**: 2021-12-21 \
-**License**: MIT License
-
-</details>
-
-<details>
 <summary>⚪ 53 [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) – My personal Hammerspoon configuration - mirrored from GitLab</summary>
 
 **Topics**: `configuration`, `hacktoberfest`, `hammerspoon`, `literate-configuration`, `literate-programming`, `lua`, `mac` \
@@ -270,6 +270,17 @@ Last commit..
 **Last commit**: 2023-12-14 (6 days ago) \
 **Created at**: 2015-10-23 \
 **License**: none
+
+</details>
+
+<details>
+<summary>⚪ 53 [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) – Tiled scrollable window manager for MacOS</summary>
+
+**Topics**: `hammerspoon`, `lua`, `macos`, `osx`, `paperwm`, `tiling-window-manager`, `window-manager` \
+**Watchers**: 7 **Forks**: 10 **Stars**: 158 **Issues**: 4 \
+**Last commit**: 2023-12-14 (6 days ago) \
+**Created at**: 2021-12-21 \
+**License**: MIT License
 
 </details>
 
@@ -410,7 +421,7 @@ Last commit..
 
 **Topics**: `2d`, `game`, `game-development`, `gamedev`, `indie`, `indiedev`, `love2d`, `lua`, `retro`, `rpg`, `shooter`, `terminal`, `terminal-game`, `tutorial` \
 **Watchers**: 20 **Forks**: 80 **Stars**: 1326 **Issues**: 4 \
-**Last commit**: 2020-10-17 (1158 days ago) \
+**Last commit**: 2020-10-17 (1159 days ago) \
 **Created at**: 2020-07-04 \
 **License**: Other
 
@@ -575,7 +586,7 @@ Last commit..
 
 **Topics**: `imgui`, `luajit`, `luajit-ffi` \
 **Watchers**: 8 **Forks**: 28 **Stars**: 191 **Issues**: 4 \
-**Last commit**: 2023-11-27 (22 days ago) \
+**Last commit**: 2023-11-27 (23 days ago) \
 **Created at**: 2018-02-26 \
 **License**: MIT License
 
@@ -676,6 +687,17 @@ Last commit..
 **Watchers**: 34 **Forks**: 340 **Stars**: 1003 **Issues**: 6 \
 **Last commit**: 2022-06-21 (546 days ago) \
 **Created at**: 2018-10-12 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>⚫ 43 [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) – Open Source Neural Machine Translation in Torch (deprecated)</summary>
+
+**Topics**: `deep-learning`, `lua`, `machine-translation`, `neural-machine-translation`, `opennmt`, `torch` \
+**Watchers**: 153 **Forks**: 484 **Stars**: 2379 **Issues**: 46 \
+**Last commit**: 2020-02-19 (1400 days ago) \
+**Created at**: 2016-10-24 \
 **License**: MIT License
 
 </details>
@@ -971,7 +993,7 @@ Last commit..
 
 **Topics**: `lua`, `lua-binding`, `multithreading`, `pthreads`, `threading` \
 **Watchers**: 4 **Forks**: 22 **Stars**: 72 **Issues**: 4 \
-**Last commit**: 2023-10-16 (64 days ago) \
+**Last commit**: 2023-10-16 (65 days ago) \
 **Created at**: 2013-12-26 \
 **License**: MIT License
 
@@ -1017,6 +1039,17 @@ Last commit..
 **Watchers**: 11 **Forks**: 8 **Stars**: 107 **Issues**: 12 \
 **Last commit**: 2023-10-03 (77 days ago) \
 **Created at**: 2019-12-22 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>🟢 25 [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) – :newspaper: Static site/blog generator written in Lua.</summary>
+
+**Topics**: none \
+**Watchers**: 14 **Forks**: 32 **Stars**: 199 **Issues**: 13 \
+**Last commit**: 2023-11-21 (28 days ago) \
+**Created at**: 2013-02-13 \
 **License**: MIT License
 
 </details>
@@ -1198,17 +1231,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 22 [mam91/neat-genetic-mario](https://github.com/mam91/neat-genetic-mario) – Update of Seth Bling's MarI/O</summary>
-
-**Topics**: `emulation`, `genetic-algorithm`, `lua` \
-**Watchers**: 7 **Forks**: 58 **Stars**: 175 **Issues**: 13 \
-**Last commit**: 2023-09-15 (95 days ago) \
-**Created at**: 2017-11-21 \
-**License**: none
-
-</details>
-
-<details>
 <summary>🔴 22 [tickbh/tdengine](https://github.com/tickbh/tdengine) – game server for Rust + Lua</summary>
 
 **Topics**: `cross-platform`, `game`, `game-engine`, `game-server`, `rust`, `rust-lua`, `server` \
@@ -1238,6 +1260,17 @@ Last commit..
 **Last commit**: 2022-08-11 (496 days ago) \
 **Created at**: 2021-04-23 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>🟤 22 [mam91/neat-genetic-mario](https://github.com/mam91/neat-genetic-mario) – Update of Seth Bling's MarI/O</summary>
+
+**Topics**: `emulation`, `genetic-algorithm`, `lua` \
+**Watchers**: 7 **Forks**: 58 **Stars**: 175 **Issues**: 13 \
+**Last commit**: 2023-09-15 (96 days ago) \
+**Created at**: 2017-11-21 \
+**License**: none
 
 </details>
 
@@ -2313,7 +2346,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 17 **Forks**: 58 **Stars**: 72 **Issues**: 26 \
-**Last commit**: 2022-06-04 (563 days ago) \
+**Last commit**: 2022-06-04 (564 days ago) \
 **Created at**: 2016-07-12 \
 **License**: Other
 
@@ -2335,7 +2368,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 8 **Forks**: 2 **Stars**: 72 **Issues**: 3 \
-**Last commit**: 2019-02-22 (1761 days ago) \
+**Last commit**: 2019-02-22 (1762 days ago) \
 **Created at**: 2014-10-21 \
 **License**: GNU General Public License v2.0
 
@@ -2357,7 +2390,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 22 **Forks**: 26 **Stars**: 70 **Issues**: 20 \
-**Last commit**: 2023-03-25 (269 days ago) \
+**Last commit**: 2023-03-25 (270 days ago) \
 **Created at**: 2017-01-02 \
 **License**: none
 
@@ -2496,106 +2529,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) – Open Source Neural Machine Translation in Torch (deprecated)</summary>
-
-**Topics**: `deep-learning`, `lua`, `machine-translation`, `neural-machine-translation`, `opennmt`, `torch` \
-**Watchers**: 153 **Forks**: 484 **Stars**: 2379 **Issues**: 46 \
-**Last commit**: 2020-02-19 (1400 days ago) \
-**Created at**: 2016-10-24 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [frederic2ec/onsetrp](https://github.com/frederic2ec/onsetrp) – [OUTDATED] OnsetRP framework </summary>
-
-**Topics**: `lua`, `onset` \
-**Watchers**: 17 **Forks**: 57 **Stars**: 59 **Issues**: 8 \
-**Last commit**: 2020-06-04 (1294 days ago) \
-**Created at**: 2019-10-16 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [APItools/sandbox.lua](https://github.com/APItools/sandbox.lua) – A lua sandbox for executing non-trusted code</summary>
-
-**Topics**: none \
-**Watchers**: 7 **Forks**: 16 **Stars**: 100 **Issues**: 5 \
-**Last commit**: 2018-11-14 (1862 days ago) \
-**Created at**: 2013-09-03 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) – Facebook AI Research Sequence-to-Sequence Toolkit</summary>
-
-**Topics**: none \
-**Watchers**: 212 **Forks**: 633 **Stars**: 3757 **Issues**: 16 \
-**Last commit**: 2021-09-17 (824 days ago) \
-**Created at**: 2017-03-12 \
-**License**: Other
-
-</details>
-
-<details>
-<summary>⚫ -inf [hythloday/VenturePlanSoDMissions](https://github.com/hythloday/VenturePlanSoDMissions) – Addon to bring VenturePlan up to date with the 9.1 missions</summary>
-
-**Topics**: `addon`, `lua`, `world-of-warcraft` \
-**Watchers**: 18 **Forks**: 40 **Stars**: 135 **Issues**: 0 \
-**Last commit**: 2022-02-27 (661 days ago) \
-**Created at**: 2021-07-15 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [LuaDist/squish](https://github.com/LuaDist/squish) – Squish Lua libraries and apps into a single compact file.</summary>
-
-**Topics**: none \
-**Watchers**: 15 **Forks**: 47 **Stars**: 130 **Issues**: 1 \
-**Last commit**: 2020-01-09 (1441 days ago) \
-**Created at**: 2012-09-12 \
-**License**: Other
-
-</details>
-
-<details>
-<summary>⚫ -inf [gamax92/OCEmu](https://github.com/gamax92/OCEmu) – OpenComputers Emulator in Lua. Depreciated</summary>
-
-**Topics**: `emulator`, `lua`, `ocemu`, `opencomputers` \
-**Watchers**: 15 **Forks**: 29 **Stars**: 87 **Issues**: 21 \
-**Last commit**: 2020-10-28 (1148 days ago) \
-**Created at**: 2015-04-22 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [javieryanez/nodemcu-modules](https://github.com/javieryanez/nodemcu-modules) – Modules for nodeMcu (LUA intepreter for ESP8266)</summary>
-
-**Topics**: none \
-**Watchers**: 17 **Forks**: 49 **Stars**: 76 **Issues**: 8 \
-**Last commit**: 2015-06-29 (3096 days ago) \
-**Created at**: 2014-12-25 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [lattejed/a-star-lua](https://github.com/lattejed/a-star-lua) – A clean, simple implementation of the A* pathfinding algorithm for Lua.</summary>
-
-**Topics**: none \
-**Watchers**: 7 **Forks**: 42 **Stars**: 93 **Issues**: 1 \
-**Last commit**: 2018-09-10 (1927 days ago) \
-**Created at**: 2012-10-03 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [google-deepmind/dqn](https://github.com/google-deepmind/dqn) – Lua/Torch implementation of DQN (Nature, 2015)</summary>
+<summary>⚫ 12 [deepmind/dqn](https://github.com/deepmind/dqn) – Lua/Torch implementation of DQN (Nature, 2015)</summary>
 
 **Topics**: none \
 **Watchers**: 43 **Forks**: 160 **Stars**: 569 **Issues**: 4 \
@@ -2606,7 +2540,18 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [AbyssEngine/OpenDiablo2](https://github.com/AbyssEngine/OpenDiablo2) – An implementation of Diablo 2 in AbyssEngine.</summary>
+<summary>⚫ 12 [google-deepmind/dqn](https://github.com/google-deepmind/dqn) – Lua/Torch implementation of DQN (Nature, 2015)</summary>
+
+**Topics**: none \
+**Watchers**: 43 **Forks**: 160 **Stars**: 569 **Issues**: 4 \
+**Last commit**: 2017-04-06 (2449 days ago) \
+**Created at**: 2017-04-06 \
+**License**: none
+
+</details>
+
+<details>
+<summary>🟤 10 [AbyssEngine/OpenDiablo2](https://github.com/AbyssEngine/OpenDiablo2) – An implementation of Diablo 2 in AbyssEngine.</summary>
 
 **Topics**: `diablo`, `diablo2`, `diablo2lod`, `lua` \
 **Watchers**: 21 **Forks**: 23 **Stars**: 349 **Issues**: 4 \
@@ -2617,35 +2562,90 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [deepmind/dqn](https://github.com/deepmind/dqn) – Lua/Torch implementation of DQN (Nature, 2015)</summary>
+<summary>⚫ -2 [hythloday/VenturePlanSoDMissions](https://github.com/hythloday/VenturePlanSoDMissions) – Addon to bring VenturePlan up to date with the 9.1 missions</summary>
 
-**Topics**: none \
-**Watchers**: 43 **Forks**: 160 **Stars**: 569 **Issues**: 4 \
-**Last commit**: 2017-04-06 (2449 days ago) \
-**Created at**: 2017-04-06 \
-**License**: none
+**Topics**: `addon`, `lua`, `world-of-warcraft` \
+**Watchers**: 18 **Forks**: 40 **Stars**: 135 **Issues**: 0 \
+**Last commit**: 2022-02-27 (661 days ago) \
+**Created at**: 2021-07-15 \
+**License**: GNU General Public License v3.0
 
 </details>
 
 <details>
-<summary>🟢 -inf [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) – :newspaper: Static site/blog generator written in Lua.</summary>
+<summary>⚫ -4 [LuaDist/squish](https://github.com/LuaDist/squish) – Squish Lua libraries and apps into a single compact file.</summary>
 
 **Topics**: none \
-**Watchers**: 14 **Forks**: 32 **Stars**: 199 **Issues**: 13 \
-**Last commit**: 2023-11-21 (28 days ago) \
-**Created at**: 2013-02-13 \
+**Watchers**: 15 **Forks**: 47 **Stars**: 130 **Issues**: 1 \
+**Last commit**: 2020-01-09 (1441 days ago) \
+**Created at**: 2012-09-12 \
+**License**: Other
+
+</details>
+
+<details>
+<summary>⚫ -5 [APItools/sandbox.lua](https://github.com/APItools/sandbox.lua) – A lua sandbox for executing non-trusted code</summary>
+
+**Topics**: none \
+**Watchers**: 7 **Forks**: 16 **Stars**: 100 **Issues**: 5 \
+**Last commit**: 2018-11-14 (1862 days ago) \
+**Created at**: 2013-09-03 \
 **License**: MIT License
 
 </details>
 
 <details>
-<summary>⚫ -inf [mfenner/pandoc-jats](https://github.com/mfenner/pandoc-jats) – A Lua custom writer for Pandoc generating JATS XML</summary>
+<summary>⚫ -6 [lattejed/a-star-lua](https://github.com/lattejed/a-star-lua) – A clean, simple implementation of the A* pathfinding algorithm for Lua.</summary>
+
+**Topics**: none \
+**Watchers**: 7 **Forks**: 42 **Stars**: 93 **Issues**: 1 \
+**Last commit**: 2018-09-10 (1927 days ago) \
+**Created at**: 2012-10-03 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>⚫ -6 [gamax92/OCEmu](https://github.com/gamax92/OCEmu) – OpenComputers Emulator in Lua. Depreciated</summary>
+
+**Topics**: `emulator`, `lua`, `ocemu`, `opencomputers` \
+**Watchers**: 15 **Forks**: 29 **Stars**: 87 **Issues**: 21 \
+**Last commit**: 2020-10-28 (1148 days ago) \
+**Created at**: 2015-04-22 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -6 [javieryanez/nodemcu-modules](https://github.com/javieryanez/nodemcu-modules) – Modules for nodeMcu (LUA intepreter for ESP8266)</summary>
+
+**Topics**: none \
+**Watchers**: 17 **Forks**: 49 **Stars**: 76 **Issues**: 8 \
+**Last commit**: 2015-06-29 (3096 days ago) \
+**Created at**: 2014-12-25 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -7 [mfenner/pandoc-jats](https://github.com/mfenner/pandoc-jats) – A Lua custom writer for Pandoc generating JATS XML</summary>
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 19 **Stars**: 73 **Issues**: 7 \
 **Last commit**: 2018-05-13 (2047 days ago) \
 **Created at**: 2013-12-12 \
 **License**: GNU General Public License v2.0
+
+</details>
+
+<details>
+<summary>⚫ -7 [frederic2ec/onsetrp](https://github.com/frederic2ec/onsetrp) – [OUTDATED] OnsetRP framework </summary>
+
+**Topics**: `lua`, `onset` \
+**Watchers**: 17 **Forks**: 57 **Stars**: 59 **Issues**: 8 \
+**Last commit**: 2020-06-04 (1294 days ago) \
+**Created at**: 2019-10-16 \
+**License**: GNU General Public License v3.0
 
 </details>
 

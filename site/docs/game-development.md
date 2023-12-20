@@ -5,7 +5,7 @@ sidebar_position: 7
 # 🎮 Game development
 
 **Total items**: 108 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -38,7 +38,7 @@ Last commit..
 
 **Topics**: `love2d`, `lua` \
 **Watchers**: 17 **Forks**: 44 **Stars**: 271 **Issues**: 13 \
-**Last commit**: 2023-12-09 (10 days ago) \
+**Last commit**: 2023-12-09 (11 days ago) \
 **Created at**: 2015-03-24 \
 **License**: none
 
@@ -60,7 +60,7 @@ Last commit..
 
 **Topics**: `android`, `fantasy-computer`, `fantasy-console`, `liko-12`, `linux`, `love`, `love2d`, `love2d-framework`, `lua`, `windows` \
 **Watchers**: 62 **Forks**: 71 **Stars**: 1114 **Issues**: 37 \
-**Last commit**: 2023-03-02 (292 days ago) \
+**Last commit**: 2023-03-02 (293 days ago) \
 **Created at**: 2016-09-16 \
 **License**: MIT License
 
@@ -137,7 +137,7 @@ Last commit..
 
 **Topics**: `entity-component-system`, `game-development`, `gamejam`, `love2d`, `lua` \
 **Watchers**: 18 **Forks**: 34 **Stars**: 294 **Issues**: 3 \
-**Last commit**: 2022-10-13 (432 days ago) \
+**Last commit**: 2022-10-13 (433 days ago) \
 **Created at**: 2013-06-10 \
 **License**: MIT License
 
@@ -353,29 +353,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [a327ex/boipushy](https://github.com/a327ex/boipushy) – Input module for LÖVE</summary>
-
-**Topics**: `game-development`, `gamepad`, `input`, `love2d`, `lua` \
-**Watchers**: 11 **Forks**: 25 **Stars**: 150 **Issues**: 12 \
-**Last commit**: 2020-06-29 (1269 days ago) \
-**Created at**: 2015-01-15 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [a327ex/STALKER-X](https://github.com/a327ex/STALKER-X) – Camera module for LÖVE</summary>
-
-**Topics**: `camera`, `game-development`, `love2d`, `lua` \
-**Watchers**: 16 **Forks**: 22 **Stars**: 256 **Issues**: 4 \
-**Last commit**: 2019-09-01 (1571 days ago) \
-**Created at**: 2017-11-17 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [a327ex/windfield](https://github.com/a327ex/windfield) – Physics module for LÖVE</summary>
+<summary>⚫ 7 [a327ex/windfield](https://github.com/a327ex/windfield) – Physics module for LÖVE</summary>
 
 **Topics**: `box2d`, `game-development`, `love2d`, `lua`, `physics` \
 **Watchers**: 13 **Forks**: 51 **Stars**: 410 **Issues**: 11 \
@@ -386,13 +364,35 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [LukeZGD/DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) – An unofficial Doki Doki Literature Club port to Lua for the PS Vita and other game consoles</summary>
+<summary>⚫ 2 [LukeZGD/DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) – An unofficial Doki Doki Literature Club port to Lua for the PS Vita and other game consoles</summary>
 
 **Topics**: none \
 **Watchers**: 29 **Forks**: 36 **Stars**: 257 **Issues**: 0 \
 **Last commit**: 2021-09-16 (825 days ago) \
 **Created at**: 2018-04-17 \
 **License**: GNU General Public License v3.0
+
+</details>
+
+<details>
+<summary>⚫ 2 [a327ex/STALKER-X](https://github.com/a327ex/STALKER-X) – Camera module for LÖVE</summary>
+
+**Topics**: `camera`, `game-development`, `love2d`, `lua` \
+**Watchers**: 16 **Forks**: 22 **Stars**: 256 **Issues**: 4 \
+**Last commit**: 2019-09-01 (1571 days ago) \
+**Created at**: 2017-11-17 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -3 [a327ex/boipushy](https://github.com/a327ex/boipushy) – Input module for LÖVE</summary>
+
+**Topics**: `game-development`, `gamepad`, `input`, `love2d`, `lua` \
+**Watchers**: 11 **Forks**: 25 **Stars**: 150 **Issues**: 12 \
+**Last commit**: 2020-06-29 (1269 days ago) \
+**Created at**: 2015-01-15 \
+**License**: none
 
 </details>
 
@@ -455,7 +455,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [pablo-1610/ncs_core](https://github.com/pablo-1610/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
+<summary>⚫ -3 [pablo-1610/ncs_core](https://github.com/pablo-1610/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
 
 **Topics**: `fivem`, `fivem-core`, `fivem-roleplay`, `fivem-script`, `lua`, `nextcitizens`, `nsc`, `roleplay` \
 **Watchers**: 6 **Forks**: 39 **Stars**: 104 **Issues**: 3 \
@@ -466,7 +466,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [PabloCodingg/ncs_core](https://github.com/PabloCodingg/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
+<summary>⚫ -3 [PabloCodingg/ncs_core](https://github.com/PabloCodingg/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
 
 **Topics**: `fivem`, `fivem-core`, `fivem-roleplay`, `fivem-script`, `lua`, `nextcitizens`, `nsc`, `roleplay` \
 **Watchers**: 6 **Forks**: 39 **Stars**: 104 **Issues**: 3 \
@@ -477,24 +477,24 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [xchopin/FiveM-RP-Boilerplate](https://github.com/xchopin/FiveM-RP-Boilerplate) – 🔫 Boilerplate for FiveM Roleplay servers. Save time and focus on your real project.</summary>
+<summary>⚫ -3 [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
+
+**Topics**: `fivem`, `fivem-core`, `fivem-roleplay`, `fivem-script`, `lua`, `nextcitizens`, `nsc`, `roleplay` \
+**Watchers**: 6 **Forks**: 39 **Stars**: 104 **Issues**: 3 \
+**Last commit**: 2022-11-14 (401 days ago) \
+**Created at**: 2022-05-25 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
+<summary>⚫ -3 [xchopin/FiveM-RP-Boilerplate](https://github.com/xchopin/FiveM-RP-Boilerplate) – 🔫 Boilerplate for FiveM Roleplay servers. Save time and focus on your real project.</summary>
 
 **Topics**: `boilerplate`, `fivem`, `fivem-roleplay-servers`, `grand-theft-auto`, `gta`, `kit`, `lua`, `starter` \
 **Watchers**: 19 **Forks**: 124 **Stars**: 127 **Issues**: 4 \
 **Last commit**: 2019-08-31 (1572 days ago) \
 **Created at**: 2017-06-06 \
 **License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) – A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community.</summary>
-
-**Topics**: `fivem`, `fivem-core`, `fivem-roleplay`, `fivem-script`, `lua`, `nextcitizens`, `nsc`, `roleplay` \
-**Watchers**: 6 **Forks**: 39 **Stars**: 104 **Issues**: 3 \
-**Last commit**: 2022-11-14 (401 days ago) \
-**Created at**: 2022-05-25 \
-**License**: GNU General Public License v3.0
 
 </details>
 
@@ -557,6 +557,17 @@ Last commit..
 </details>
 
 <details>
+<summary>⚪ 44 [Roblox/roact](https://github.com/Roblox/roact) – A view management library for Roblox Lua similar to React</summary>
+
+**Topics**: `lua`, `react`, `roblox`, `ui` \
+**Watchers**: 28 **Forks**: 140 **Stars**: 546 **Issues**: 70 \
+**Last commit**: 2023-12-13 (7 days ago) \
+**Created at**: 2017-11-03 \
+**License**: Apache License 2.0
+
+</details>
+
+<details>
 <summary>🟠 36 [evaera/roblox-lua-promise](https://github.com/evaera/roblox-lua-promise) – Promise implementation for Roblox</summary>
 
 **Topics**: `lua`, `roblox` \
@@ -612,24 +623,13 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [PY44N/Lua-Obfuscator](https://github.com/PY44N/Lua-Obfuscator) – A Lua Obfuscator made for Roblox, but should work on most Lua applications </summary>
+<summary>🟤 -4 [PY44N/Lua-Obfuscator](https://github.com/PY44N/Lua-Obfuscator) – A Lua Obfuscator made for Roblox, but should work on most Lua applications </summary>
 
 **Topics**: `lua`, `lua-applications`, `lua-obfuscator`, `obfuscation`, `obfuscator`, `roblox`, `script` \
 **Watchers**: 4 **Forks**: 123 **Stars**: 104 **Issues**: 0 \
 **Last commit**: 2023-07-07 (166 days ago) \
 **Created at**: 2020-09-01 \
 **License**: none
-
-</details>
-
-<details>
-<summary>⚪ -inf [Roblox/roact](https://github.com/Roblox/roact) – A view management library for Roblox Lua similar to React</summary>
-
-**Topics**: `lua`, `react`, `roblox`, `ui` \
-**Watchers**: 28 **Forks**: 140 **Stars**: 546 **Issues**: 70 \
-**Last commit**: 2023-12-13 (7 days ago) \
-**Created at**: 2017-11-03 \
-**License**: Apache License 2.0
 
 </details>
 
@@ -725,7 +725,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [handsomematt/3d2d-vgui](https://github.com/handsomematt/3d2d-vgui) – :eyes: Render and control 2D VGUI in 3D world space for Garry's Mod</summary>
+<summary>⚫ -6 [handsomematt/3d2d-vgui](https://github.com/handsomematt/3d2d-vgui) – :eyes: Render and control 2D VGUI in 3D world space for Garry's Mod</summary>
 
 **Topics**: `3d2d`, `gmod`, `lua`, `vgui` \
 **Watchers**: 10 **Forks**: 24 **Stars**: 83 **Issues**: 10 \
@@ -904,7 +904,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [ElvUI-TBC/ElvUI](https://github.com/ElvUI-TBC/ElvUI) – ElvUI for World of Warcraft - The Burning Crusade (2.4.3) </summary>
+<summary>⚫ -5 [ElvUI-TBC/ElvUI](https://github.com/ElvUI-TBC/ElvUI) – ElvUI for World of Warcraft - The Burning Crusade (2.4.3) </summary>
 
 **Topics**: `20400`, `addon`, `backport`, `elvui`, `elvui-tbc`, `elvui-the-burning-crusade`, `interface`, `lua`, `tbc`, `the-burning-crusade`, `user-interface`, `world-of-warcraft` \
 **Watchers**: 14 **Forks**: 22 **Stars**: 100 **Issues**: 42 \
@@ -915,7 +915,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [ElvUI-Vanilla/ElvUI](https://github.com/ElvUI-Vanilla/ElvUI) – ElvUI for World of Warcraft - Vanilla (1.12.1) </summary>
+<summary>⚫ -7 [ElvUI-Vanilla/ElvUI](https://github.com/ElvUI-Vanilla/ElvUI) – ElvUI for World of Warcraft - Vanilla (1.12.1) </summary>
 
 **Topics**: `11200`, `addon`, `backport`, `elvui`, `elvui-vanilla`, `interface`, `lua`, `user-interface`, `vanilla`, `world-of-warcraft` \
 **Watchers**: 13 **Forks**: 19 **Stars**: 68 **Issues**: 21 \
@@ -1193,35 +1193,35 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [cocos-creator/creator-lua-deprecated](https://github.com/cocos-creator/creator-lua-deprecated) – Cocos Creator 的 Lua 支持</summary>
+<summary>⚫ -3 [AzureeDev/payday-2-luajit](https://github.com/AzureeDev/payday-2-luajit) – Decompiled Lua of PAYDAY 2.</summary>
+
+**Topics**: none \
+**Watchers**: 19 **Forks**: 49 **Stars**: 123 **Issues**: 0 \
+**Last commit**: 2021-10-28 (783 days ago) \
+**Created at**: 2018-10-26 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -3 [mwSora/payday-2-luajit](https://github.com/mwSora/payday-2-luajit) – Decompiled Lua of PAYDAY 2.</summary>
+
+**Topics**: none \
+**Watchers**: 19 **Forks**: 49 **Stars**: 123 **Issues**: 0 \
+**Last commit**: 2021-10-28 (783 days ago) \
+**Created at**: 2018-10-26 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -4 [cocos-creator/creator-lua-deprecated](https://github.com/cocos-creator/creator-lua-deprecated) – Cocos Creator 的 Lua 支持</summary>
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 27 **Stars**: 115 **Issues**: 3 \
 **Last commit**: 2016-12-29 (2547 days ago) \
 **Created at**: 2016-05-23 \
 **License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [AzureeDev/payday-2-luajit](https://github.com/AzureeDev/payday-2-luajit) – Decompiled Lua of PAYDAY 2.</summary>
-
-**Topics**: none \
-**Watchers**: 19 **Forks**: 49 **Stars**: 123 **Issues**: 0 \
-**Last commit**: 2021-10-28 (783 days ago) \
-**Created at**: 2018-10-26 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ -inf [mwSora/payday-2-luajit](https://github.com/mwSora/payday-2-luajit) – Decompiled Lua of PAYDAY 2.</summary>
-
-**Topics**: none \
-**Watchers**: 19 **Forks**: 49 **Stars**: 123 **Issues**: 0 \
-**Last commit**: 2021-10-28 (783 days ago) \
-**Created at**: 2018-10-26 \
-**License**: none
 
 </details>
 

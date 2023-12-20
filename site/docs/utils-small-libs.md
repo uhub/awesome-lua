@@ -5,7 +5,7 @@ sidebar_position: 3
 # 🔧 Utils / Small libs
 
 **Total items**: 65 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -190,7 +190,7 @@ Last commit..
 
 **Topics**: `date`, `datetime`, `lua`, `time`, `timezone`, `zoneinfo` \
 **Watchers**: 13 **Forks**: 13 **Stars**: 112 **Issues**: 4 \
-**Last commit**: 2022-03-02 (657 days ago) \
+**Last commit**: 2022-03-02 (658 days ago) \
 **Created at**: 2013-07-12 \
 **License**: MIT License
 
@@ -285,7 +285,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [facebookarchive/fblualib](https://github.com/facebookarchive/fblualib) – Facebook libraries and utilities for Lua</summary>
+<summary>⚫ 12 [facebookarchive/fblualib](https://github.com/facebookarchive/fblualib) – Facebook libraries and utilities for Lua</summary>
 
 **Topics**: none \
 **Watchers**: 55 **Forks**: 181 **Stars**: 615 **Issues**: 63 \
@@ -296,7 +296,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [jtarchie/underscore-lua](https://github.com/jtarchie/underscore-lua) – Underscore is a utility-belt library for Lua </summary>
+<summary>⚫ -4 [jtarchie/underscore-lua](https://github.com/jtarchie/underscore-lua) – Underscore is a utility-belt library for Lua </summary>
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 15 **Stars**: 127 **Issues**: 0 \
@@ -379,7 +379,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 5 **Forks**: 28 **Stars**: 81 **Issues**: 2 \
-**Last commit**: 2021-08-23 (848 days ago) \
+**Last commit**: 2021-08-23 (849 days ago) \
 **Created at**: 2013-10-19 \
 **License**: MIT License
 
@@ -576,24 +576,24 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [catwell/luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure) – MessagePack for LuaJIT (using FFI, no bindings, V4 API)</summary>
-
-**Topics**: `lua`, `luajit`, `messagepack` \
-**Watchers**: 10 **Forks**: 14 **Stars**: 71 **Issues**: 0 \
-**Last commit**: 2019-09-11 (1561 days ago) \
-**Created at**: 2011-12-18 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [iryont/lua-struct](https://github.com/iryont/lua-struct) – Implementation of binary packing/unpacking in pure lua</summary>
+<summary>⚫ -2 [iryont/lua-struct](https://github.com/iryont/lua-struct) – Implementation of binary packing/unpacking in pure lua</summary>
 
 **Topics**: none \
 **Watchers**: 6 **Forks**: 25 **Stars**: 158 **Issues**: 5 \
 **Last commit**: 2020-11-24 (1121 days ago) \
 **Created at**: 2015-05-19 \
 **License**: none
+
+</details>
+
+<details>
+<summary>⚫ -7 [catwell/luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure) – MessagePack for LuaJIT (using FFI, no bindings, V4 API)</summary>
+
+**Topics**: `lua`, `luajit`, `messagepack` \
+**Watchers**: 10 **Forks**: 14 **Stars**: 71 **Issues**: 0 \
+**Last commit**: 2019-09-11 (1561 days ago) \
+**Created at**: 2011-12-18 \
+**License**: MIT License
 
 </details>
 
@@ -715,14 +715,14 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 19 **Stars**: 64 **Issues**: 6 \
-**Last commit**: 2014-07-21 (3438 days ago) \
+**Last commit**: 2014-07-21 (3439 days ago) \
 **Created at**: 2012-05-18 \
 **License**: none
 
 </details>
 
 <details>
-<summary>⚫ -inf [deepmind/classic](https://github.com/deepmind/classic) – A class system for Lua.</summary>
+<summary>⚫ -4 [deepmind/classic](https://github.com/deepmind/classic) – A class system for Lua.</summary>
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 22 **Stars**: 119 **Issues**: 2 \
@@ -733,7 +733,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [google-deepmind/classic](https://github.com/google-deepmind/classic) – A class system for Lua.</summary>
+<summary>⚫ -4 [google-deepmind/classic](https://github.com/google-deepmind/classic) – A class system for Lua.</summary>
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 22 **Stars**: 119 **Issues**: 2 \

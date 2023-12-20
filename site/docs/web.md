@@ -5,7 +5,7 @@ sidebar_position: 4
 # 🕸️ Web
 
 **Total items**: 154 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -82,7 +82,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 16 **Forks**: 35 **Stars**: 235 **Issues**: 4 \
-**Last commit**: 2019-05-22 (1672 days ago) \
+**Last commit**: 2019-05-22 (1673 days ago) \
 **Created at**: 2013-09-03 \
 **License**: MIT License
 
@@ -272,14 +272,14 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 7 **Forks**: 14 **Stars**: 73 **Issues**: 4 \
-**Last commit**: 2018-06-26 (2002 days ago) \
+**Last commit**: 2018-06-26 (2003 days ago) \
 **Created at**: 2014-10-23 \
 **License**: zlib License
 
 </details>
 
 <details>
-<summary>⚫ -inf [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) – A unified http/s client library for lua</summary>
+<summary>⚫ -7 [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) – A unified http/s client library for lua</summary>
 
 **Topics**: none \
 **Watchers**: 7 **Forks**: 12 **Stars**: 69 **Issues**: 2 \
@@ -1597,7 +1597,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [upyun/slardar](https://github.com/upyun/slardar) – Updating your upstream list and run lua scripts without reloading Nginx.</summary>
+<summary>⚫ 10 [upyun/slardar](https://github.com/upyun/slardar) – Updating your upstream list and run lua scripts without reloading Nginx.</summary>
 
 **Topics**: none \
 **Watchers**: 42 **Forks**: 111 **Stars**: 496 **Issues**: 13 \
@@ -1608,7 +1608,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [cloudflare/nginx-google-oauth](https://github.com/cloudflare/nginx-google-oauth) – Lua module to add Google OAuth to nginx</summary>
+<summary>⚫ 7 [cloudflare/nginx-google-oauth](https://github.com/cloudflare/nginx-google-oauth) – Lua module to add Google OAuth to nginx</summary>
 
 **Topics**: none \
 **Watchers**: 45 **Forks**: 105 **Stars**: 428 **Issues**: 15 \
@@ -1619,7 +1619,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [Kong/lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) – Lua DNS client, load balancer, and utility library</summary>
+<summary>🟤 -2 [Kong/lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) – Lua DNS client, load balancer, and utility library</summary>
 
 **Topics**: none \
 **Watchers**: 34 **Forks**: 51 **Stars**: 149 **Issues**: 10 \
@@ -1721,7 +1721,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [APItools/router.lua](https://github.com/APItools/router.lua) – A barebones router for Lua. It matches urls and executes lua functions.</summary>
+<summary>⚫ -1 [APItools/router.lua](https://github.com/APItools/router.lua) – A barebones router for Lua. It matches urls and executes lua functions.</summary>
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 47 **Stars**: 192 **Issues**: 7 \

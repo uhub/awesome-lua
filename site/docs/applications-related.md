@@ -5,7 +5,7 @@ sidebar_position: 6
 # 🧶 Applications-related
 
 **Total items**: 477 \
-**Last update**: 2023-12-20 19:42:41 \
+**Last update**: 2023-12-20 20:14:27 \
 **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
 :::note[Circles Legend]
 
@@ -265,7 +265,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 102 [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) – improve neovim lsp experience</summary>
+<summary>🟢 102 [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) – improve neovim lsp experience</summary>
 
 **Topics**: `lsp`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `nvim` \
 **Watchers**: 15 **Forks**: 264 **Stars**: 3106 **Issues**: 18 \
@@ -276,7 +276,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 102 [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) – improve neovim lsp experience</summary>
+<summary>🟢 102 [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) – improve neovim lsp experience</summary>
 
 **Topics**: `lsp`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `nvim` \
 **Watchers**: 15 **Forks**: 264 **Stars**: 3106 **Issues**: 18 \
@@ -324,7 +324,7 @@ Last commit..
 
 **Topics**: `colorblind`, `colorscheme`, `daltonism`, `lua`, `neovim`, `neovim-theme`, `theme`, `vim`, `vim-theme` \
 **Watchers**: 11 **Forks**: 115 **Stars**: 2481 **Issues**: 14 \
-**Last commit**: 2023-12-18 (1 days ago) \
+**Last commit**: 2023-12-18 (2 days ago) \
 **Created at**: 2021-07-20 \
 **License**: MIT License
 
@@ -375,7 +375,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 92 [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) – 🚀 Launch.nvim is modular starter for Neovim.</summary>
+<summary>⚪ 92 [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) – 🚀 Launch.nvim is modular starter for Neovim.</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-config`, `neovim-dotfiles`, `nvim`, `vim` \
 **Watchers**: 21 **Forks**: 450 **Stars**: 1801 **Issues**: 7 \
@@ -386,7 +386,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 92 [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) – 🚀 Launch.nvim is modular starter for Neovim.</summary>
+<summary>⚪ 92 [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) – 🚀 Launch.nvim is modular starter for Neovim.</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-config`, `neovim-dotfiles`, `nvim`, `vim` \
 **Watchers**: 21 **Forks**: 450 **Stars**: 1801 **Issues**: 7 \
@@ -419,7 +419,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 90 [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) – 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</summary>
+<summary>⚪ 90 [folke/neodev.nvim](https://github.com/folke/neodev.nvim) – 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-lsp`, `neovim-plugin` \
 **Watchers**: 12 **Forks**: 52 **Stars**: 1626 **Issues**: 19 \
@@ -430,7 +430,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 90 [folke/neodev.nvim](https://github.com/folke/neodev.nvim) – 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</summary>
+<summary>⚪ 90 [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) – 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-lsp`, `neovim-plugin` \
 **Watchers**: 12 **Forks**: 52 **Stars**: 1626 **Issues**: 19 \
@@ -452,12 +452,12 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 89 [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) – Github's Neovim themes </summary>
+<summary>⚪ 89 [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) – lua `fork` of vim-web-devicons for neovim</summary>
 
-**Topics**: `colorscheme`, `lua`, `neovim` \
-**Watchers**: 12 **Forks**: 96 **Stars**: 1828 **Issues**: 11 \
-**Last commit**: 2023-12-08 (11 days ago) \
-**Created at**: 2021-06-21 \
+**Topics**: `nerd-fonts` \
+**Watchers**: 11 **Forks**: 153 **Stars**: 1576 **Issues**: 28 \
+**Last commit**: 2023-12-18 (2 days ago) \
+**Created at**: 2020-05-29 \
 **License**: MIT License
 
 </details>
@@ -474,12 +474,12 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 89 [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) – lua `fork` of vim-web-devicons for neovim</summary>
+<summary>🟢 88 [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) – Github's Neovim themes </summary>
 
-**Topics**: `nerd-fonts` \
-**Watchers**: 11 **Forks**: 153 **Stars**: 1576 **Issues**: 28 \
-**Last commit**: 2023-12-18 (2 days ago) \
-**Created at**: 2020-05-29 \
+**Topics**: `colorscheme`, `lua`, `neovim` \
+**Watchers**: 12 **Forks**: 96 **Stars**: 1828 **Issues**: 11 \
+**Last commit**: 2023-12-08 (12 days ago) \
+**Created at**: 2021-06-21 \
 **License**: MIT License
 
 </details>
@@ -705,7 +705,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 77 [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) – vscode-like pictograms for neovim lsp completion items</summary>
+<summary>🟢 77 [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) – vscode-like pictograms for neovim lsp completion items</summary>
 
 **Topics**: `lsp`, `lua`, `neovim`, `nvim` \
 **Watchers**: 6 **Forks**: 29 **Stars**: 1167 **Issues**: 18 \
@@ -716,7 +716,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 77 [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) – vscode-like pictograms for neovim lsp completion items</summary>
+<summary>🟢 77 [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) – vscode-like pictograms for neovim lsp completion items</summary>
 
 **Topics**: `lsp`, `lua`, `neovim`, `nvim` \
 **Watchers**: 6 **Forks**: 29 **Stars**: 1167 **Issues**: 18 \
@@ -1046,7 +1046,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 66 [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) – :nose: A Neovim bufferline for people with addictive personalities</summary>
+<summary>⚪ 66 [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) – :nose: A Neovim bufferline for people with addictive personalities</summary>
 
 **Topics**: `bufferline`, `hacktoberfest`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `tabline` \
 **Watchers**: 5 **Forks**: 32 **Stars**: 435 **Issues**: 9 \
@@ -1057,7 +1057,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 66 [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) – :nose: A Neovim bufferline for people with addictive personalities</summary>
+<summary>⚪ 66 [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) – :nose: A Neovim bufferline for people with addictive personalities</summary>
 
 **Topics**: `bufferline`, `hacktoberfest`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `tabline` \
 **Watchers**: 5 **Forks**: 32 **Stars**: 435 **Issues**: 9 \
@@ -1145,7 +1145,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 65 [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim) – 🧶 Automatically save your changes in NeoVim</summary>
+<summary>🟢 65 [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) – 🧶 Automatically save your changes in NeoVim</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `save-editor`, `save-files` \
 **Watchers**: 4 **Forks**: 56 **Stars**: 494 **Issues**: 26 \
@@ -1156,7 +1156,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 65 [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) – 🧶 Automatically save your changes in NeoVim</summary>
+<summary>🟢 65 [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim) – 🧶 Automatically save your changes in NeoVim</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `save-editor`, `save-files` \
 **Watchers**: 4 **Forks**: 56 **Stars**: 494 **Issues**: 26 \
@@ -1200,7 +1200,18 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 63 [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) – A Neovim configuration for the advanced martian hacker</summary>
+<summary>🟠 64 [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) – Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.</summary>
+
+**Topics**: `lsp`, `neovim`, `neovim-lsp`, `neovim-plugin` \
+**Watchers**: 17 **Forks**: 819 **Stars**: 3618 **Issues**: 94 \
+**Last commit**: 2023-10-03 (78 days ago) \
+**Created at**: 2021-05-15 \
+**License**: Other
+
+</details>
+
+<details>
+<summary>🟡 63 [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) – A Neovim configuration for the advanced martian hacker</summary>
 
 **Topics**: `doom-nvim`, `hacktoberfest`, `lua`, `neovim`, `neovim-configuration`, `neovim-lsp`, `neovim-lua` \
 **Watchers**: 10 **Forks**: 109 **Stars**: 974 **Issues**: 28 \
@@ -1211,7 +1222,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 63 [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) – A Neovim configuration for the advanced martian hacker</summary>
+<summary>🟡 63 [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) – A Neovim configuration for the advanced martian hacker</summary>
 
 **Topics**: `doom-nvim`, `hacktoberfest`, `lua`, `neovim`, `neovim-configuration`, `neovim-lsp`, `neovim-lua` \
 **Watchers**: 10 **Forks**: 109 **Stars**: 974 **Issues**: 28 \
@@ -1376,17 +1387,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 62 [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) – Git Blame plugin for Neovim written in Lua</summary>
-
-**Topics**: `blame`, `git-blame`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `vim` \
-**Watchers**: 7 **Forks**: 34 **Stars**: 707 **Issues**: 8 \
-**Last commit**: 2023-11-09 (40 days ago) \
-**Created at**: 2020-08-29 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
 <summary>⚪ 61 [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) – Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more</summary>
 
 **Topics**: `lsp`, `lua`, `neovim` \
@@ -1394,6 +1394,17 @@ Last commit..
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2022-04-08 \
 **License**: none
+
+</details>
+
+<details>
+<summary>🟡 61 [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) – Git Blame plugin for Neovim written in Lua</summary>
+
+**Topics**: `blame`, `git-blame`, `lua`, `neovim`, `neovim-lua`, `neovim-plugin`, `vim` \
+**Watchers**: 7 **Forks**: 34 **Stars**: 707 **Issues**: 8 \
+**Last commit**: 2023-11-09 (41 days ago) \
+**Created at**: 2020-08-29 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -1442,17 +1453,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 60 [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) – A clean dark theme written in lua for neovim.</summary>
-
-**Topics**: `colorscheme`, `neovim`, `theme` \
-**Watchers**: 1 **Forks**: 15 **Stars**: 376 **Issues**: 1 \
-**Last commit**: 2023-12-06 (13 days ago) \
-**Created at**: 2021-04-20 \
-**License**: none
-
-</details>
-
-<details>
 <summary>🟡 60 [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) – 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.</summary>
 
 **Topics**: `hacktoberfest`, `keybindings`, `keymap`, `keymapping`, `legend`, `lua`, `neovim`, `neovim-plugin`, `neovim-ui`, `nvim`, `vim`, `vim-commands`, `which-key` \
@@ -1460,6 +1460,17 @@ Last commit..
 **Last commit**: 2023-10-23 (58 days ago) \
 **Created at**: 2022-02-02 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>🟢 60 [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) – A clean dark theme written in lua for neovim.</summary>
+
+**Topics**: `colorscheme`, `neovim`, `theme` \
+**Watchers**: 1 **Forks**: 15 **Stars**: 376 **Issues**: 1 \
+**Last commit**: 2023-12-06 (14 days ago) \
+**Created at**: 2021-04-20 \
+**License**: none
 
 </details>
 
@@ -1970,17 +1981,6 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 53 [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) – :crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support</summary>
-
-**Topics**: `black-theme`, `colorscheme`, `dark-theme`, `lua`, `midnight`, `midnight-theme`, `neovim`, `neovim-colorscheme`, `neovim-lua`, `neovim-plugin`, `neovim-theme`, `theme` \
-**Watchers**: 5 **Forks**: 3 **Stars**: 120 **Issues**: 1 \
-**Last commit**: 2023-12-13 (6 days ago) \
-**Created at**: 2023-05-07 \
-**License**: Apache License 2.0
-
-</details>
-
-<details>
 <summary>⚪ 53 [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) – Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library. </summary>
 
 **Topics**: `lua`, `mini-nvim`, `neovim`, `neovim-plugin` \
@@ -2021,6 +2021,17 @@ Last commit..
 **Last commit**: 2023-12-12 (8 days ago) \
 **Created at**: 2022-10-13 \
 **License**: none
+
+</details>
+
+<details>
+<summary>⚪ 52 [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) – :crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support</summary>
+
+**Topics**: `black-theme`, `colorscheme`, `dark-theme`, `lua`, `midnight`, `midnight-theme`, `neovim`, `neovim-colorscheme`, `neovim-lua`, `neovim-plugin`, `neovim-theme`, `theme` \
+**Watchers**: 5 **Forks**: 3 **Stars**: 120 **Issues**: 1 \
+**Last commit**: 2023-12-13 (7 days ago) \
+**Created at**: 2023-05-07 \
+**License**: Apache License 2.0
 
 </details>
 
@@ -2124,17 +2135,6 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 51 [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) – Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim</summary>
-
-**Topics**: `awesome-neovim`, `lspconfig`, `lua`, `neovim`, `neovim-config`, `neovim-dotfiles`, `neovim-lsp`, `neovim-lua`, `neovim-lua-plugin`, `neovim-plugin`, `nvim`, `paq-nvim`, `treesitter` \
-**Watchers**: 2 **Forks**: 33 **Stars**: 112 **Issues**: 0 \
-**Last commit**: 2023-12-18 (1 days ago) \
-**Created at**: 2020-02-19 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
 <summary>🟡 51 [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) – :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:</summary>
 
 **Topics**: `lua`, `navigation`, `neovim`, `neovim-plugin`, `nvim`, `plugin`, `tmux`, `wezterm` \
@@ -2142,6 +2142,17 @@ Last commit..
 **Last commit**: 2023-11-12 (38 days ago) \
 **Created at**: 2021-04-03 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>⚪ 51 [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) – Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim</summary>
+
+**Topics**: `awesome-neovim`, `lspconfig`, `lua`, `neovim`, `neovim-config`, `neovim-dotfiles`, `neovim-lsp`, `neovim-lua`, `neovim-lua-plugin`, `neovim-plugin`, `nvim`, `paq-nvim`, `treesitter` \
+**Watchers**: 2 **Forks**: 33 **Stars**: 112 **Issues**: 0 \
+**Last commit**: 2023-12-18 (2 days ago) \
+**Created at**: 2020-02-19 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -2190,7 +2201,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 50 [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) – Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!</summary>
+<summary>🟠 50 [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) – Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!</summary>
 
 **Topics**: `lua`, `navigation`, `neovim`, `nvim`, `resizing`, `splits`, `vim`, `windows` \
 **Watchers**: 6 **Forks**: 26 **Stars**: 605 **Issues**: 17 \
@@ -2201,7 +2212,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 50 [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) – Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!</summary>
+<summary>🟠 50 [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) – Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!</summary>
 
 **Topics**: `lua`, `navigation`, `neovim`, `nvim`, `resizing`, `splits`, `vim`, `windows` \
 **Watchers**: 6 **Forks**: 26 **Stars**: 605 **Issues**: 17 \
@@ -2465,17 +2476,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 45 [danielnehrig/nvim](https://github.com/danielnehrig/nvim) – neovim lua cfg</summary>
-
-**Topics**: `config`, `editor`, `ide`, `lua`, `neovim`, `pde`, `vim` \
-**Watchers**: 3 **Forks**: 5 **Stars**: 93 **Issues**: 1 \
-**Last commit**: 2023-12-03 (16 days ago) \
-**Created at**: 2021-06-26 \
-**License**: Other
-
-</details>
-
-<details>
 <summary>🟠 45 [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) – A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.</summary>
 
 **Topics**: `lua`, `neovim`, `nvim`, `treesitter-api` \
@@ -2487,13 +2487,13 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 45 [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) – 🍒 YAML toolkit for Neovim users</summary>
+<summary>🟢 45 [danielnehrig/nvim](https://github.com/danielnehrig/nvim) – neovim lua cfg</summary>
 
-**Topics**: `hacktoberfest`, `lua`, `neovim`, `nvim`, `telescope`, `yaml` \
-**Watchers**: 5 **Forks**: 11 **Stars**: 152 **Issues**: 1 \
-**Last commit**: 2023-11-21 (28 days ago) \
-**Created at**: 2021-06-09 \
-**License**: GNU General Public License v3.0
+**Topics**: `config`, `editor`, `ide`, `lua`, `neovim`, `pde`, `vim` \
+**Watchers**: 3 **Forks**: 5 **Stars**: 93 **Issues**: 1 \
+**Last commit**: 2023-12-03 (17 days ago) \
+**Created at**: 2021-06-26 \
+**License**: Other
 
 </details>
 
@@ -2505,6 +2505,17 @@ Last commit..
 **Last commit**: 2023-10-29 (52 days ago) \
 **Created at**: 2022-03-02 \
 **License**: none
+
+</details>
+
+<details>
+<summary>🟢 45 [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) – 🍒 YAML toolkit for Neovim users</summary>
+
+**Topics**: `hacktoberfest`, `lua`, `neovim`, `nvim`, `telescope`, `yaml` \
+**Watchers**: 5 **Forks**: 11 **Stars**: 152 **Issues**: 1 \
+**Last commit**: 2023-11-21 (29 days ago) \
+**Created at**: 2021-06-09 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -2531,6 +2542,17 @@ Last commit..
 </details>
 
 <details>
+<summary>🟤 44 [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-plugin`, `neovim-ui`, `nvim`, `pretty`, `toggles`, `vi-mode`, `zen`, `zenmode` \
+**Watchers**: 8 **Forks**: 19 **Stars**: 894 **Issues**: 19 \
+**Last commit**: 2023-08-26 (116 days ago) \
+**Created at**: 2021-04-16 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
 <summary>🟤 44 [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `neovim-ui`, `nvim`, `pretty`, `toggles`, `vi-mode`, `zen`, `zenmode` \
@@ -2553,17 +2575,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 44 [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) – 🦝 Clean and elegant distraction-free writing for NeoVim</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-plugin`, `neovim-ui`, `nvim`, `pretty`, `toggles`, `vi-mode`, `zen`, `zenmode` \
-**Watchers**: 8 **Forks**: 19 **Stars**: 894 **Issues**: 19 \
-**Last commit**: 2023-08-26 (116 days ago) \
-**Created at**: 2021-04-16 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
 <summary>🟠 44 [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) – A comment toggler for Neovim, written in Lua</summary>
 
 **Topics**: none \
@@ -2575,7 +2586,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 44 [utfeight/vimacs](https://github.com/utfeight/vimacs) – Feature-full Neovim Experience - With Emacs, JetBrains features OOTB</summary>
+<summary>🟡 44 [UTFeight/vimacs](https://github.com/UTFeight/vimacs) – Feature-full Neovim Experience - With Emacs, JetBrains features OOTB</summary>
 
 **Topics**: `config`, `editor`, `editor-war`, `emacs`, `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `nvchad`, `peace`, `text-editor`, `text-editor-config`, `text-editor-configuration` \
 **Watchers**: 5 **Forks**: 5 **Stars**: 263 **Issues**: 7 \
@@ -2586,7 +2597,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 44 [UTFeight/vimacs](https://github.com/UTFeight/vimacs) – Feature-full Neovim Experience - With Emacs, JetBrains features OOTB</summary>
+<summary>🟡 44 [utfeight/vimacs](https://github.com/utfeight/vimacs) – Feature-full Neovim Experience - With Emacs, JetBrains features OOTB</summary>
 
 **Topics**: `config`, `editor`, `editor-war`, `emacs`, `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `nvchad`, `peace`, `text-editor`, `text-editor-config`, `text-editor-configuration` \
 **Watchers**: 5 **Forks**: 5 **Stars**: 263 **Issues**: 7 \
@@ -2700,7 +2711,7 @@ Last commit..
 
 **Topics**: `lua`, `neovim`, `sidebar`, `sidebar-nvim`, `vim` \
 **Watchers**: 9 **Forks**: 29 **Stars**: 702 **Issues**: 31 \
-**Last commit**: 2023-02-05 (317 days ago) \
+**Last commit**: 2023-02-05 (318 days ago) \
 **Created at**: 2021-08-07 \
 **License**: none
 
@@ -2843,7 +2854,7 @@ Last commit..
 
 **Topics**: `lsp-server`, `lua`, `mason`, `mason-lspconfig`, `neovim`, `nvim`, `nvim-lspconfig` \
 **Watchers**: 5 **Forks**: 11 **Stars**: 212 **Issues**: 3 \
-**Last commit**: 2023-10-13 (67 days ago) \
+**Last commit**: 2023-10-13 (68 days ago) \
 **Created at**: 2022-04-24 \
 **License**: Apache License 2.0
 
@@ -2905,11 +2916,22 @@ Last commit..
 </details>
 
 <details>
+<summary>🟤 35 [glepnir/dope](https://github.com/glepnir/dope) –  a modern structure neovim config template write in lua</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `neovim-plugin` \
+**Watchers**: 6 **Forks**: 20 **Stars**: 347 **Issues**: 4 \
+**Last commit**: 2023-09-12 (99 days ago) \
+**Created at**: 2022-07-02 \
+**License**: MIT License
+
+</details>
+
+<details>
 <summary>🟤 35 [nvimdev/dope](https://github.com/nvimdev/dope) –  a modern structure neovim config template write in lua</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `neovim-plugin` \
 **Watchers**: 6 **Forks**: 20 **Stars**: 347 **Issues**: 4 \
-**Last commit**: 2023-09-12 (98 days ago) \
+**Last commit**: 2023-09-12 (99 days ago) \
 **Created at**: 2022-07-02 \
 **License**: MIT License
 
@@ -2920,18 +2942,7 @@ Last commit..
 
 **Topics**: `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `neovim-plugin` \
 **Watchers**: 6 **Forks**: 20 **Stars**: 347 **Issues**: 4 \
-**Last commit**: 2023-09-12 (98 days ago) \
-**Created at**: 2022-07-02 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>🟤 35 [glepnir/dope](https://github.com/glepnir/dope) –  a modern structure neovim config template write in lua</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `neovim-plugin` \
-**Watchers**: 6 **Forks**: 20 **Stars**: 347 **Issues**: 4 \
-**Last commit**: 2023-09-12 (98 days ago) \
+**Last commit**: 2023-09-12 (99 days ago) \
 **Created at**: 2022-07-02 \
 **License**: MIT License
 
@@ -3070,6 +3081,28 @@ Last commit..
 </details>
 
 <details>
+<summary>🟤 31 [famiu/feline.nvim](https://github.com/famiu/feline.nvim) – A minimal, stylish and customizable statusline for Neovim written in Lua</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim`, `statusline` \
+**Watchers**: 5 **Forks**: 60 **Stars**: 1036 **Issues**: 6 \
+**Last commit**: 2023-09-20 (91 days ago) \
+**Created at**: 2021-04-13 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
+<summary>🟤 31 [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) – A minimal, stylish and customizable statusline for Neovim written in Lua</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim`, `statusline` \
+**Watchers**: 5 **Forks**: 60 **Stars**: 1036 **Issues**: 6 \
+**Last commit**: 2023-09-20 (91 days ago) \
+**Created at**: 2021-04-13 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
 <summary>🔴 31 [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) – 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.</summary>
 
 **Topics**: `lua`, `neovim`, `nvim-lua` \
@@ -3098,6 +3131,17 @@ Last commit..
 **Watchers**: 6 **Forks**: 24 **Stars**: 416 **Issues**: 15 \
 **Last commit**: 2023-05-08 (226 days ago) \
 **Created at**: 2020-12-29 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>⚫ 30 [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) – Auto completion Lua plugin for nvim</summary>
+
+**Topics**: `neovim`, `neovim-plugin`, `nvim`, `nvim-plugin` \
+**Watchers**: 9 **Forks**: 55 **Stars**: 1287 **Issues**: 6 \
+**Last commit**: 2021-10-02 (809 days ago) \
+**Created at**: 2020-06-10 \
 **License**: MIT License
 
 </details>
@@ -3147,6 +3191,17 @@ Last commit..
 </details>
 
 <details>
+<summary>🔴 29 [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) – Improve startup time for Neovim</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim` \
+**Watchers**: 14 **Forks**: 28 **Stars**: 1219 **Issues**: 0 \
+**Last commit**: 2023-05-05 (229 days ago) \
+**Created at**: 2021-08-28 \
+**License**: MIT License
+
+</details>
+
+<details>
 <summary>🟠 29 [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) – Provides external LTeX file handling (off-spec lsp) and other functions.</summary>
 
 **Topics**: `grammar`, `latex`, `lsp`, `ltex`, `lua`, `markdown`, `nvim`, `vim` \
@@ -3169,23 +3224,23 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 29 [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) – Implementation of gx without the need of netrw</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-plugin`, `plugin` \
-**Watchers**: 2 **Forks**: 12 **Stars**: 110 **Issues**: 1 \
-**Last commit**: 2023-10-06 (75 days ago) \
-**Created at**: 2023-03-14 \
-**License**: Apache License 2.0
-
-</details>
-
-<details>
 <summary>🟤 29 [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) – Highlight changed text after Undo / Redo operations</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin` \
 **Watchers**: 5 **Forks**: 3 **Stars**: 198 **Issues**: 0 \
 **Last commit**: 2023-09-20 (91 days ago) \
 **Created at**: 2023-06-08 \
+**License**: Apache License 2.0
+
+</details>
+
+<details>
+<summary>🟠 29 [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) – Implementation of gx without the need of netrw</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-plugin`, `plugin` \
+**Watchers**: 2 **Forks**: 12 **Stars**: 110 **Issues**: 1 \
+**Last commit**: 2023-10-06 (75 days ago) \
+**Created at**: 2023-03-14 \
 **License**: Apache License 2.0
 
 </details>
@@ -3257,7 +3312,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 28 [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) – Virtual text context for neovim treesitter</summary>
+<summary>🟤 28 [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) – Virtual text context for neovim treesitter</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `treesitter` \
 **Watchers**: 6 **Forks**: 14 **Stars**: 335 **Issues**: 3 \
@@ -3268,7 +3323,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 28 [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) – Virtual text context for neovim treesitter</summary>
+<summary>🟤 28 [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) – Virtual text context for neovim treesitter</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `treesitter` \
 **Watchers**: 6 **Forks**: 14 **Stars**: 335 **Issues**: 3 \
@@ -3367,7 +3422,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 26 [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) – Neovim plugin that allows you to create a Github Gist from the current file</summary>
+<summary>🟤 26 [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) – Neovim plugin that allows you to create a Github Gist from the current file</summary>
 
 **Topics**: `gist`, `lua`, `neovim` \
 **Watchers**: 3 **Forks**: 4 **Stars**: 148 **Issues**: 3 \
@@ -3378,7 +3433,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 26 [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) – Neovim plugin that allows you to create a Github Gist from the current file</summary>
+<summary>🟤 26 [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) – Neovim plugin that allows you to create a Github Gist from the current file</summary>
 
 **Topics**: `gist`, `lua`, `neovim` \
 **Watchers**: 3 **Forks**: 4 **Stars**: 148 **Issues**: 3 \
@@ -3393,7 +3448,7 @@ Last commit..
 
 **Topics**: `lua`, `move`, `neovim`, `nvim`, `plugin`, `vim` \
 **Watchers**: 1 **Forks**: 5 **Stars**: 280 **Issues**: 5 \
-**Last commit**: 2023-07-05 (167 days ago) \
+**Last commit**: 2023-07-05 (168 days ago) \
 **Created at**: 2021-09-23 \
 **License**: none
 
@@ -3444,17 +3499,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🔴 26 [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) – A dark neovim colorscheme written in lua</summary>
-
-**Topics**: `colorscheme`, `lua`, `neovim`, `nvim-treesitter`, `treesitter`, `zephyr-nvim` \
-**Watchers**: 5 **Forks**: 57 **Stars**: 310 **Issues**: 1 \
-**Last commit**: 2022-12-31 (354 days ago) \
-**Created at**: 2020-10-06 \
-**License**: MIT License
-
-</details>
-
-<details>
 <summary>🔴 26 [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) – A dark neovim colorscheme written in lua</summary>
 
 **Topics**: `colorscheme`, `lua`, `neovim`, `nvim-treesitter`, `treesitter`, `zephyr-nvim` \
@@ -3466,7 +3510,29 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 26 [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) – kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration</summary>
+<summary>🔴 26 [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) – A dark neovim colorscheme written in lua</summary>
+
+**Topics**: `colorscheme`, `lua`, `neovim`, `nvim-treesitter`, `treesitter`, `zephyr-nvim` \
+**Watchers**: 5 **Forks**: 57 **Stars**: 310 **Issues**: 1 \
+**Last commit**: 2022-12-31 (354 days ago) \
+**Created at**: 2020-10-06 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>⚫ 26 [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) – A async completion framework aims to provide completion to neovim's built in LSP written in Lua</summary>
+
+**Topics**: none \
+**Watchers**: 19 **Forks**: 79 **Stars**: 983 **Issues**: 81 \
+**Last commit**: 2021-10-12 (799 days ago) \
+**Created at**: 2020-03-10 \
+**License**: Apache License 2.0
+
+</details>
+
+<details>
+<summary>⚫ 26 [0xsamrath/kyoto.nvim](https://github.com/0xsamrath/kyoto.nvim) – kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration</summary>
 
 **Topics**: `dotfiles`, `lua`, `neovim`, `neovim-dotfiles`, `vim`, `vimrc`, `vimrc-configuration` \
 **Watchers**: 3 **Forks**: 10 **Stars**: 283 **Issues**: 2 \
@@ -3477,7 +3543,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 26 [0xsamrath/kyoto.nvim](https://github.com/0xsamrath/kyoto.nvim) – kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration</summary>
+<summary>⚫ 26 [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) – kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration</summary>
 
 **Topics**: `dotfiles`, `lua`, `neovim`, `neovim-dotfiles`, `vim`, `vimrc`, `vimrc-configuration` \
 **Watchers**: 3 **Forks**: 10 **Stars**: 283 **Issues**: 2 \
@@ -3671,6 +3737,17 @@ Last commit..
 **Last commit**: 2023-09-08 (103 days ago) \
 **Created at**: 2022-02-27 \
 **License**: The Unlicense
+
+</details>
+
+<details>
+<summary>🔴 24 [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) – Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead</summary>
+
+**Topics**: `lua`, `neovim`, `rainbow-brackets`, `rainbow-parentheses`, `tree-sitter` \
+**Watchers**: 11 **Forks**: 66 **Stars**: 875 **Issues**: 10 \
+**Last commit**: 2023-01-02 (352 days ago) \
+**Created at**: 2020-11-02 \
+**License**: Apache License 2.0
 
 </details>
 
@@ -3943,7 +4020,7 @@ Last commit..
 
 **Topics**: `lua`, `neovim`, `plugin`, `treesitter` \
 **Watchers**: 3 **Forks**: 7 **Stars**: 129 **Issues**: 6 \
-**Last commit**: 2023-04-30 (233 days ago) \
+**Last commit**: 2023-04-30 (234 days ago) \
 **Created at**: 2022-10-13 \
 **License**: MIT License
 
@@ -3976,7 +4053,7 @@ Last commit..
 
 **Topics**: `cosmic`, `ide`, `lua`, `neovim`, `neovim-configuration`, `neovim-dotfiles`, `neovim-lua`, `neovim-lua-plugin`, `neovim-plugin`, `neovim-ui`, `ui`, `vim`, `vim-plugin` \
 **Watchers**: 7 **Forks**: 1 **Stars**: 157 **Issues**: 1 \
-**Last commit**: 2022-12-30 (354 days ago) \
+**Last commit**: 2022-12-30 (355 days ago) \
 **Created at**: 2021-12-04 \
 **License**: GNU General Public License v3.0
 
@@ -4126,7 +4203,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 19 [hoprr/calvera-dark.nvim](https://github.com/hoprr/calvera-dark.nvim) – Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</summary>
+<summary>⚫ 19 [yashguptaz/calvera-dark.nvim](https://github.com/yashguptaz/calvera-dark.nvim) – Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</summary>
 
 **Topics**: none \
 **Watchers**: 1 **Forks**: 7 **Stars**: 140 **Issues**: 3 \
@@ -4137,7 +4214,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 19 [yashguptaz/calvera-dark.nvim](https://github.com/yashguptaz/calvera-dark.nvim) – Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</summary>
+<summary>⚫ 19 [hoprr/calvera-dark.nvim](https://github.com/hoprr/calvera-dark.nvim) – Calvera Dark Colorscheme for Neovim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</summary>
 
 **Topics**: none \
 **Watchers**: 1 **Forks**: 7 **Stars**: 140 **Issues**: 3 \
@@ -4196,7 +4273,7 @@ Last commit..
 
 **Topics**: `developer-tools`, `lua`, `neovim`, `plugin` \
 **Watchers**: 3 **Forks**: 5 **Stars**: 114 **Issues**: 2 \
-**Last commit**: 2023-08-26 (115 days ago) \
+**Last commit**: 2023-08-26 (116 days ago) \
 **Created at**: 2022-06-16 \
 **License**: GNU General Public License v3.0
 
@@ -4280,7 +4357,18 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 17 [max397574/ignis-nvim](https://github.com/max397574/ignis-nvim) – This are my neovim configurations. https://github.com/max397574/omega-nvim is more up to date</summary>
+<summary>🟤 17 [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) – A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).</summary>
+
+**Topics**: `lsp`, `neovim`, `neovim-lsp`, `neovim-plugin`, `typescript` \
+**Watchers**: 8 **Forks**: 26 **Stars**: 498 **Issues**: 14 \
+**Last commit**: 2023-08-12 (130 days ago) \
+**Created at**: 2022-03-15 \
+**License**: The Unlicense
+
+</details>
+
+<details>
+<summary>⚫ 17 [max397574/NeovimConfig](https://github.com/max397574/NeovimConfig) – This are my neovim configurations. https://github.com/max397574/omega-nvim is more up to date</summary>
 
 **Topics**: `lua`, `neovim`, `nvim` \
 **Watchers**: 2 **Forks**: 0 **Stars**: 111 **Issues**: 0 \
@@ -4291,7 +4379,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 17 [max397574/NeovimConfig](https://github.com/max397574/NeovimConfig) – This are my neovim configurations. https://github.com/max397574/omega-nvim is more up to date</summary>
+<summary>⚫ 17 [max397574/ignis-nvim](https://github.com/max397574/ignis-nvim) – This are my neovim configurations. https://github.com/max397574/omega-nvim is more up to date</summary>
 
 **Topics**: `lua`, `neovim`, `nvim` \
 **Watchers**: 2 **Forks**: 0 **Stars**: 111 **Issues**: 0 \
@@ -4434,6 +4522,17 @@ Last commit..
 </details>
 
 <details>
+<summary>⚫ 15 [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) – Provides the missing :LspInstall for nvim-lspconfig</summary>
+
+**Topics**: `lua`, `neovim`, `neovim-lsp`, `neovim-lua`, `neovim-plugin` \
+**Watchers**: 7 **Forks**: 70 **Stars**: 526 **Issues**: 59 \
+**Last commit**: 2021-10-20 (791 days ago) \
+**Created at**: 2021-03-19 \
+**License**: MIT License
+
+</details>
+
+<details>
 <summary>⚫ 15 [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) – macros to configure neovim in fennel</summary>
 
 **Topics**: `fennel`, `lua`, `macros`, `neovim` \
@@ -4489,172 +4588,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [askfiy/nvim](https://github.com/askfiy/nvim) – An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡</summary>
-
-**Topics**: `config`, `ide`, `lua`, `neovim`, `nvim` \
-**Watchers**: 3 **Forks**: 23 **Stars**: 215 **Issues**: 1 \
-**Last commit**: 2023-08-20 (122 days ago) \
-**Created at**: 2022-03-12 \
-**License**: Mozilla Public License 2.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) – a neovim syntax highlighter using treesitter</summary>
-
-**Topics**: `highlight`, `lua`, `neovim`, `treesitter-api` \
-**Watchers**: 14 **Forks**: 4 **Stars**: 64 **Issues**: 1 \
-**Last commit**: 2020-04-24 (1335 days ago) \
-**Created at**: 2020-02-21 \
-**License**: Other
-
-</details>
-
-<details>
-<summary>⚫ -inf [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) – A minimal neovim configuration</summary>
-
-**Topics**: `config`, `hacktober`, `linux`, `lua`, `neovim`, `neovim-config`, `nvim`, `telescope`, `vim` \
-**Watchers**: 3 **Forks**: 6 **Stars**: 107 **Issues**: 1 \
-**Last commit**: 2022-09-24 (452 days ago) \
-**Created at**: 2021-08-06 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>🔴 -inf [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) – Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead</summary>
-
-**Topics**: `lua`, `neovim`, `rainbow-brackets`, `rainbow-parentheses`, `tree-sitter` \
-**Watchers**: 11 **Forks**: 66 **Stars**: 875 **Issues**: 10 \
-**Last commit**: 2023-01-02 (352 days ago) \
-**Created at**: 2020-11-02 \
-**License**: Apache License 2.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) – Provides the missing :LspInstall for nvim-lspconfig</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-lsp`, `neovim-lua`, `neovim-plugin` \
-**Watchers**: 7 **Forks**: 70 **Stars**: 526 **Issues**: 59 \
-**Last commit**: 2021-10-20 (791 days ago) \
-**Created at**: 2021-03-19 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [jose-elias-alvarez/buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim) – A low-config, minimalistic buffer tabline Neovim plugin written in Lua.</summary>
-
-**Topics**: `bufferline`, `lua`, `neovim`, `neovim-plugin` \
-**Watchers**: 4 **Forks**: 4 **Stars**: 74 **Issues**: 0 \
-**Last commit**: 2022-02-27 (660 days ago) \
-**Created at**: 2021-03-06 \
-**License**: The Unlicense
-
-</details>
-
-<details>
-<summary>⚫ -inf [ahmedkhalf/lsp-rooter.nvim](https://github.com/ahmedkhalf/lsp-rooter.nvim) – lsp-rooter.nvim is a neovim plugin written in lua to change the current working directory to the project's root directory automagically using nvim native lsp.</summary>
-
-**Topics**: none \
-**Watchers**: 2 **Forks**: 3 **Stars**: 77 **Issues**: 0 \
-**Last commit**: 2021-08-13 (859 days ago) \
-**Created at**: 2021-05-20 \
-**License**: Other
-
-</details>
-
-<details>
-<summary>⚫ -inf [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) – A surround text object plugin for neovim written in lua. (Fork from blackCauldron7/surround.nvim)</summary>
-
-**Topics**: none \
-**Watchers**: 1 **Forks**: 18 **Stars**: 97 **Issues**: 6 \
-**Last commit**: 2022-10-10 (436 days ago) \
-**Created at**: 2022-02-14 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [B4mbus/oxocarbon-lua.nvim](https://github.com/B4mbus/oxocarbon-lua.nvim) – A lua rewrite of the original oxocarbon theme.</summary>
-
-**Topics**: `ibm`, `lua`, `neovim`, `neovim-colorscheme`, `oxocarbon`, `theme`, `vim` \
-**Watchers**: 1 **Forks**: 11 **Stars**: 82 **Issues**: 1 \
-**Last commit**: 2022-12-10 (375 days ago) \
-**Created at**: 2022-08-04 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>⚫ -inf [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) – 🎨 Neovim colorscheme based on your xresources color</summary>
-
-**Topics**: `colorscheme`, `lua`, `neovim` \
-**Watchers**: 2 **Forks**: 7 **Stars**: 84 **Issues**: 1 \
-**Last commit**: 2021-11-23 (757 days ago) \
-**Created at**: 2021-03-10 \
-**License**: GNU General Public License v2.0
-
-</details>
-
-<details>
-<summary>🟤 -inf [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) – nvim with lua is cool</summary>
-
-**Topics**: `ide`, `lua`, `neovim`, `nvim`, `nvim-configs`, `nvim-lua`, `nvimrc`, `nvoid`, `vimrc`, `vscode` \
-**Watchers**: 2 **Forks**: 5 **Stars**: 93 **Issues**: 0 \
-**Last commit**: 2023-09-13 (98 days ago) \
-**Created at**: 2021-11-24 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>🟤 -inf [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) – A minimal, stylish and customizable statusline for Neovim written in Lua</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim`, `statusline` \
-**Watchers**: 5 **Forks**: 60 **Stars**: 1036 **Issues**: 6 \
-**Last commit**: 2023-09-20 (91 days ago) \
-**Created at**: 2021-04-13 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [AlphaTechnolog/pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) – pywal.nvim is a reimplementation of pywal.vim to support a few lua plugins like nvim-tree, telescope, bufferline, etc</summary>
-
-**Topics**: `autogeneration`, `bufferline`, `colors`, `colorscheme`, `lua`, `lualine`, `nvim`, `palette`, `pywal`, `reimplementation`, `telescope`, `theme`, `vim` \
-**Watchers**: 3 **Forks**: 21 **Stars**: 92 **Issues**: 4 \
-**Last commit**: 2022-11-03 (411 days ago) \
-**Created at**: 2022-01-06 \
-**License**: none
-
-</details>
-
-<details>
-<summary>🟤 -inf [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) – A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).</summary>
-
-**Topics**: `lsp`, `neovim`, `neovim-lsp`, `neovim-plugin`, `typescript` \
-**Watchers**: 8 **Forks**: 26 **Stars**: 498 **Issues**: 14 \
-**Last commit**: 2023-08-12 (130 days ago) \
-**Created at**: 2022-03-15 \
-**License**: The Unlicense
-
-</details>
-
-<details>
-<summary>⚫ -inf [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) – A async completion framework aims to provide completion to neovim's built in LSP written in Lua</summary>
-
-**Topics**: none \
-**Watchers**: 19 **Forks**: 79 **Stars**: 983 **Issues**: 81 \
-**Last commit**: 2021-10-12 (799 days ago) \
-**Created at**: 2020-03-10 \
-**License**: Apache License 2.0
-
-</details>
-
-<details>
-<summary>⚫ -inf [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) – Make neovim the best note taking application</summary>
+<summary>⚫ 10 [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) – Make neovim the best note taking application</summary>
 
 **Topics**: `asynchronous`, `lua`, `markdown`, `neovim`, `neovim-plugin`, `notes`, `plenary`, `wiki`, `zettelkasten` \
 **Watchers**: 6 **Forks**: 35 **Stars**: 396 **Issues**: 21 \
@@ -4665,18 +4599,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 -inf [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) – Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.</summary>
-
-**Topics**: `lsp`, `neovim`, `neovim-lsp`, `neovim-plugin` \
-**Watchers**: 17 **Forks**: 819 **Stars**: 3618 **Issues**: 94 \
-**Last commit**: 2023-10-03 (78 days ago) \
-**Created at**: 2021-05-15 \
-**License**: Other
-
-</details>
-
-<details>
-<summary>🟤 -inf [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) – Create key-bindings and watch them with telescope :telescope:</summary>
+<summary>🟤 7 [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) – Create key-bindings and watch them with telescope :telescope:</summary>
 
 **Topics**: `commandpalette`, `lua`, `neovim`, `plugin`, `telescope` \
 **Watchers**: 6 **Forks**: 8 **Stars**: 271 **Issues**: 6 \
@@ -4687,7 +4610,29 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [ful1e5/onedark.nvim](https://github.com/ful1e5/onedark.nvim) – Atom's iconic One Dark theme for Neovim, written in Lua</summary>
+<summary>🟤 6 [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) – A Lua rewrite of vim-lastplace</summary>
+
+**Topics**: `lua`, `neovim`, `plugin`, `vim` \
+**Watchers**: 3 **Forks**: 9 **Stars**: 291 **Issues**: 0 \
+**Last commit**: 2023-07-27 (146 days ago) \
+**Created at**: 2021-05-02 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>🟤 4 [askfiy/nvim](https://github.com/askfiy/nvim) – An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡</summary>
+
+**Topics**: `config`, `ide`, `lua`, `neovim`, `nvim` \
+**Watchers**: 3 **Forks**: 23 **Stars**: 215 **Issues**: 1 \
+**Last commit**: 2023-08-20 (122 days ago) \
+**Created at**: 2022-03-12 \
+**License**: Mozilla Public License 2.0
+
+</details>
+
+<details>
+<summary>⚫ 2 [ful1e5/onedark.nvim](https://github.com/ful1e5/onedark.nvim) – Atom's iconic One Dark theme for Neovim, written in Lua</summary>
 
 **Topics**: `hacktoberfest`, `lua`, `nvim-theme` \
 **Watchers**: 2 **Forks**: 13 **Stars**: 203 **Issues**: 2 \
@@ -4698,29 +4643,7 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [famiu/feline.nvim](https://github.com/famiu/feline.nvim) – A minimal, stylish and customizable statusline for Neovim written in Lua</summary>
-
-**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim`, `statusline` \
-**Watchers**: 5 **Forks**: 60 **Stars**: 1036 **Issues**: 6 \
-**Last commit**: 2023-09-20 (91 days ago) \
-**Created at**: 2021-04-13 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>🟤 -inf [brymer-meneses/grammar-guard.nvim](https://github.com/brymer-meneses/grammar-guard.nvim) – Grammar Guard is a Neovim plugin that checks your grammar as you write your LaTeX, Markdown or plain text document.</summary>
-
-**Topics**: `grammar-checker`, `languagetool-server`, `ltex`, `lua`, `neovim`, `plugin` \
-**Watchers**: 4 **Forks**: 5 **Stars**: 153 **Issues**: 13 \
-**Last commit**: 2023-08-12 (130 days ago) \
-**Created at**: 2021-08-28 \
-**License**: Apache License 2.0
-
-</details>
-
-<details>
-<summary>🔴 -inf [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) – :genie: Pluggable framework for using AI code assistance in Neovim</summary>
+<summary>🔴 2 [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) – :genie: Pluggable framework for using AI code assistance in Neovim</summary>
 
 **Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim`, `openai`, `openai-codex` \
 **Watchers**: 5 **Forks**: 14 **Stars**: 196 **Issues**: 0 \
@@ -4731,18 +4654,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ -inf [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) – Auto completion Lua plugin for nvim</summary>
-
-**Topics**: `neovim`, `neovim-plugin`, `nvim`, `nvim-plugin` \
-**Watchers**: 9 **Forks**: 55 **Stars**: 1287 **Issues**: 6 \
-**Last commit**: 2021-10-02 (809 days ago) \
-**Created at**: 2020-06-10 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>🟤 -inf [s1n7ax/dotnvim](https://github.com/s1n7ax/dotnvim) – Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...</summary>
+<summary>🟤 0 [s1n7ax/dotnvim](https://github.com/s1n7ax/dotnvim) – Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...</summary>
 
 **Topics**: `coc`, `dotfiles`, `lsp`, `lua`, `neovim`, `neovim-config`, `neovim-configuration`, `neovim-dotfiles`, `neovim-lua`, `nvim`, `treesitter` \
 **Watchers**: 6 **Forks**: 18 **Stars**: 121 **Issues**: 0 \
@@ -4753,18 +4665,106 @@ Last commit..
 </details>
 
 <details>
-<summary>🔴 -inf [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) – Improve startup time for Neovim</summary>
+<summary>🟤 0 [brymer-meneses/grammar-guard.nvim](https://github.com/brymer-meneses/grammar-guard.nvim) – Grammar Guard is a Neovim plugin that checks your grammar as you write your LaTeX, Markdown or plain text document.</summary>
 
-**Topics**: `lua`, `neovim`, `neovim-plugin`, `nvim` \
-**Watchers**: 14 **Forks**: 28 **Stars**: 1219 **Issues**: 0 \
-**Last commit**: 2023-05-05 (229 days ago) \
+**Topics**: `grammar-checker`, `languagetool-server`, `ltex`, `lua`, `neovim`, `plugin` \
+**Watchers**: 4 **Forks**: 5 **Stars**: 153 **Issues**: 13 \
+**Last commit**: 2023-08-12 (130 days ago) \
 **Created at**: 2021-08-28 \
+**License**: Apache License 2.0
+
+</details>
+
+<details>
+<summary>🟤 -2 [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) – nvim with lua is cool</summary>
+
+**Topics**: `ide`, `lua`, `neovim`, `nvim`, `nvim-configs`, `nvim-lua`, `nvimrc`, `nvoid`, `vimrc`, `vscode` \
+**Watchers**: 2 **Forks**: 5 **Stars**: 93 **Issues**: 0 \
+**Last commit**: 2023-09-13 (98 days ago) \
+**Created at**: 2021-11-24 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
+<summary>⚫ -3 [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) – A minimal neovim configuration</summary>
+
+**Topics**: `config`, `hacktober`, `linux`, `lua`, `neovim`, `neovim-config`, `nvim`, `telescope`, `vim` \
+**Watchers**: 3 **Forks**: 6 **Stars**: 107 **Issues**: 1 \
+**Last commit**: 2022-09-24 (452 days ago) \
+**Created at**: 2021-08-06 \
+**License**: GNU General Public License v3.0
+
+</details>
+
+<details>
+<summary>⚫ -3 [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) – A surround text object plugin for neovim written in lua. (Fork from blackCauldron7/surround.nvim)</summary>
+
+**Topics**: none \
+**Watchers**: 1 **Forks**: 18 **Stars**: 97 **Issues**: 6 \
+**Last commit**: 2022-10-10 (436 days ago) \
+**Created at**: 2022-02-14 \
 **License**: MIT License
 
 </details>
 
 <details>
-<summary>🟤 -inf [neovim/lua-client](https://github.com/neovim/lua-client) – DEPRECATED</summary>
+<summary>⚫ -4 [AlphaTechnolog/pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) – pywal.nvim is a reimplementation of pywal.vim to support a few lua plugins like nvim-tree, telescope, bufferline, etc</summary>
+
+**Topics**: `autogeneration`, `bufferline`, `colors`, `colorscheme`, `lua`, `lualine`, `nvim`, `palette`, `pywal`, `reimplementation`, `telescope`, `theme`, `vim` \
+**Watchers**: 3 **Forks**: 21 **Stars**: 92 **Issues**: 4 \
+**Last commit**: 2022-11-03 (411 days ago) \
+**Created at**: 2022-01-06 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚫ -4 [B4mbus/oxocarbon-lua.nvim](https://github.com/B4mbus/oxocarbon-lua.nvim) – A lua rewrite of the original oxocarbon theme.</summary>
+
+**Topics**: `ibm`, `lua`, `neovim`, `neovim-colorscheme`, `oxocarbon`, `theme`, `vim` \
+**Watchers**: 1 **Forks**: 11 **Stars**: 82 **Issues**: 1 \
+**Last commit**: 2022-12-10 (375 days ago) \
+**Created at**: 2022-08-04 \
+**License**: MIT License
+
+</details>
+
+<details>
+<summary>⚫ -5 [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) – 🎨 Neovim colorscheme based on your xresources color</summary>
+
+**Topics**: `colorscheme`, `lua`, `neovim` \
+**Watchers**: 2 **Forks**: 7 **Stars**: 84 **Issues**: 1 \
+**Last commit**: 2021-11-23 (757 days ago) \
+**Created at**: 2021-03-10 \
+**License**: GNU General Public License v2.0
+
+</details>
+
+<details>
+<summary>⚫ -6 [ahmedkhalf/lsp-rooter.nvim](https://github.com/ahmedkhalf/lsp-rooter.nvim) – lsp-rooter.nvim is a neovim plugin written in lua to change the current working directory to the project's root directory automagically using nvim native lsp.</summary>
+
+**Topics**: none \
+**Watchers**: 2 **Forks**: 3 **Stars**: 77 **Issues**: 0 \
+**Last commit**: 2021-08-13 (859 days ago) \
+**Created at**: 2021-05-20 \
+**License**: Other
+
+</details>
+
+<details>
+<summary>⚫ -6 [jose-elias-alvarez/buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim) – A low-config, minimalistic buffer tabline Neovim plugin written in Lua.</summary>
+
+**Topics**: `bufferline`, `lua`, `neovim`, `neovim-plugin` \
+**Watchers**: 4 **Forks**: 4 **Stars**: 74 **Issues**: 0 \
+**Last commit**: 2022-02-27 (660 days ago) \
+**Created at**: 2021-03-06 \
+**License**: The Unlicense
+
+</details>
+
+<details>
+<summary>🟤 -6 [neovim/lua-client](https://github.com/neovim/lua-client) – DEPRECATED</summary>
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 23 **Stars**: 85 **Issues**: 4 \
@@ -4775,13 +4775,13 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 -inf [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) – A Lua rewrite of vim-lastplace</summary>
+<summary>⚫ -7 [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) – a neovim syntax highlighter using treesitter</summary>
 
-**Topics**: `lua`, `neovim`, `plugin`, `vim` \
-**Watchers**: 3 **Forks**: 9 **Stars**: 291 **Issues**: 0 \
-**Last commit**: 2023-07-27 (146 days ago) \
-**Created at**: 2021-05-02 \
-**License**: MIT License
+**Topics**: `highlight`, `lua`, `neovim`, `treesitter-api` \
+**Watchers**: 14 **Forks**: 4 **Stars**: 64 **Issues**: 1 \
+**Last commit**: 2020-04-24 (1335 days ago) \
+**Created at**: 2020-02-21 \
+**License**: Other
 
 </details>
 
@@ -5063,7 +5063,7 @@ Last commit..
 
 **Topics**: `asynchronous`, `c-plus-plus`, `libpcap`, `linux`, `lua`, `machine-learning`, `netcat`, `network-discovery`, `nmap`, `osx`, `pcre`, `ping`, `port-scanner`, `security`, `service-discovery`, `socket`, `windows` \
 **Watchers**: 427 **Forks**: 2255 **Stars**: 8662 **Issues**: 795 \
-**Last commit**: 2023-12-14 (5 days ago) \
+**Last commit**: 2023-12-14 (6 days ago) \
 **Created at**: 2012-03-09 \
 **License**: Other
 
