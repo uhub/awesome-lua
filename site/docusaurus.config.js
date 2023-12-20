@@ -56,21 +56,15 @@ const config = {
       // Replace with your project's social card
 	  // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Awesome Lua',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Official Lua Logo',
+          src: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             href: 'https://github.com/AMD-NICK/awesome-lua',
-            label: 'GitHub',
+            label: 'Add repo',
             position: 'right',
           },
         ],
