@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'awesome lua',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Lua is cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://awesome-lua.vercel.app/',
+  url: 'https://amd-nick.github.io/awesome-lua',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AMD-NICK', // Usually your GitHub org/user name.
-  projectName: 'awesome-lua', // Usually your repo name.
+  projectName: 'amd-nick.github.io', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
