@@ -4,9 +4,24 @@ sidebar_position: 3
 
 # 🔧 Utils / Small libs
 
-**Total items**: 65 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-65-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```
@@ -32,11 +47,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 63 [rxi/lume](https://github.com/rxi/lume) – Lua functions geared towards gamedev</summary>
+<summary>🟡 63 [rxi/lume](https://github.com/rxi/lume) – Lua functions geared towards gamedev</summary>
 
 **Topics**: none \
 **Watchers**: 29 **Forks**: 79 **Stars**: 885 **Issues**: 19 \
-**Last commit**: 2023-11-19 (30 days ago) \
+**Last commit**: 2023-11-19 (31 days ago) \
 **Created at**: 2014-02-27 \
 **License**: MIT License
 
@@ -69,7 +84,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 27 **Forks**: 83 **Stars**: 543 **Issues**: 6 \
-**Last commit**: 2023-02-02 (321 days ago) \
+**Last commit**: 2023-02-02 (322 days ago) \
 **Created at**: 2011-04-25 \
 **License**: Other
 
@@ -80,7 +95,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 31 **Forks**: 78 **Stars**: 503 **Issues**: 14 \
-**Last commit**: 2020-06-21 (1277 days ago) \
+**Last commit**: 2020-06-21 (1278 days ago) \
 **Created at**: 2015-07-15 \
 **License**: MIT License
 
@@ -102,7 +117,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 17 **Forks**: 63 **Stars**: 398 **Issues**: 15 \
-**Last commit**: 2016-03-22 (2828 days ago) \
+**Last commit**: 2016-03-22 (2829 days ago) \
 **Created at**: 2009-11-29 \
 **License**: MIT License
 
@@ -168,7 +183,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 36 **Stars**: 153 **Issues**: 2 \
-**Last commit**: 2018-01-24 (2155 days ago) \
+**Last commit**: 2018-01-24 (2156 days ago) \
 **Created at**: 2011-02-13 \
 **License**: Other
 
@@ -212,7 +227,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 10 **Stars**: 91 **Issues**: 2 \
-**Last commit**: 2018-02-18 (2131 days ago) \
+**Last commit**: 2018-02-18 (2132 days ago) \
 **Created at**: 2011-04-18 \
 **License**: MIT License
 
@@ -256,7 +271,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 34 **Stars**: 75 **Issues**: 5 \
-**Last commit**: 2018-10-31 (1875 days ago) \
+**Last commit**: 2018-10-31 (1876 days ago) \
 **Created at**: 2013-07-10 \
 **License**: Other
 
@@ -306,6 +321,7 @@ Last commit..
 
 </details>
 
+
 ## Crypto
 
 <details>
@@ -346,7 +362,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 27 **Stars**: 154 **Issues**: 0 \
-**Last commit**: 2023-05-16 (218 days ago) \
+**Last commit**: 2023-05-16 (219 days ago) \
 **Created at**: 2015-09-14 \
 **License**: MIT License
 
@@ -411,11 +427,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 33 [harningt/luajson](https://github.com/harningt/luajson) – JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.</summary>
+<summary>🟠 32 [harningt/luajson](https://github.com/harningt/luajson) – JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.</summary>
 
 **Topics**: none \
 **Watchers**: 20 **Forks**: 48 **Stars**: 247 **Issues**: 8 \
-**Last commit**: 2023-10-10 (70 days ago) \
+**Last commit**: 2023-10-10 (71 days ago) \
 **Created at**: 2008-09-26 \
 **License**: Other
 
@@ -470,7 +486,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 89 **Stars**: 218 **Issues**: 2 \
-**Last commit**: 2023-04-05 (258 days ago) \
+**Last commit**: 2023-04-05 (259 days ago) \
 **Created at**: 2013-03-19 \
 **License**: none
 
@@ -503,7 +519,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 18 **Forks**: 46 **Stars**: 148 **Issues**: 4 \
-**Last commit**: 2023-01-01 (352 days ago) \
+**Last commit**: 2023-01-01 (353 days ago) \
 **Created at**: 2013-02-07 \
 **License**: MIT License
 
@@ -536,7 +552,7 @@ Last commit..
 
 **Topics**: `javascript`, `json`, `lua`, `ruby` \
 **Watchers**: 6 **Forks**: 20 **Stars**: 101 **Issues**: 7 \
-**Last commit**: 2023-03-17 (277 days ago) \
+**Last commit**: 2023-03-17 (278 days ago) \
 **Created at**: 2015-04-16 \
 **License**: MIT License
 
@@ -547,7 +563,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 14 **Stars**: 103 **Issues**: 7 \
-**Last commit**: 2020-08-02 (1235 days ago) \
+**Last commit**: 2020-08-02 (1236 days ago) \
 **Created at**: 2009-06-03 \
 **License**: Other
 
@@ -558,7 +574,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 9 **Forks**: 16 **Stars**: 73 **Issues**: 0 \
-**Last commit**: 2016-05-19 (2770 days ago) \
+**Last commit**: 2016-05-19 (2771 days ago) \
 **Created at**: 2013-11-03 \
 **License**: MIT License
 
@@ -569,7 +585,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 8 **Forks**: 48 **Stars**: 71 **Issues**: 7 \
-**Last commit**: 2016-09-19 (2648 days ago) \
+**Last commit**: 2016-09-19 (2649 days ago) \
 **Created at**: 2014-07-11 \
 **License**: MIT License
 
@@ -638,7 +654,7 @@ Last commit..
 
 **Topics**: `lua`, `object-oriented`, `oop-library` \
 **Watchers**: 37 **Forks**: 51 **Stars**: 415 **Issues**: 9 \
-**Last commit**: 2021-05-08 (956 days ago) \
+**Last commit**: 2021-05-08 (957 days ago) \
 **Created at**: 2012-08-24 \
 **License**: Other
 

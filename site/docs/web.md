@@ -4,9 +4,24 @@ sidebar_position: 4
 
 # 🕸️ Web
 
-**Total items**: 154 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-154-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```
@@ -34,11 +49,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 62 [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) – Fast and minimalistic Redbean-based Lua web framework in one file.</summary>
+<summary>🟡 61 [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) – Fast and minimalistic Redbean-based Lua web framework in one file.</summary>
 
 **Topics**: `cosmopolitan`, `lua`, `webframework`, `webserver` \
 **Watchers**: 18 **Forks**: 22 **Stars**: 581 **Issues**: 2 \
-**Last commit**: 2023-11-14 (36 days ago) \
+**Last commit**: 2023-11-14 (37 days ago) \
 **Created at**: 2021-12-02 \
 **License**: MIT License
 
@@ -60,7 +75,7 @@ Last commit..
 
 **Topics**: `api-server`, `http`, `lua`, `luajit`, `network` \
 **Watchers**: 40 **Forks**: 87 **Stars**: 514 **Issues**: 37 \
-**Last commit**: 2023-10-04 (77 days ago) \
+**Last commit**: 2023-10-04 (78 days ago) \
 **Created at**: 2012-01-22 \
 **License**: Apache License 2.0
 
@@ -93,7 +108,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 22 **Forks**: 28 **Stars**: 229 **Issues**: 4 \
-**Last commit**: 2015-01-24 (3251 days ago) \
+**Last commit**: 2015-01-24 (3252 days ago) \
 **Created at**: 2011-02-21 \
 **License**: BSD 3-Clause "New" or "Revised" License
 
@@ -104,7 +119,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 22 **Forks**: 28 **Stars**: 229 **Issues**: 4 \
-**Last commit**: 2015-01-24 (3251 days ago) \
+**Last commit**: 2015-01-24 (3252 days ago) \
 **Created at**: 2011-02-21 \
 **License**: BSD 3-Clause "New" or "Revised" License
 
@@ -115,7 +130,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 16 **Stars**: 138 **Issues**: 5 \
-**Last commit**: 2016-09-06 (2661 days ago) \
+**Last commit**: 2016-09-06 (2662 days ago) \
 **Created at**: 2015-03-30 \
 **License**: none
 
@@ -239,7 +254,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 22 **Forks**: 55 **Stars**: 138 **Issues**: 8 \
-**Last commit**: 2019-06-05 (1658 days ago) \
+**Last commit**: 2019-06-05 (1659 days ago) \
 **Created at**: 2011-07-28 \
 **License**: none
 
@@ -261,7 +276,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 14 **Stars**: 104 **Issues**: 3 \
-**Last commit**: 2016-08-23 (2674 days ago) \
+**Last commit**: 2016-08-23 (2675 days ago) \
 **Created at**: 2010-12-21 \
 **License**: MIT License
 
@@ -308,7 +323,7 @@ Last commit..
 
 **Topics**: `http`, `http-server`, `lua`, `nodemcu`, `nodemcu-httpserver`, `webserver`, `wemos-d1-mini` \
 **Watchers**: 53 **Forks**: 166 **Stars**: 395 **Issues**: 15 \
-**Last commit**: 2023-03-11 (284 days ago) \
+**Last commit**: 2023-03-11 (285 days ago) \
 **Created at**: 2015-02-03 \
 **License**: GNU General Public License v2.0
 
@@ -330,7 +345,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 39 **Forks**: 115 **Stars**: 379 **Issues**: 36 \
-**Last commit**: 2022-11-14 (400 days ago) \
+**Last commit**: 2022-11-14 (401 days ago) \
 **Created at**: 2012-02-23 \
 **License**: MIT License
 
@@ -388,7 +403,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 33 **Stars**: 220 **Issues**: 15 \
-**Last commit**: 2022-08-16 (491 days ago) \
+**Last commit**: 2022-08-16 (492 days ago) \
 **Created at**: 2012-07-22 \
 **License**: MIT License
 
@@ -490,7 +505,7 @@ Last commit..
 
 **Topics**: `cdn`, `docker-compose`, `grafana`, `load-balancer`, `lua`, `luajit`, `nginx`, `openresty`, `prometheus`, `sre`, `tutorial`, `wrk` \
 **Watchers**: 33 **Forks**: 164 **Stars**: 2778 **Issues**: 3 \
-**Last commit**: 2023-03-21 (274 days ago) \
+**Last commit**: 2023-03-21 (275 days ago) \
 **Created at**: 2021-12-23 \
 **License**: BSD 3-Clause "New" or "Revised" License
 
@@ -732,7 +747,7 @@ Last commit..
 
 **Topics**: `luau`, `rust`, `yelp` \
 **Watchers**: 11 **Forks**: 7 **Stars**: 84 **Issues**: 1 \
-**Last commit**: 2023-11-28 (21 days ago) \
+**Last commit**: 2023-11-28 (22 days ago) \
 **Created at**: 2018-02-09 \
 **License**: Other
 
@@ -754,7 +769,7 @@ Last commit..
 
 **Topics**: `jwt-bearer-tokens`, `lua`, `lua-resty-openidc`, `nginx`, `oauth2`, `openidc`, `openidconnect` \
 **Watchers**: 38 **Forks**: 245 **Stars**: 902 **Issues**: 58 \
-**Last commit**: 2023-08-11 (130 days ago) \
+**Last commit**: 2023-08-11 (131 days ago) \
 **Created at**: 2015-07-14 \
 **License**: Apache License 2.0
 
@@ -809,7 +824,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 75 **Stars**: 313 **Issues**: 13 \
-**Last commit**: 2023-08-23 (119 days ago) \
+**Last commit**: 2023-08-23 (120 days ago) \
 **Created at**: 2016-01-14 \
 **License**: none
 
@@ -930,7 +945,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 35 **Forks**: 44 **Stars**: 183 **Issues**: 3 \
-**Last commit**: 2022-06-02 (565 days ago) \
+**Last commit**: 2022-06-02 (566 days ago) \
 **Created at**: 2016-01-25 \
 **License**: Apache License 2.0
 
@@ -1062,7 +1077,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 51 **Forks**: 60 **Stars**: 151 **Issues**: 2 \
-**Last commit**: 2016-08-29 (2669 days ago) \
+**Last commit**: 2016-08-29 (2670 days ago) \
 **Created at**: 2012-06-25 \
 **License**: none
 
@@ -1150,7 +1165,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 41 **Stars**: 133 **Issues**: 3 \
-**Last commit**: 2016-07-03 (2726 days ago) \
+**Last commit**: 2016-07-03 (2727 days ago) \
 **Created at**: 2015-12-25 \
 **License**: MIT License
 
@@ -1183,7 +1198,7 @@ Last commit..
 
 **Topics**: `lua`, `lua-resty-redis`, `nginx`, `openresty`, `redis` \
 **Watchers**: 9 **Forks**: 39 **Stars**: 121 **Issues**: 2 \
-**Last commit**: 2022-09-06 (470 days ago) \
+**Last commit**: 2022-09-06 (471 days ago) \
 **Created at**: 2017-08-16 \
 **License**: none
 
@@ -1282,7 +1297,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 16 **Forks**: 41 **Stars**: 94 **Issues**: 2 \
-**Last commit**: 2022-01-03 (716 days ago) \
+**Last commit**: 2022-01-03 (717 days ago) \
 **Created at**: 2014-08-02 \
 **License**: none
 
@@ -1359,7 +1374,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 8 **Forks**: 33 **Stars**: 86 **Issues**: 12 \
-**Last commit**: 2021-02-28 (1024 days ago) \
+**Last commit**: 2021-02-28 (1025 days ago) \
 **Created at**: 2014-04-05 \
 **License**: none
 
@@ -1447,7 +1462,7 @@ Last commit..
 
 **Topics**: `lua`, `nginx-lua-waf`, `openresty`, `waf` \
 **Watchers**: 5 **Forks**: 29 **Stars**: 75 **Issues**: 3 \
-**Last commit**: 2018-09-17 (1920 days ago) \
+**Last commit**: 2018-09-17 (1921 days ago) \
 **Created at**: 2018-05-03 \
 **License**: none
 
@@ -1692,7 +1707,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 47 **Stars**: 100 **Issues**: 1 \
-**Last commit**: 2023-08-14 (128 days ago) \
+**Last commit**: 2023-08-14 (129 days ago) \
 **Created at**: 2019-01-22 \
 **License**: Apache License 2.0
 
@@ -1703,7 +1718,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 6 **Forks**: 17 **Stars**: 87 **Issues**: 39 \
-**Last commit**: 2021-03-25 (999 days ago) \
+**Last commit**: 2021-03-25 (1000 days ago) \
 **Created at**: 2016-01-22 \
 **License**: MIT License
 
@@ -1725,7 +1740,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 47 **Stars**: 192 **Issues**: 7 \
-**Last commit**: 2020-07-14 (1253 days ago) \
+**Last commit**: 2020-07-14 (1254 days ago) \
 **Created at**: 2013-06-18 \
 **License**: MIT License
 

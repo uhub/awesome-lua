@@ -4,9 +4,24 @@ sidebar_position: 8
 
 # 📦 Storages
 
-**Total items**: 8 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-8-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```

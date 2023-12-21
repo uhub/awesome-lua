@@ -4,9 +4,24 @@ sidebar_position: 9
 
 # 😕 Unsorted
 
-**Total items**: 239 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-239-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```
@@ -157,7 +172,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 4 **Forks**: 8 **Stars**: 243 **Issues**: 4 \
-**Last commit**: 2023-12-09 (11 days ago) \
+**Last commit**: 2023-12-09 (12 days ago) \
 **Created at**: 2022-09-10 \
 **License**: MIT License
 
@@ -208,17 +223,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 56 [TACC/Lmod](https://github.com/TACC/Lmod) – Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy</summary>
-
-**Topics**: `environment-modules`, `hpc`, `lmod`, `lua`, `tacc`, `xsede` \
-**Watchers**: 23 **Forks**: 117 **Stars**: 431 **Issues**: 27 \
-**Last commit**: 2023-12-01 (18 days ago) \
-**Created at**: 2013-04-11 \
-**License**: Other
-
-</details>
-
-<details>
 <summary>⚫ 56 [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) – Facebook AI Research Sequence-to-Sequence Toolkit</summary>
 
 **Topics**: none \
@@ -236,6 +240,17 @@ Last commit..
 **Watchers**: 16 **Forks**: 55 **Stars**: 209 **Issues**: 5 \
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2019-04-13 \
+**License**: Other
+
+</details>
+
+<details>
+<summary>🟢 56 [TACC/Lmod](https://github.com/TACC/Lmod) – Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy</summary>
+
+**Topics**: `environment-modules`, `hpc`, `lmod`, `lua`, `tacc`, `xsede` \
+**Watchers**: 23 **Forks**: 117 **Stars**: 431 **Issues**: 27 \
+**Last commit**: 2023-12-01 (19 days ago) \
+**Created at**: 2013-04-11 \
 **License**: Other
 
 </details>
@@ -285,7 +300,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 53 [tullamods/Bagnon](https://github.com/tullamods/Bagnon) – Single window displays for you items</summary>
+<summary>⚪ 53 [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) – Single window displays for you items</summary>
 
 **Topics**: `addon`, `inventory`, `lua`, `world-of-warcraft` \
 **Watchers**: 14 **Forks**: 101 **Stars**: 183 **Issues**: 470 \
@@ -296,7 +311,7 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 53 [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) – Single window displays for you items</summary>
+<summary>⚪ 53 [tullamods/Bagnon](https://github.com/tullamods/Bagnon) – Single window displays for you items</summary>
 
 **Topics**: `addon`, `inventory`, `lua`, `world-of-warcraft` \
 **Watchers**: 14 **Forks**: 101 **Stars**: 183 **Issues**: 470 \
@@ -318,28 +333,6 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 52 [X-Raym/REAPER-ReaScripts](https://github.com/X-Raym/REAPER-ReaScripts) – X-Raym's Free and Open Source Scripts for Cockos REAPER.</summary>
-
-**Topics**: `audio`, `cockos-reaper`, `jsfx`, `lua`, `reapack`, `reaper`, `reaper-scripts`, `reascript` \
-**Watchers**: 19 **Forks**: 50 **Stars**: 165 **Issues**: 0 \
-**Last commit**: 2023-12-17 (2 days ago) \
-**Created at**: 2014-11-27 \
-**License**: GNU General Public License v3.0
-
-</details>
-
-<details>
-<summary>⚪ 52 [megalithic/dotfiles](https://github.com/megalithic/dotfiles) – 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖 </summary>
-
-**Topics**: `asdf`, `cli`, `dotfiles`, `elixir`, `hammerspoon`, `homebrew`, `kitty`, `lua`, `macos`, `neovim`, `pde`, `qmk`, `surfingkeys`, `tmux`, `weechat`, `zk`, `zmk`, `zsh` \
-**Watchers**: 6 **Forks**: 9 **Stars**: 140 **Issues**: 20 \
-**Last commit**: 2023-12-19 (0 days ago) \
-**Created at**: 2018-05-25 \
-**License**: none
-
-</details>
-
-<details>
 <summary>⚪ 52 [besteon/Ironmon-Tracker](https://github.com/besteon/Ironmon-Tracker) – A Lua script for the Bizhawk/mGBA emulator compatible with Pokemon Fire Red, Leaf Green, Ruby, Sapphire, and Emerald that tracks relevant data for the IronMon challenge.</summary>
 
 **Topics**: `emulator`, `gameboy`, `lua`, `pokemon` \
@@ -347,6 +340,17 @@ Last commit..
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2022-04-18 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>⚪ 52 [X-Raym/REAPER-ReaScripts](https://github.com/X-Raym/REAPER-ReaScripts) – X-Raym's Free and Open Source Scripts for Cockos REAPER.</summary>
+
+**Topics**: `audio`, `cockos-reaper`, `jsfx`, `lua`, `reapack`, `reaper`, `reaper-scripts`, `reascript` \
+**Watchers**: 19 **Forks**: 50 **Stars**: 165 **Issues**: 0 \
+**Last commit**: 2023-12-17 (3 days ago) \
+**Created at**: 2014-11-27 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -362,24 +366,24 @@ Last commit..
 </details>
 
 <details>
-<summary>🔴 52 [kiccer/Soldier76](https://github.com/kiccer/Soldier76) – PUBG - 罗技鼠标宏 | 兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro | Support 12 kinds of guns without recoil!]</summary>
+<summary>⚪ 52 [megalithic/dotfiles](https://github.com/megalithic/dotfiles) – 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖 </summary>
 
-**Topics**: `logitech`, `lua`, `macro`, `no-recoil`, `pubg`, `soldier76` \
-**Watchers**: 26 **Forks**: 337 **Stars**: 1380 **Issues**: 2 \
-**Last commit**: 2023-03-08 (287 days ago) \
-**Created at**: 2019-03-07 \
-**License**: GNU General Public License v3.0
+**Topics**: `asdf`, `cli`, `dotfiles`, `elixir`, `hammerspoon`, `homebrew`, `kitty`, `lua`, `macos`, `neovim`, `pde`, `qmk`, `surfingkeys`, `tmux`, `weechat`, `zk`, `zmk`, `zsh` \
+**Watchers**: 6 **Forks**: 9 **Stars**: 140 **Issues**: 20 \
+**Last commit**: 2023-12-19 (1 days ago) \
+**Created at**: 2018-05-25 \
+**License**: none
 
 </details>
 
 <details>
-<summary>⚪ 51 [SavedInstances/SavedInstances](https://github.com/SavedInstances/SavedInstances) – Addon that keeps track of the instance/raid lockouts saved against your characters, and related currencies and cooldowns.</summary>
+<summary>🔴 52 [kiccer/Soldier76](https://github.com/kiccer/Soldier76) – PUBG - 罗技鼠标宏 | 兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro | Support 12 kinds of guns without recoil!]</summary>
 
-**Topics**: `lua`, `world-of-warcraft`, `wow`, `wow-addon` \
-**Watchers**: 32 **Forks**: 94 **Stars**: 146 **Issues**: 62 \
-**Last commit**: 2023-12-16 (3 days ago) \
-**Created at**: 2017-04-16 \
-**License**: none
+**Topics**: `logitech`, `lua`, `macro`, `no-recoil`, `pubg`, `soldier76` \
+**Watchers**: 26 **Forks**: 337 **Stars**: 1380 **Issues**: 2 \
+**Last commit**: 2023-03-08 (288 days ago) \
+**Created at**: 2019-03-07 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -390,6 +394,17 @@ Last commit..
 **Watchers**: 11 **Forks**: 24 **Stars**: 134 **Issues**: 29 \
 **Last commit**: 2023-12-17 (3 days ago) \
 **Created at**: 2019-09-12 \
+**License**: none
+
+</details>
+
+<details>
+<summary>⚪ 51 [SavedInstances/SavedInstances](https://github.com/SavedInstances/SavedInstances) – Addon that keeps track of the instance/raid lockouts saved against your characters, and related currencies and cooldowns.</summary>
+
+**Topics**: `lua`, `world-of-warcraft`, `wow`, `wow-addon` \
+**Watchers**: 32 **Forks**: 94 **Stars**: 146 **Issues**: 62 \
+**Last commit**: 2023-12-16 (4 days ago) \
+**Created at**: 2017-04-16 \
 **License**: none
 
 </details>
@@ -428,23 +443,12 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 51 [Tieske/uuid](https://github.com/Tieske/uuid) – A pure Lua uuid generator (modified from a Rackspace module)</summary>
+<summary>⚪ 50 [Tieske/uuid](https://github.com/Tieske/uuid) – A pure Lua uuid generator (modified from a Rackspace module)</summary>
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 53 **Stars**: 136 **Issues**: 6 \
-**Last commit**: 2023-12-17 (3 days ago) \
+**Last commit**: 2023-12-17 (4 days ago) \
 **Created at**: 2013-04-28 \
-**License**: none
-
-</details>
-
-<details>
-<summary>🟡 50 [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) – The official repository of Spoon plugins</summary>
-
-**Topics**: `hammerspoon`, `lua`, `spoons` \
-**Watchers**: 19 **Forks**: 136 **Stars**: 405 **Issues**: 51 \
-**Last commit**: 2023-11-14 (35 days ago) \
-**Created at**: 2017-04-04 \
 **License**: none
 
 </details>
@@ -461,13 +465,13 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 50 [koreader/koreader-base](https://github.com/koreader/koreader-base) – Base framework offering a Lua scriptable environment for creating document readers</summary>
+<summary>🟡 50 [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) – The official repository of Spoon plugins</summary>
 
-**Topics**: `djvu`, `emulator`, `epub`, `ffi`, `koreader`, `leptonica`, `lua`, `luajit`, `mupdf`, `pdf`, `sdl`, `tesseract`, `ubuntu` \
-**Watchers**: 25 **Forks**: 95 **Stars**: 110 **Issues**: 13 \
-**Last commit**: 2023-12-17 (2 days ago) \
-**Created at**: 2013-03-24 \
-**License**: GNU Affero General Public License v3.0
+**Topics**: `hammerspoon`, `lua`, `spoons` \
+**Watchers**: 19 **Forks**: 136 **Stars**: 405 **Issues**: 51 \
+**Last commit**: 2023-11-14 (36 days ago) \
+**Created at**: 2017-04-04 \
+**License**: none
 
 </details>
 
@@ -505,13 +509,13 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 49 [kektram/Keks-menu](https://github.com/kektram/Keks-menu) – Kek's menu is a 2take1 lua script that's focused on utilities and trolling.</summary>
+<summary>⚪ 49 [koreader/koreader-base](https://github.com/koreader/koreader-base) – Base framework offering a Lua scriptable environment for creating document readers</summary>
 
-**Topics**: none \
-**Watchers**: 7 **Forks**: 32 **Stars**: 90 **Issues**: 0 \
-**Last commit**: 2023-12-14 (5 days ago) \
-**Created at**: 2021-08-26 \
-**License**: GNU General Public License v3.0
+**Topics**: `djvu`, `emulator`, `epub`, `ffi`, `koreader`, `leptonica`, `lua`, `luajit`, `mupdf`, `pdf`, `sdl`, `tesseract`, `ubuntu` \
+**Watchers**: 25 **Forks**: 95 **Stars**: 110 **Issues**: 13 \
+**Last commit**: 2023-12-17 (3 days ago) \
+**Created at**: 2013-03-24 \
+**License**: GNU Affero General Public License v3.0
 
 </details>
 
@@ -534,6 +538,17 @@ Last commit..
 **Last commit**: 2023-12-14 (6 days ago) \
 **Created at**: 2019-11-23 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>⚪ 49 [kektram/Keks-menu](https://github.com/kektram/Keks-menu) – Kek's menu is a 2take1 lua script that's focused on utilities and trolling.</summary>
+
+**Topics**: none \
+**Watchers**: 7 **Forks**: 32 **Stars**: 90 **Issues**: 0 \
+**Last commit**: 2023-12-14 (6 days ago) \
+**Created at**: 2021-08-26 \
+**License**: GNU General Public License v3.0
 
 </details>
 
@@ -564,7 +579,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 28 **Forks**: 40 **Stars**: 210 **Issues**: 1 \
-**Last commit**: 2023-11-28 (22 days ago) \
+**Last commit**: 2023-11-28 (23 days ago) \
 **Created at**: 2017-10-12 \
 **License**: MIT License
 
@@ -685,7 +700,7 @@ Last commit..
 
 **Topics**: `cnn`, `deep-learning`, `lane-detection`, `lua`, `pytorch`, `tensorflow` \
 **Watchers**: 34 **Forks**: 340 **Stars**: 1003 **Issues**: 6 \
-**Last commit**: 2022-06-21 (546 days ago) \
+**Last commit**: 2022-06-21 (547 days ago) \
 **Created at**: 2018-10-12 \
 **License**: MIT License
 
@@ -725,22 +740,22 @@ Last commit..
 </details>
 
 <details>
-<summary>🟡 42 [hackerhouse-opensource/OffensiveLua](https://github.com/hackerhouse-opensource/OffensiveLua) – Offensive Lua.</summary>
+<summary>🟡 41 [hackerhouse-opensource/OffensiveLua](https://github.com/hackerhouse-opensource/OffensiveLua) – Offensive Lua.</summary>
 
 **Topics**: none \
 **Watchers**: 2 **Forks**: 18 **Stars**: 137 **Issues**: 0 \
-**Last commit**: 2023-11-17 (33 days ago) \
+**Last commit**: 2023-11-17 (34 days ago) \
 **Created at**: 2023-10-25 \
 **License**: none
 
 </details>
 
 <details>
-<summary>🟢 42 [tullamods/OmniCC](https://github.com/tullamods/OmniCC) – Cooldown count for everything</summary>
+<summary>🟢 41 [tullamods/OmniCC](https://github.com/tullamods/OmniCC) – Cooldown count for everything</summary>
 
 **Topics**: `combat`, `lua`, `world-of-warcraft`, `world-of-warcraft-addon` \
 **Watchers**: 10 **Forks**: 18 **Stars**: 90 **Issues**: 42 \
-**Last commit**: 2023-11-26 (23 days ago) \
+**Last commit**: 2023-11-26 (24 days ago) \
 **Created at**: 2010-06-08 \
 **License**: MIT License
 
@@ -762,7 +777,7 @@ Last commit..
 
 **Topics**: `action-bars`, `lua`, `world-of-warcraft`, `world-of-warcraft-addon` \
 **Watchers**: 10 **Forks**: 27 **Stars**: 78 **Issues**: 68 \
-**Last commit**: 2023-11-26 (23 days ago) \
+**Last commit**: 2023-11-26 (24 days ago) \
 **Created at**: 2010-09-02 \
 **License**: BSD 3-Clause "New" or "Revised" License
 
@@ -784,7 +799,7 @@ Last commit..
 
 **Topics**: `language-server-protocol`, `lsp-client`, `lua` \
 **Watchers**: 11 **Forks**: 17 **Stars**: 134 **Issues**: 24 \
-**Last commit**: 2023-11-10 (39 days ago) \
+**Last commit**: 2023-11-10 (40 days ago) \
 **Created at**: 2021-05-25 \
 **License**: MIT License
 
@@ -861,7 +876,7 @@ Last commit..
 
 **Topics**: `entity-component`, `entity-component-system`, `love2d`, `lua` \
 **Watchers**: 31 **Forks**: 60 **Stars**: 604 **Issues**: 4 \
-**Last commit**: 2023-03-15 (280 days ago) \
+**Last commit**: 2023-03-15 (281 days ago) \
 **Created at**: 2015-03-21 \
 **License**: MIT License
 
@@ -883,7 +898,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 29 **Forks**: 165 **Stars**: 544 **Issues**: 46 \
-**Last commit**: 2023-08-28 (113 days ago) \
+**Last commit**: 2023-08-28 (114 days ago) \
 **Created at**: 2017-11-21 \
 **License**: MIT License
 
@@ -916,7 +931,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 39 **Forks**: 52 **Stars**: 549 **Issues**: 28 \
-**Last commit**: 2020-03-11 (1378 days ago) \
+**Last commit**: 2020-03-11 (1379 days ago) \
 **Created at**: 2013-05-27 \
 **License**: none
 
@@ -930,17 +945,6 @@ Last commit..
 **Last commit**: 2023-10-26 (55 days ago) \
 **Created at**: 2014-03-15 \
 **License**: BSD 2-Clause "Simplified" License
-
-</details>
-
-<details>
-<summary>🟠 29 [Vallen217/dotfiles](https://github.com/Vallen217/dotfiles) – dotfiles; An expression of ones very soul.</summary>
-
-**Topics**: `aesthetics`, `arch`, `archlinux`, `dark-theme`, `dotfiles`, `dunst`, `fish`, `i3`, `i3wm`, `kitty`, `linux`, `lua`, `neovim`, `nvim`, `picom`, `polybar`, `rice`, `rofi`, `unixporn`, `vim` \
-**Watchers**: 4 **Forks**: 9 **Stars**: 132 **Issues**: 0 \
-**Last commit**: 2023-09-29 (81 days ago) \
-**Created at**: 2023-03-10 \
-**License**: MIT License
 
 </details>
 
@@ -974,6 +978,17 @@ Last commit..
 **Last commit**: 2023-04-07 (257 days ago) \
 **Created at**: 2019-10-28 \
 **License**: Apache License 2.0
+
+</details>
+
+<details>
+<summary>🟠 29 [Vallen217/dotfiles](https://github.com/Vallen217/dotfiles) – dotfiles; An expression of ones very soul.</summary>
+
+**Topics**: `aesthetics`, `arch`, `archlinux`, `dark-theme`, `dotfiles`, `dunst`, `fish`, `i3`, `i3wm`, `kitty`, `linux`, `lua`, `neovim`, `nvim`, `picom`, `polybar`, `rice`, `rofi`, `unixporn`, `vim` \
+**Watchers**: 4 **Forks**: 9 **Stars**: 132 **Issues**: 0 \
+**Last commit**: 2023-09-29 (82 days ago) \
+**Created at**: 2023-03-10 \
+**License**: MIT License
 
 </details>
 
@@ -1015,7 +1030,7 @@ Last commit..
 
 **Topics**: `gdnative`, `gdnative-plugin`, `godot`, `godot-engine`, `lua`, `luajit`, `pluginscript` \
 **Watchers**: 10 **Forks**: 22 **Stars**: 266 **Issues**: 10 \
-**Last commit**: 2023-04-11 (252 days ago) \
+**Last commit**: 2023-04-11 (253 days ago) \
 **Created at**: 2021-07-26 \
 **License**: MIT License
 
@@ -1037,19 +1052,8 @@ Last commit..
 
 **Topics**: `defold`, `ink`, `interactive-fiction`, `lpeg`, `lua`, `narrative` \
 **Watchers**: 11 **Forks**: 8 **Stars**: 107 **Issues**: 12 \
-**Last commit**: 2023-10-03 (77 days ago) \
+**Last commit**: 2023-10-03 (78 days ago) \
 **Created at**: 2019-12-22 \
-**License**: MIT License
-
-</details>
-
-<details>
-<summary>🟢 25 [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) – :newspaper: Static site/blog generator written in Lua.</summary>
-
-**Topics**: none \
-**Watchers**: 14 **Forks**: 32 **Stars**: 199 **Issues**: 13 \
-**Last commit**: 2023-11-21 (28 days ago) \
-**Created at**: 2013-02-13 \
 **License**: MIT License
 
 </details>
@@ -1070,9 +1074,20 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 17 **Forks**: 77 **Stars**: 362 **Issues**: 4 \
-**Last commit**: 2023-08-14 (127 days ago) \
+**Last commit**: 2023-08-14 (128 days ago) \
 **Created at**: 2011-06-01 \
 **License**: none
+
+</details>
+
+<details>
+<summary>🟢 25 [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) – :newspaper: Static site/blog generator written in Lua.</summary>
+
+**Topics**: none \
+**Watchers**: 14 **Forks**: 32 **Stars**: 199 **Issues**: 13 \
+**Last commit**: 2023-11-21 (29 days ago) \
+**Created at**: 2013-02-13 \
+**License**: MIT License
 
 </details>
 
@@ -1103,7 +1118,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 40 **Stars**: 339 **Issues**: 0 \
-**Last commit**: 2015-06-18 (3106 days ago) \
+**Last commit**: 2015-06-18 (3107 days ago) \
 **Created at**: 2013-03-14 \
 **License**: none
 
@@ -1125,7 +1140,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 25 **Forks**: 63 **Stars**: 320 **Issues**: 4 \
-**Last commit**: 2019-10-31 (1510 days ago) \
+**Last commit**: 2019-10-31 (1511 days ago) \
 **Created at**: 2012-11-18 \
 **License**: MIT License
 
@@ -1147,7 +1162,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 43 **Forks**: 40 **Stars**: 312 **Issues**: 22 \
-**Last commit**: 2017-01-30 (2514 days ago) \
+**Last commit**: 2017-01-30 (2515 days ago) \
 **Created at**: 2014-06-23 \
 **License**: Other
 
@@ -1202,7 +1217,7 @@ Last commit..
 
 **Topics**: `arcan`, `desktop-environment`, `graphics`, `linux`, `lua`, `openhmd`, `virtual-reality`, `vr` \
 **Watchers**: 35 **Forks**: 19 **Stars**: 269 **Issues**: 10 \
-**Last commit**: 2023-03-07 (287 days ago) \
+**Last commit**: 2023-03-07 (288 days ago) \
 **Created at**: 2018-03-29 \
 **License**: Other
 
@@ -1246,7 +1261,7 @@ Last commit..
 
 **Topics**: `audio`, `daw`, `lua`, `midi`, `osc`, `renoise`, `renoise-scripting` \
 **Watchers**: 33 **Forks**: 37 **Stars**: 264 **Issues**: 22 \
-**Last commit**: 2023-01-18 (335 days ago) \
+**Last commit**: 2023-01-18 (336 days ago) \
 **Created at**: 2015-03-17 \
 **License**: none
 
@@ -1323,20 +1338,9 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 22 **Forks**: 57 **Stars**: 247 **Issues**: 30 \
-**Last commit**: 2017-05-13 (2412 days ago) \
+**Last commit**: 2017-05-13 (2413 days ago) \
 **Created at**: 2013-09-13 \
 **License**: Other
-
-</details>
-
-<details>
-<summary>🟤 21 [luvit/lit](https://github.com/luvit/lit) – Toolkit for developing, sharing, and running luvit/lua programs and libraries.</summary>
-
-**Topics**: `hacktoberfest`, `lua`, `luvit`, `package-manager` \
-**Watchers**: 19 **Forks**: 57 **Stars**: 235 **Issues**: 61 \
-**Last commit**: 2023-07-12 (161 days ago) \
-**Created at**: 2014-11-21 \
-**License**: Apache License 2.0
 
 </details>
 
@@ -1348,6 +1352,17 @@ Last commit..
 **Last commit**: 2023-09-26 (85 days ago) \
 **Created at**: 2017-01-28 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>🟤 21 [luvit/lit](https://github.com/luvit/lit) – Toolkit for developing, sharing, and running luvit/lua programs and libraries.</summary>
+
+**Topics**: `hacktoberfest`, `lua`, `luvit`, `package-manager` \
+**Watchers**: 19 **Forks**: 57 **Stars**: 235 **Issues**: 61 \
+**Last commit**: 2023-07-12 (162 days ago) \
+**Created at**: 2014-11-21 \
+**License**: Apache License 2.0
 
 </details>
 
@@ -1510,7 +1525,7 @@ Last commit..
 
 **Topics**: `fairseq`, `lua`, `machine-translation`, `neural-machine-translation`, `npmt`, `sequence-to-sequence`, `swan`, `torch` \
 **Watchers**: 22 **Forks**: 29 **Stars**: 175 **Issues**: 0 \
-**Last commit**: 2018-07-11 (1987 days ago) \
+**Last commit**: 2018-07-11 (1988 days ago) \
 **Created at**: 2018-01-29 \
 **License**: Other
 
@@ -1543,7 +1558,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 9 **Forks**: 16 **Stars**: 175 **Issues**: 3 \
-**Last commit**: 2016-12-18 (2557 days ago) \
+**Last commit**: 2016-12-18 (2558 days ago) \
 **Created at**: 2016-11-30 \
 **License**: none
 
@@ -1565,7 +1580,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 94 **Stars**: 160 **Issues**: 6 \
-**Last commit**: 2022-11-30 (385 days ago) \
+**Last commit**: 2022-11-30 (386 days ago) \
 **Created at**: 2019-02-14 \
 **License**: MIT License
 
@@ -1576,7 +1591,7 @@ Last commit..
 
 **Topics**: `fivem`, `fivem-script`, `lua`, `qb`, `qbcore` \
 **Watchers**: 13 **Forks**: 53 **Stars**: 121 **Issues**: 8 \
-**Last commit**: 2023-03-25 (269 days ago) \
+**Last commit**: 2023-03-25 (270 days ago) \
 **Created at**: 2022-04-01 \
 **License**: GNU General Public License v3.0
 
@@ -1587,7 +1602,7 @@ Last commit..
 
 **Topics**: `app`, `cbz`, `comics`, `comics-downloader`, `comics-reader`, `lua`, `manga`, `manga-downloader`, `manga-reader`, `parsers`, `psvita`, `vita`, `vitasdk` \
 **Watchers**: 11 **Forks**: 23 **Stars**: 149 **Issues**: 27 \
-**Last commit**: 2023-07-08 (164 days ago) \
+**Last commit**: 2023-07-08 (165 days ago) \
 **Created at**: 2019-12-27 \
 **License**: GNU General Public License v3.0
 
@@ -1649,13 +1664,13 @@ Last commit..
 </details>
 
 <details>
-<summary>⚫ 17 [flwmxd/MapleStory-Porting](https://github.com/flwmxd/MapleStory-Porting) – MapleStory implementation build with early stage MapleEngine</summary>
+<summary>🟤 17 [xopxe/lumen](https://github.com/xopxe/lumen) – Lua Multitasking Environment.</summary>
 
-**Topics**: `android`, `client`, `cpp`, `editor`, `game`, `game-engine`, `game-engine-2d`, `ios`, `lua`, `maplestory`, `opengl`, `opengl-es`, `opengl2`, `switch`, `windows` \
-**Watchers**: 4 **Forks**: 22 **Stars**: 123 **Issues**: 5 \
-**Last commit**: 2020-09-25 (1181 days ago) \
-**Created at**: 2020-05-16 \
-**License**: GNU Affero General Public License v3.0
+**Topics**: none \
+**Watchers**: 8 **Forks**: 20 **Stars**: 144 **Issues**: 4 \
+**Last commit**: 2023-06-27 (177 days ago) \
+**Created at**: 2012-01-09 \
+**License**: Other
 
 </details>
 
@@ -1671,13 +1686,13 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 17 [xopxe/lumen](https://github.com/xopxe/lumen) – Lua Multitasking Environment.</summary>
+<summary>⚫ 17 [flwmxd/MapleStory-Porting](https://github.com/flwmxd/MapleStory-Porting) – MapleStory implementation build with early stage MapleEngine</summary>
 
-**Topics**: none \
-**Watchers**: 8 **Forks**: 20 **Stars**: 144 **Issues**: 4 \
-**Last commit**: 2023-06-27 (176 days ago) \
-**Created at**: 2012-01-09 \
-**License**: Other
+**Topics**: `android`, `client`, `cpp`, `editor`, `game`, `game-engine`, `game-engine-2d`, `ios`, `lua`, `maplestory`, `opengl`, `opengl-es`, `opengl2`, `switch`, `windows` \
+**Watchers**: 4 **Forks**: 22 **Stars**: 123 **Issues**: 5 \
+**Last commit**: 2020-09-25 (1181 days ago) \
+**Created at**: 2020-05-16 \
+**License**: GNU Affero General Public License v3.0
 
 </details>
 
@@ -1697,7 +1712,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 25 **Stars**: 142 **Issues**: 5 \
-**Last commit**: 2022-11-16 (398 days ago) \
+**Last commit**: 2022-11-16 (399 days ago) \
 **Created at**: 2011-05-01 \
 **License**: none
 
@@ -1708,7 +1723,7 @@ Last commit..
 
 **Topics**: `animation`, `library`, `lua`, `playdate`, `sprites` \
 **Watchers**: 5 **Forks**: 7 **Stars**: 107 **Issues**: 1 \
-**Last commit**: 2023-03-09 (285 days ago) \
+**Last commit**: 2023-03-09 (286 days ago) \
 **Created at**: 2021-10-12 \
 **License**: MIT License
 
@@ -1774,7 +1789,7 @@ Last commit..
 
 **Topics**: `neovim-plugin`, `nvim-plugin` \
 **Watchers**: 1 **Forks**: 3 **Stars**: 98 **Issues**: 5 \
-**Last commit**: 2023-07-20 (153 days ago) \
+**Last commit**: 2023-07-20 (154 days ago) \
 **Created at**: 2022-02-12 \
 **License**: none
 
@@ -1785,7 +1800,7 @@ Last commit..
 
 **Topics**: `clone`, `elona`, `engine`, `game`, `love2d`, `love2d-game`, `lua`, `roguelike`, `roguelike-game`, `rpg` \
 **Watchers**: 13 **Forks**: 18 **Stars**: 116 **Issues**: 156 \
-**Last commit**: 2022-09-11 (464 days ago) \
+**Last commit**: 2022-09-11 (465 days ago) \
 **Created at**: 2020-04-04 \
 **License**: MIT License
 
@@ -1818,7 +1833,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 16 **Forks**: 33 **Stars**: 129 **Issues**: 3 \
-**Last commit**: 2019-05-28 (1666 days ago) \
+**Last commit**: 2019-05-28 (1667 days ago) \
 **Created at**: 2013-02-26 \
 **License**: none
 
@@ -1906,7 +1921,7 @@ Last commit..
 
 **Topics**: `console-application`, `interactive`, `jupyter`, `jupyter-kernels`, `lua`, `prototyping` \
 **Watchers**: 5 **Forks**: 10 **Stars**: 108 **Issues**: 12 \
-**Last commit**: 2022-09-15 (460 days ago) \
+**Last commit**: 2022-09-15 (461 days ago) \
 **Created at**: 2018-09-26 \
 **License**: GNU General Public License v2.0
 
@@ -1928,7 +1943,7 @@ Last commit..
 
 **Topics**: `game-2d`, `game-development`, `gaming`, `indiegame`, `love2d`, `lua`, `pixel-art`, `retrogaming`, `video-game` \
 **Watchers**: 18 **Forks**: 14 **Stars**: 112 **Issues**: 0 \
-**Last commit**: 2023-02-17 (305 days ago) \
+**Last commit**: 2023-02-17 (306 days ago) \
 **Created at**: 2016-02-09 \
 **License**: Other
 
@@ -1950,7 +1965,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 12 **Stars**: 111 **Issues**: 1 \
-**Last commit**: 2015-03-11 (3205 days ago) \
+**Last commit**: 2015-03-11 (3206 days ago) \
 **Created at**: 2015-01-26 \
 **License**: MIT License
 
@@ -2016,7 +2031,7 @@ Last commit..
 
 **Topics**: `chuchurocket`, `dreamcast`, `love2d`, `lua` \
 **Watchers**: 15 **Forks**: 14 **Stars**: 105 **Issues**: 4 \
-**Last commit**: 2019-06-02 (1662 days ago) \
+**Last commit**: 2019-06-02 (1663 days ago) \
 **Created at**: 2013-06-23 \
 **License**: Other
 
@@ -2060,7 +2075,7 @@ Last commit..
 
 **Topics**: `languages`, `learn`, `lua`, `merger`, `srt`, `subtitles` \
 **Watchers**: 8 **Forks**: 1 **Stars**: 95 **Issues**: 0 \
-**Last commit**: 2018-02-18 (2131 days ago) \
+**Last commit**: 2018-02-18 (2132 days ago) \
 **Created at**: 2018-02-18 \
 **License**: MIT License
 
@@ -2071,7 +2086,7 @@ Last commit..
 
 **Topics**: `lua` \
 **Watchers**: 41 **Forks**: 64 **Stars**: 97 **Issues**: 88 \
-**Last commit**: 2018-01-17 (2162 days ago) \
+**Last commit**: 2018-01-17 (2163 days ago) \
 **Created at**: 2015-02-25 \
 **License**: none
 
@@ -2104,7 +2119,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 8 **Forks**: 9 **Stars**: 96 **Issues**: 3 \
-**Last commit**: 2022-01-09 (710 days ago) \
+**Last commit**: 2022-01-09 (711 days ago) \
 **Created at**: 2014-04-11 \
 **License**: MIT License
 
@@ -2203,7 +2218,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 0 **Stars**: 87 **Issues**: 2 \
-**Last commit**: 2013-08-24 (3770 days ago) \
+**Last commit**: 2013-08-24 (3771 days ago) \
 **Created at**: 2013-02-16 \
 **License**: Other
 
@@ -2225,7 +2240,7 @@ Last commit..
 
 **Topics**: `curses`, `curses-ui`, `gtk`, `gtk3`, `gui`, `lua`, `text-mode-gui`, `tui`, `widget`, `widget-toolkit`, `wizard` \
 **Watchers**: 14 **Forks**: 10 **Stars**: 83 **Issues**: 3 \
-**Last commit**: 2023-07-20 (152 days ago) \
+**Last commit**: 2023-07-20 (153 days ago) \
 **Created at**: 2016-10-26 \
 **License**: none
 
@@ -2258,7 +2273,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 6 **Forks**: 8 **Stars**: 80 **Issues**: 2 \
-**Last commit**: 2021-03-08 (1016 days ago) \
+**Last commit**: 2021-03-08 (1017 days ago) \
 **Created at**: 2016-01-06 \
 **License**: MIT License
 
@@ -2280,7 +2295,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 25 **Stars**: 81 **Issues**: 6 \
-**Last commit**: 2014-08-18 (3411 days ago) \
+**Last commit**: 2014-08-18 (3412 days ago) \
 **Created at**: 2014-04-18 \
 **License**: Other
 
@@ -2302,7 +2317,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 9 **Forks**: 4 **Stars**: 80 **Issues**: 0 \
-**Last commit**: 2022-09-11 (465 days ago) \
+**Last commit**: 2022-09-11 (466 days ago) \
 **Created at**: 2012-04-29 \
 **License**: MIT License
 
@@ -2324,7 +2339,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 19 **Forks**: 25 **Stars**: 77 **Issues**: 2 \
-**Last commit**: 2015-03-06 (3210 days ago) \
+**Last commit**: 2015-03-06 (3211 days ago) \
 **Created at**: 2015-02-27 \
 **License**: MIT License
 
@@ -2434,7 +2449,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 6 **Forks**: 13 **Stars**: 70 **Issues**: 1 \
-**Last commit**: 2009-08-04 (5251 days ago) \
+**Last commit**: 2009-08-04 (5252 days ago) \
 **Created at**: 2008-11-12 \
 **License**: none
 
@@ -2456,7 +2471,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 8 **Forks**: 24 **Stars**: 68 **Issues**: 7 \
-**Last commit**: 2018-08-26 (1942 days ago) \
+**Last commit**: 2018-08-26 (1943 days ago) \
 **Created at**: 2013-12-30 \
 **License**: BSD 2-Clause "Simplified" License
 
@@ -2478,7 +2493,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 8 **Stars**: 67 **Issues**: 3 \
-**Last commit**: 2015-09-02 (3031 days ago) \
+**Last commit**: 2015-09-02 (3032 days ago) \
 **Created at**: 2013-03-18 \
 **License**: MIT License
 
@@ -2555,7 +2570,7 @@ Last commit..
 
 **Topics**: `diablo`, `diablo2`, `diablo2lod`, `lua` \
 **Watchers**: 21 **Forks**: 23 **Stars**: 349 **Issues**: 4 \
-**Last commit**: 2023-06-29 (173 days ago) \
+**Last commit**: 2023-06-29 (174 days ago) \
 **Created at**: 2021-10-17 \
 **License**: GNU General Public License v3.0
 
@@ -2566,7 +2581,7 @@ Last commit..
 
 **Topics**: `addon`, `lua`, `world-of-warcraft` \
 **Watchers**: 18 **Forks**: 40 **Stars**: 135 **Issues**: 0 \
-**Last commit**: 2022-02-27 (661 days ago) \
+**Last commit**: 2022-02-27 (662 days ago) \
 **Created at**: 2021-07-15 \
 **License**: GNU General Public License v3.0
 
@@ -2648,4 +2663,5 @@ Last commit..
 **License**: GNU General Public License v3.0
 
 </details>
+
 

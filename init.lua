@@ -90,7 +90,7 @@ local print = require("tlib").PRINT
 local copas = require("copas")
 local request = require("http_v2").copas_request
 local json  = require("cjson")
-local base64 = require("base64")
+-- local base64 = require("base64")
 
 local function github_request(token, endpoint)
 	if DEV then
@@ -101,7 +101,7 @@ local function github_request(token, endpoint)
 		end
 	end
 
-	local url = "https://api.github.com" .. endpoint
+	local url = "https://awesome-lua.amd.workers.dev" .. endpoint
 	local body, code, headers = request("GET", url, nil, {
 		["User-Agent"] = "Mozilla/5.0 (compatible; Lua; Windows NT)",
 		["Accept"] = "application/vnd.github.v3+json",
@@ -126,12 +126,12 @@ local function get_repo_info(owner, repo)
 	return github_request(GITHUB_TOKEN, "/repos/" .. owner .. "/" .. repo)
 end
 
-local function get_readme(owner, repo)
-	local response, limits = github_request(GITHUB_TOKEN, "/repos/" .. owner .. "/" .. repo .. "/readme")
-	assert(response.encoding == "base64", "Unknown encoding: " .. response.encoding)
-	response.content = base64.decode(response.content)
-	return response, limits
-end
+-- local function get_readme(owner, repo)
+-- 	local response, limits = github_request(GITHUB_TOKEN, "/repos/" .. owner .. "/" .. repo .. "/readme")
+-- 	assert(response.encoding == "base64", "Unknown encoding: " .. response.encoding)
+-- 	response.content = base64.decode(response.content)
+-- 	return response, limits
+-- end
 
 -- copas.loop(function()
 -- 	print( get_repo_info("TRIGONIM", "ggram") )
@@ -185,9 +185,64 @@ local function sort_items_by_score(items)
 	table.sort(items, function(a, b) return calc_item_score(a) > calc_item_score(b) end)
 end
 
+--- @param all_headers ParsedHeaders
+--- @return number total_items
+local function count_items(all_headers)
+	local total_items = 0
+	for _, header in ipairs( all_headers ) do total_items = total_items + #header.items end
+	return total_items
+end
+
 local function escape_description(str)
 	return ( str:gsub("<", "\\<") ) -- "REST <-> gRPC gateway" ==> "\<-> gRPC"
 end
+
+local function string_interpolate(str, values)
+	-- for k, v in pairs(values) do str = str:gsub("{" .. k .. "}", v) end
+	-- return str
+	return (str:gsub("{([^}]+)}", values))
+end
+-- print( string_interpolate(spoiler_content_pattern, {subscribers = math.floor(123.0)}) )
+-- if 1 then return end
+
+
+
+local file_struct_template = [[
+---
+{front_matter}
+---
+
+{main_header}
+
+{meta}
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
+:::note[Circles Legend]
+
+```
+Last commit..
+
+⚪ 0-7 days ago     🟢 8-30 days ago
+🟡 31-60 days ago   🟠 61-90 days ago
+🟤 91-180 days ago  🔴 181-365 days ago
+⚫ 366+ days ago
+```
+
+:::
+
+{main_body}]]
 
 local actuality_circles = {"⚪", "🟢", "🟡", "🟠", "🟤", "🔴", "⚫"} -- "🟣", "🔵",
 local get_circle = function(days_ago)
@@ -203,22 +258,8 @@ local get_circle = function(days_ago)
 	return actuality_circles[circle_i]
 end
 
-local circles_legend = [[
-:::note[Circles Legend]
-
-```
-Last commit..
-
-⚪ 0-7 days ago     🟢 8-30 days ago
-🟡 31-60 days ago   🟠 61-90 days ago
-🟤 91-180 days ago  🔴 181-365 days ago
-⚫ 366+ days ago
-```
-
-:::
-]]
-
-local spoiler_pat = [[
+local generate_spoiled_item do
+	local spoiler_pat = [[
 <details>
 <summary>%s [%s](https://github.com/%s) – %s</summary>
 
@@ -227,47 +268,40 @@ local spoiler_pat = [[
 </details>
 ]]
 
-local spoiler_content_pattern = [[
+	local spoiler_content_pattern = [[
 **Topics**: {_topics_str_md} \
 **Watchers**: {subscribers} **Forks**: {forks} **Stars**: {stars} **Issues**: {issues} \
 **Last commit**: {_last_commit_str} ({last_commit_days_ago} days ago) \
 **Created at**: {_created_at_str} \
 **License**: {_license_name}]]
 
-local function string_interpolate(str, values)
-	-- for k, v in pairs(values) do str = str:gsub("{" .. k .. "}", v) end
-	-- return str
-	return (str:gsub("{([^}]+)}", values))
-end
--- print( string_interpolate(spoiler_content_pattern, {subscribers = math.floor(123.0)}) )
--- if 1 then return end
+	--- @param item ParsedHeaderItem
+	local function generate_item_spoiler_content(item)
+		local ex = item.info --- @type table
 
-local function item_spoiler(emoji, owner_repo, description, content)
-	return string.format(spoiler_pat, emoji, owner_repo, owner_repo, description, content)
-end
+		ex._last_commit_str = os.date("%Y-%m-%d", ex.last_commit)
+		ex._created_at_str = os.date("%Y-%m-%d", ex.created_at)
+		ex._topics_str_md = next(ex.topics) and ("`" .. table.concat(ex.topics, "`, `") .. "`") or "none"
+		ex._license_name = ex.license and ex.license.name or "none"
+		-- ex._archived_str = ex.archived and "yes" or "no"
 
---- @param item ParsedHeaderItem
-local function generate_item_spoiler_content(item)
-	local ex = item.info --- @type table
+		return string_interpolate(spoiler_content_pattern, ex)
+	end
 
-	ex._last_commit_str = os.date("%Y-%m-%d", ex.last_commit)
-	ex._created_at_str = os.date("%Y-%m-%d", ex.created_at)
-	ex._topics_str_md = next(ex.topics) and ("`" .. table.concat(ex.topics, "`, `") .. "`") or "none"
-	ex._license_name = ex.license and ex.license.name or "none"
-	-- ex._archived_str = ex.archived and "yes" or "no"
+	local function item_spoiler(emoji, owner_repo, description, content)
+		return string.format(spoiler_pat, emoji, owner_repo, owner_repo, description, content)
+	end
 
-	return string_interpolate(spoiler_content_pattern, ex)
-end
-
-local function generate_spoiled_item(item)
-	local actuality_emoji = get_circle(item.info.last_commit_days_ago)
-	local score_str = DEV and (" " .. math.floor(calc_item_score(item))) or ""
-	return item_spoiler(
-		actuality_emoji .. score_str,
-		item.owner .. "/" .. item.repo,
-		escape_description(item.info.description),
-		generate_item_spoiler_content(item)
-	)
+	generate_spoiled_item = function(item)
+		local actuality_emoji = get_circle(item.info.last_commit_days_ago)
+		local score_str = DEV and (" " .. math.floor(calc_item_score(item))) or ""
+		return item_spoiler(
+			actuality_emoji .. score_str,
+			item.owner .. "/" .. item.repo,
+			escape_description(item.info.description),
+			generate_item_spoiler_content(item)
+		)
+	end
 end
 
 local function generate_list_item(item)
@@ -282,12 +316,23 @@ local function generate_list_item(item)
 		"  " .. escape_description(item.info.description)
 end
 
---- @param all_headers ParsedHeaders
---- @return number total_items
-local function count_items(all_headers)
-	local total_items = 0
-	for _, header in ipairs( all_headers ) do total_items = total_items + #header.items end
-	return total_items
+local get_meta do
+-- 	local meta_pat = [[
+-- **Total items**: {total_items} \
+-- **Last update**: {last_update} \
+-- **Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)]]
+	local meta_pat = [[
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-{last_update}-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-{total_items}-blue?style=for-the-badge&logo=awesomelists)
+]]
+
+	get_meta = function(page_struct)
+		return string_interpolate(meta_pat, {
+			total_items = count_items(page_struct),
+			last_update = os.date("%Y/%m/%d"),
+		})
+	end
 end
 
 local function create_list_of_formatted_items(items, formatter)
@@ -298,46 +343,22 @@ local function create_list_of_formatted_items(items, formatter)
 	return body
 end
 
-local function create_header_struct(level, name, items, item_formatter)
-	sort_items_by_score(items)
+local function create_body(category_tree, item_formatter)
+	local body = ""
+	for _, category in ipairs(category_tree) do
+		sort_items_by_score(category.items)
 
-	local struct = {
-		[1] = string.rep("#", level) .. " " .. name,
-		[2] = "\n\n",
-		[3] = create_list_of_formatted_items(items, item_formatter),
-	}
+		local data = ""
+		if category.header_level > 1 then
+			data = string.rep("#", category.header_level) .. " " .. category.header_name .. "\n\n"
+		end
+		if #category.items > 0 then
+			data = data .. create_list_of_formatted_items(category.items, item_formatter) .. "\n"
+		end
 
-	return struct
-end
-
-local meta_pat = [[
-**Total items**: {total_items} \
-**Last update**: {last_update} \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
-{circles_legend}
-]]
-
-local function get_meta(page_struct)
-	return string_interpolate(meta_pat, {
-		total_items = count_items(page_struct),
-		last_update = os.date("%Y-%m-%d %H:%M:%S"),
-		circles_legend = circles_legend,
-	})
-end
-
-local function create_structure_text(category_tree, item_formatter)
-	local root_struct = create_header_struct(1, category_tree[1].header_name, category_tree[1].items, item_formatter)
-	table.insert(root_struct, 3, get_meta(category_tree))
-
-	local content = table.concat(root_struct)
-
-	for i = 2, #category_tree do
-		local category = category_tree[i]
-		local struct = create_header_struct(category.header_level, category.header_name, category.items, item_formatter)
-		content = content .. table.concat(struct) .. "\n"
+		body = body .. data
 	end
-
-	return content
+	return body
 end
 
 local function generate_slug(str)
@@ -349,31 +370,31 @@ end
 
 local sidebar_position = 0
 
---- @param headers ParsedHeaders
-local function create_category_file(headers)
+--- @param category_tree ParsedHeaders
+local function create_category_file(category_tree)
 	sidebar_position = sidebar_position + 1
 
-	local content = table.concat({
-		"---",
-		"sidebar_position: " .. sidebar_position,
-		"---\n\n",
-	}, "\n") .. create_structure_text(headers, generate_spoiled_item)
+	local content = string_interpolate(file_struct_template, {
+		front_matter   = "sidebar_position: " .. sidebar_position,
+		main_header    = "# " .. category_tree[1].header_name,
+		meta           = get_meta(category_tree),
+		main_body      = create_body(category_tree, generate_spoiled_item),
+	})
 
-	local slug = generate_slug(headers[1].header_name)
+	local slug = generate_slug(category_tree[1].header_name)
 	file_write("site/docs/" .. slug .. ".md", content)
 end
 
---- @param headers ParsedHeaders
-local function create_index_file(headers)
-	sidebar_position = sidebar_position + 1
+--- @param category_tree ParsedHeaders
+local function create_index_file(category_tree)
+	sidebar_position = sidebar_position + 1 -- always 1 here
 
-	local content = table.concat({
-		"---",
-		"title: All In One Simple List",
-		"slug: /",
-		"sidebar_position: " .. sidebar_position, -- always 1
-		"---\n\n",
-	}, "\n") .. create_structure_text(headers, generate_list_item)
+	local content = string_interpolate(file_struct_template, {
+		front_matter   = "title: All In One Simple List\nslug: /\nsidebar_position: " .. sidebar_position,
+		main_header    = "# " .. category_tree[1].header_name,
+		meta           = get_meta(category_tree),
+		main_body      = create_body(category_tree, generate_list_item),
+	})
 
 	file_write("site/docs/index.md", content)
 end
@@ -468,7 +489,7 @@ copas.addthread(function()
 				create_category_file(page_headers)
 				page_headers = { categ_minus } -- new page
 
-				if i == #parsed_headers then -- create last page (unsorted)
+				if i == #parsed_headers then -- create last page (the unsorted page)
 					create_category_file(page_headers)
 				end
 			end

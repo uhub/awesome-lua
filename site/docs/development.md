@@ -4,9 +4,24 @@ sidebar_position: 2
 
 # 🚧 Development
 
-**Total items**: 70 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-70-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```
@@ -21,11 +36,11 @@ Last commit..
 :::
 
 <details>
-<summary>⚪ 101 [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.</summary>
+<summary>⚪ 100 [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.</summary>
 
 **Topics**: `lua`, `lua-modules`, `luajit`, `luarocks`, `package-management`, `package-manager` \
 **Watchers**: 101 **Forks**: 427 **Stars**: 2964 **Issues**: 257 \
-**Last commit**: 2023-12-13 (6 days ago) \
+**Last commit**: 2023-12-13 (7 days ago) \
 **Created at**: 2010-03-20 \
 **License**: MIT License
 
@@ -69,7 +84,7 @@ Last commit..
 
 **Topics**: `algorithms`, `algorithms-datastructures`, `datastructures`, `datastructures-algorithms`, `dsa`, `hacktoberfest`, `lua` \
 **Watchers**: 9 **Forks**: 43 **Stars**: 190 **Issues**: 1 \
-**Last commit**: 2023-12-03 (16 days ago) \
+**Last commit**: 2023-12-03 (17 days ago) \
 **Created at**: 2021-09-27 \
 **License**: MIT License
 
@@ -130,6 +145,7 @@ Last commit..
 
 </details>
 
+
 ## Debugging
 
 <details>
@@ -170,7 +186,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 55 **Forks**: 196 **Stars**: 847 **Issues**: 21 \
-**Last commit**: 2023-10-17 (63 days ago) \
+**Last commit**: 2023-10-17 (64 days ago) \
 **Created at**: 2011-12-04 \
 **License**: Other
 
@@ -192,7 +208,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 19 **Forks**: 26 **Stars**: 186 **Issues**: 10 \
-**Last commit**: 2023-07-24 (149 days ago) \
+**Last commit**: 2023-07-24 (150 days ago) \
 **Created at**: 2010-11-04 \
 **License**: MIT License
 
@@ -214,7 +230,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 16 **Stars**: 161 **Issues**: 40 \
-**Last commit**: 2022-01-15 (703 days ago) \
+**Last commit**: 2022-01-15 (704 days ago) \
 **Created at**: 2011-10-06 \
 **License**: MIT License
 
@@ -283,7 +299,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 87 **Stars**: 286 **Issues**: 5 \
-**Last commit**: 2023-08-23 (119 days ago) \
+**Last commit**: 2023-08-23 (120 days ago) \
 **Created at**: 2014-07-03 \
 **License**: MIT License
 
@@ -294,7 +310,7 @@ Last commit..
 
 **Topics**: `logging`, `lua` \
 **Watchers**: 6 **Forks**: 18 **Stars**: 104 **Issues**: 2 \
-**Last commit**: 2018-09-19 (1917 days ago) \
+**Last commit**: 2018-09-19 (1918 days ago) \
 **Created at**: 2012-08-22 \
 **License**: MIT License
 
@@ -374,7 +390,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 25 **Stars**: 81 **Issues**: 10 \
-**Last commit**: 2022-05-07 (592 days ago) \
+**Last commit**: 2022-05-07 (593 days ago) \
 **Created at**: 2010-03-06 \
 **License**: none
 
@@ -385,7 +401,7 @@ Last commit..
 
 **Topics**: `lua`, `lua-library`, `luarocks`, `test-framework` \
 **Watchers**: 7 **Forks**: 11 **Stars**: 66 **Issues**: 3 \
-**Last commit**: 2019-01-22 (1792 days ago) \
+**Last commit**: 2019-01-22 (1793 days ago) \
 **Created at**: 2017-04-20 \
 **License**: MIT License
 
@@ -465,7 +481,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 19 **Forks**: 51 **Stars**: 247 **Issues**: 10 \
-**Last commit**: 2022-11-05 (410 days ago) \
+**Last commit**: 2022-11-05 (411 days ago) \
 **Created at**: 2012-09-23 \
 **License**: MIT License
 
@@ -476,7 +492,7 @@ Last commit..
 
 **Topics**: `formatter`, `lua`, `pretty-printer`, `typescript` \
 **Watchers**: 7 **Forks**: 23 **Stars**: 183 **Issues**: 27 \
-**Last commit**: 2019-09-06 (1566 days ago) \
+**Last commit**: 2019-09-06 (1567 days ago) \
 **Created at**: 2017-03-21 \
 **License**: MIT License
 
@@ -556,7 +572,7 @@ Last commit..
 
 **Topics**: `android`, `frida`, `injection`, `ios`, `lua`, `luajit`, `reverse-engineering`, `xmake` \
 **Watchers**: 15 **Forks**: 48 **Stars**: 299 **Issues**: 8 \
-**Last commit**: 2021-05-16 (948 days ago) \
+**Last commit**: 2021-05-16 (949 days ago) \
 **Created at**: 2020-04-23 \
 **License**: Apache License 2.0
 
@@ -567,7 +583,7 @@ Last commit..
 
 **Topics**: `build-tool`, `lua`, `luarocks`, `static-binary` \
 **Watchers**: 11 **Forks**: 7 **Stars**: 189 **Issues**: 8 \
-**Last commit**: 2022-11-12 (402 days ago) \
+**Last commit**: 2022-11-12 (403 days ago) \
 **Created at**: 2017-05-27 \
 **License**: MIT License
 
@@ -657,22 +673,22 @@ Last commit..
 ## Other
 
 <details>
-<summary>⚪ 92 [teal-language/tl](https://github.com/teal-language/tl) – The compiler for Teal, a typed dialect of Lua</summary>
+<summary>⚪ 91 [teal-language/tl](https://github.com/teal-language/tl) – The compiler for Teal, a typed dialect of Lua</summary>
 
 **Topics**: `compiler`, `lua`, `teal`, `type-checking` \
 **Watchers**: 46 **Forks**: 92 **Stars**: 1811 **Issues**: 72 \
-**Last commit**: 2023-12-18 (1 days ago) \
+**Last commit**: 2023-12-18 (2 days ago) \
 **Created at**: 2019-02-02 \
 **License**: MIT License
 
 </details>
 
 <details>
-<summary>🟡 91 [leafo/moonscript](https://github.com/leafo/moonscript) – :crescent_moon: A language that compiles to Lua</summary>
+<summary>🟡 90 [leafo/moonscript](https://github.com/leafo/moonscript) – :crescent_moon: A language that compiles to Lua</summary>
 
 **Topics**: `language`, `lua`, `moonscript`, `parsing-expression-grammar`, `transpiler` \
 **Watchers**: 91 **Forks**: 192 **Stars**: 3066 **Issues**: 183 \
-**Last commit**: 2023-11-06 (43 days ago) \
+**Last commit**: 2023-11-06 (44 days ago) \
 **Created at**: 2011-05-23 \
 **License**: none
 
@@ -738,7 +754,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 59 **Stars**: 262 **Issues**: 3 \
-**Last commit**: 2010-09-01 (4858 days ago) \
+**Last commit**: 2010-09-01 (4859 days ago) \
 **Created at**: 2008-09-20 \
 **License**: Other
 
@@ -782,7 +798,7 @@ Last commit..
 
 **Topics**: `interpreter`, `lua` \
 **Watchers**: 8 **Forks**: 21 **Stars**: 108 **Issues**: 0 \
-**Last commit**: 2023-01-07 (346 days ago) \
+**Last commit**: 2023-01-07 (347 days ago) \
 **Created at**: 2019-08-03 \
 **License**: GNU General Public License v3.0
 

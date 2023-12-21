@@ -4,9 +4,24 @@ sidebar_position: 7
 
 # 🎮 Game development
 
-**Total items**: 108 \
-**Last update**: 2023-12-20 20:14:27 \
-**Add repo**: [click](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+[![add repo](https://img.shields.io/badge/Add_Your_Repo-green?style=for-the-badge&logo=github)](https://github.com/AMD-NICK/awesome-lua/edit/master/README.md)
+![last update](https://img.shields.io/badge/Last_Update-2023/12/21-blue?style=for-the-badge)
+![total items](https://img.shields.io/badge/Total_Items-108-blue?style=for-the-badge&logo=awesomelists)
+
+
+:::tip[**Welcome to the collection of Lua repositories!** 👋]
+
+All repositories are **automatically** sorted by a specific `Score`, which takes into account the date of the last commit, the number of stars, and also gives a slight advantage to repositories that have been recently created.
+
+The meta-information about repositories is **automatically updated** regularly. \
+The generator for these pages is also written in **Lua** 🌑
+
+You can add your own or someone else's repository to the list by clicking the green button at the top or by creating an Issue. For every repository you add, you get 9000 love from me ❤️. It's easy!
+
+I would also welcome your suggestions on how to improve the structuring of repositories.
+
+:::
+
 :::note[Circles Legend]
 
 ```
@@ -93,7 +108,7 @@ Last commit..
 
 **Topics**: `android`, `emulator`, `fantasy-console`, `linux`, `love2d`, `lua`, `luajit`, `osx`, `pico-8`, `pico8`, `virtual-console`, `windows` \
 **Watchers**: 27 **Forks**: 66 **Stars**: 688 **Issues**: 17 \
-**Last commit**: 2023-09-12 (98 days ago) \
+**Last commit**: 2023-09-12 (99 days ago) \
 **Created at**: 2015-09-09 \
 **License**: zlib License
 
@@ -126,7 +141,7 @@ Last commit..
 
 **Topics**: `love`, `love2d`, `lua` \
 **Watchers**: 12 **Forks**: 26 **Stars**: 441 **Issues**: 11 \
-**Last commit**: 2020-12-12 (1102 days ago) \
+**Last commit**: 2020-12-12 (1103 days ago) \
 **Created at**: 2013-11-05 \
 **License**: MIT License
 
@@ -148,7 +163,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 19 **Forks**: 27 **Stars**: 253 **Issues**: 8 \
-**Last commit**: 2023-07-22 (150 days ago) \
+**Last commit**: 2023-07-22 (151 days ago) \
 **Created at**: 2014-03-05 \
 **License**: MIT License
 
@@ -170,7 +185,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 18 **Stars**: 215 **Issues**: 9 \
-**Last commit**: 2021-11-20 (760 days ago) \
+**Last commit**: 2021-11-20 (761 days ago) \
 **Created at**: 2014-10-24 \
 **License**: MIT License
 
@@ -192,7 +207,7 @@ Last commit..
 
 **Topics**: `enet`, `gamedev`, `love2d`, `lua`, `networking`, `online` \
 **Watchers**: 12 **Forks**: 7 **Stars**: 162 **Issues**: 5 \
-**Last commit**: 2020-12-31 (1083 days ago) \
+**Last commit**: 2020-12-31 (1084 days ago) \
 **Created at**: 2016-07-22 \
 **License**: MIT License
 
@@ -203,7 +218,7 @@ Last commit..
 
 **Topics**: `glsl`, `lighting-effects`, `lights-engine`, `love2d`, `lua`, `luajit`, `opengl`, `opengl-es`, `shadow` \
 **Watchers**: 14 **Forks**: 11 **Stars**: 161 **Issues**: 2 \
-**Last commit**: 2020-07-08 (1260 days ago) \
+**Last commit**: 2020-07-08 (1261 days ago) \
 **Created at**: 2016-06-13 \
 **License**: MIT License
 
@@ -214,7 +229,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 37 **Forks**: 47 **Stars**: 148 **Issues**: 2 \
-**Last commit**: 2020-09-12 (1194 days ago) \
+**Last commit**: 2020-09-12 (1195 days ago) \
 **Created at**: 2018-01-28 \
 **License**: MIT License
 
@@ -247,7 +262,7 @@ Last commit..
 
 **Topics**: `engine`, `fnf`, `friday-night-funkin`, `funkin`, `game`, `homebrew`, `linux`, `love`, `love2d`, `lua`, `luajit`, `macos`, `nintendo-switch`, `rewrite`, `rewritten`, `rhythm`, `switch`, `windows` \
 **Watchers**: 10 **Forks**: 37 **Stars**: 92 **Issues**: 9 \
-**Last commit**: 2023-04-23 (240 days ago) \
+**Last commit**: 2023-04-23 (241 days ago) \
 **Created at**: 2021-04-07 \
 **License**: GNU General Public License v3.0
 
@@ -269,7 +284,7 @@ Last commit..
 
 **Topics**: `gui-library`, `love2d`, `lua` \
 **Watchers**: 3 **Forks**: 14 **Stars**: 98 **Issues**: 4 \
-**Last commit**: 2022-06-02 (566 days ago) \
+**Last commit**: 2022-06-02 (567 days ago) \
 **Created at**: 2016-05-04 \
 **License**: MIT License
 
@@ -291,7 +306,7 @@ Last commit..
 
 **Topics**: `llsif`, `love2d`, `lovelive`, `lua`, `luajit`, `school-idol-festival`, `simulator`, `sukufesu-simulator` \
 **Watchers**: 12 **Forks**: 13 **Stars**: 87 **Issues**: 6 \
-**Last commit**: 2023-08-28 (114 days ago) \
+**Last commit**: 2023-08-28 (115 days ago) \
 **Created at**: 2016-10-30 \
 **License**: zlib License
 
@@ -302,7 +317,7 @@ Last commit..
 
 **Topics**: `llsif`, `love2d`, `lovelive`, `lua`, `luajit`, `school-idol-festival`, `simulator`, `sukufesu-simulator` \
 **Watchers**: 12 **Forks**: 13 **Stars**: 87 **Issues**: 6 \
-**Last commit**: 2023-08-28 (114 days ago) \
+**Last commit**: 2023-08-28 (115 days ago) \
 **Created at**: 2016-10-30 \
 **License**: zlib License
 
@@ -313,7 +328,7 @@ Last commit..
 
 **Topics**: `2d-game`, `2d-platformer`, `2d-platformer-engine`, `engine`, `game`, `love2d`, `lua`, `map-editor` \
 **Watchers**: 8 **Forks**: 8 **Stars**: 86 **Issues**: 25 \
-**Last commit**: 2022-08-17 (490 days ago) \
+**Last commit**: 2022-08-17 (491 days ago) \
 **Created at**: 2015-10-02 \
 **License**: GNU General Public License v3.0
 
@@ -357,7 +372,7 @@ Last commit..
 
 **Topics**: `box2d`, `game-development`, `love2d`, `lua`, `physics` \
 **Watchers**: 13 **Forks**: 51 **Stars**: 410 **Issues**: 11 \
-**Last commit**: 2020-04-14 (1344 days ago) \
+**Last commit**: 2020-04-14 (1345 days ago) \
 **Created at**: 2015-09-08 \
 **License**: none
 
@@ -437,7 +452,7 @@ Last commit..
 
 **Topics**: `esx`, `esx-legacy`, `fivem`, `lua`, `qb`, `qbcore` \
 **Watchers**: 9 **Forks**: 75 **Stars**: 142 **Issues**: 6 \
-**Last commit**: 2023-11-16 (33 days ago) \
+**Last commit**: 2023-11-16 (34 days ago) \
 **Created at**: 2021-08-13 \
 **License**: GNU General Public License v3.0
 
@@ -513,11 +528,11 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 59 [evaera/Cmdr](https://github.com/evaera/Cmdr) – Extensible command console for Roblox developers</summary>
+<summary>⚪ 58 [evaera/Cmdr](https://github.com/evaera/Cmdr) – Extensible command console for Roblox developers</summary>
 
 **Topics**: `lua`, `roblox` \
 **Watchers**: 13 **Forks**: 97 **Stars**: 325 **Issues**: 25 \
-**Last commit**: 2023-12-16 (4 days ago) \
+**Last commit**: 2023-12-16 (5 days ago) \
 **Created at**: 2018-05-29 \
 **License**: MIT License
 
@@ -528,7 +543,7 @@ Last commit..
 
 **Topics**: `game-development`, `lua`, `nevermore`, `rbxlua`, `roblox` \
 **Watchers**: 22 **Forks**: 121 **Stars**: 349 **Issues**: 51 \
-**Last commit**: 2023-12-14 (5 days ago) \
+**Last commit**: 2023-12-14 (6 days ago) \
 **Created at**: 2013-09-17 \
 **License**: MIT License
 
@@ -550,18 +565,18 @@ Last commit..
 
 **Topics**: `intellisense`, `lua`, `roblox` \
 **Watchers**: 3 **Forks**: 51 **Stars**: 194 **Issues**: 56 \
-**Last commit**: 2023-11-23 (26 days ago) \
+**Last commit**: 2023-11-23 (27 days ago) \
 **Created at**: 2020-08-09 \
 **License**: MIT License
 
 </details>
 
 <details>
-<summary>⚪ 44 [Roblox/roact](https://github.com/Roblox/roact) – A view management library for Roblox Lua similar to React</summary>
+<summary>🟢 44 [Roblox/roact](https://github.com/Roblox/roact) – A view management library for Roblox Lua similar to React</summary>
 
 **Topics**: `lua`, `react`, `roblox`, `ui` \
 **Watchers**: 28 **Forks**: 140 **Stars**: 546 **Issues**: 70 \
-**Last commit**: 2023-12-13 (7 days ago) \
+**Last commit**: 2023-12-13 (8 days ago) \
 **Created at**: 2017-11-03 \
 **License**: Apache License 2.0
 
@@ -572,29 +587,29 @@ Last commit..
 
 **Topics**: `lua`, `roblox` \
 **Watchers**: 9 **Forks**: 65 **Stars**: 256 **Issues**: 4 \
-**Last commit**: 2023-10-16 (65 days ago) \
+**Last commit**: 2023-10-16 (66 days ago) \
 **Created at**: 2019-09-10 \
 **License**: MIT License
 
 </details>
 
 <details>
-<summary>🟡 35 [Roblox/testez](https://github.com/Roblox/testez) – BDD-style test and assertion library for Roblox Lua</summary>
+<summary>🟡 34 [Roblox/testez](https://github.com/Roblox/testez) – BDD-style test and assertion library for Roblox Lua</summary>
 
 **Topics**: none \
 **Watchers**: 20 **Forks**: 59 **Stars**: 167 **Issues**: 46 \
-**Last commit**: 2023-10-23 (57 days ago) \
+**Last commit**: 2023-10-23 (58 days ago) \
 **Created at**: 2017-10-31 \
 **License**: Apache License 2.0
 
 </details>
 
 <details>
-<summary>🟠 26 [Roblox/roact-rodux](https://github.com/Roblox/roact-rodux) – A connector between Roact and Rodux, similar to react-redux</summary>
+<summary>🟠 25 [Roblox/roact-rodux](https://github.com/Roblox/roact-rodux) – A connector between Roact and Rodux, similar to react-redux</summary>
 
 **Topics**: `lua`, `roblox` \
 **Watchers**: 15 **Forks**: 37 **Stars**: 79 **Issues**: 3 \
-**Last commit**: 2023-10-11 (70 days ago) \
+**Last commit**: 2023-10-11 (71 days ago) \
 **Created at**: 2017-11-03 \
 **License**: Apache License 2.0
 
@@ -652,7 +667,7 @@ Last commit..
 
 **Topics**: `character-creation`, `garrys-mod`, `gmod`, `lua` \
 **Watchers**: 34 **Forks**: 93 **Stars**: 194 **Issues**: 129 \
-**Last commit**: 2023-12-19 (0 days ago) \
+**Last commit**: 2023-12-19 (1 days ago) \
 **Created at**: 2013-05-22 \
 **License**: GNU General Public License v3.0
 
@@ -696,7 +711,7 @@ Last commit..
 
 **Topics**: `garrys-mod`, `garrysmod`, `gmod`, `lua`, `steam`, `steam-games`, `ulib`, `ulx`, `ulysses`, `workshop` \
 **Watchers**: 21 **Forks**: 47 **Stars**: 96 **Issues**: 6 \
-**Last commit**: 2023-11-19 (31 days ago) \
+**Last commit**: 2023-11-19 (32 days ago) \
 **Created at**: 2015-11-08 \
 **License**: Other
 
@@ -805,11 +820,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 46 [RealUI/RealUI](https://github.com/RealUI/RealUI) – A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.</summary>
+<summary>🟢 45 [RealUI/RealUI](https://github.com/RealUI/RealUI) – A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.</summary>
 
 **Topics**: `lua`, `world-of-warcraft`, `world-of-warcraft-addon`, `wow-addon` \
 **Watchers**: 20 **Forks**: 26 **Stars**: 77 **Issues**: 13 \
-**Last commit**: 2023-12-11 (9 days ago) \
+**Last commit**: 2023-12-11 (10 days ago) \
 **Created at**: 2013-09-09 \
 **License**: Other
 
@@ -820,7 +835,7 @@ Last commit..
 
 **Topics**: `lua`, `world-of-warcraft` \
 **Watchers**: 18 **Forks**: 18 **Stars**: 151 **Issues**: 0 \
-**Last commit**: 2023-11-25 (24 days ago) \
+**Last commit**: 2023-11-25 (25 days ago) \
 **Created at**: 2019-05-07 \
 **License**: none
 
@@ -886,7 +901,7 @@ Last commit..
 
 **Topics**: `addon`, `battle-pet`, `lua`, `script`, `world-of-warcraft` \
 **Watchers**: 14 **Forks**: 26 **Stars**: 118 **Issues**: 21 \
-**Last commit**: 2022-11-13 (402 days ago) \
+**Last commit**: 2022-11-13 (403 days ago) \
 **Created at**: 2016-10-13 \
 **License**: MIT License
 
@@ -995,11 +1010,11 @@ Last commit..
 </details>
 
 <details>
-<summary>⚪ 50 [CelestialCartographers/Loenn](https://github.com/CelestialCartographers/Loenn) – A Visual Map Maker and Level Editor for the game Celeste but better than the other one</summary>
+<summary>🟢 49 [CelestialCartographers/Loenn](https://github.com/CelestialCartographers/Loenn) – A Visual Map Maker and Level Editor for the game Celeste but better than the other one</summary>
 
 **Topics**: `celeste`, `celestegame`, `love`, `love2d`, `lua`, `map`, `mapmaker`, `mapmaking`, `maps`, `selene`, `visual` \
 **Watchers**: 7 **Forks**: 17 **Stars**: 126 **Issues**: 25 \
-**Last commit**: 2023-12-12 (7 days ago) \
+**Last commit**: 2023-12-12 (8 days ago) \
 **Created at**: 2019-04-26 \
 **License**: MIT License
 
@@ -1043,7 +1058,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 33 **Stars**: 404 **Issues**: 26 \
-**Last commit**: 2023-09-22 (88 days ago) \
+**Last commit**: 2023-09-22 (89 days ago) \
 **Created at**: 2015-12-02 \
 **License**: BSD 3-Clause "New" or "Revised" License
 
@@ -1109,7 +1124,7 @@ Last commit..
 
 **Topics**: `factorio`, `factorio-stdlib`, `ldoc`, `lua`, `modders` \
 **Watchers**: 15 **Forks**: 44 **Stars**: 159 **Issues**: 21 \
-**Last commit**: 2022-11-27 (388 days ago) \
+**Last commit**: 2022-11-27 (389 days ago) \
 **Created at**: 2016-04-06 \
 **License**: ISC License
 
@@ -1120,7 +1135,7 @@ Last commit..
 
 **Topics**: `lua`, `luajit`, `roblox`, `robloxlua` \
 **Watchers**: 8 **Forks**: 47 **Stars**: 116 **Issues**: 6 \
-**Last commit**: 2021-10-22 (789 days ago) \
+**Last commit**: 2021-10-22 (790 days ago) \
 **Created at**: 2020-10-21 \
 **License**: MIT License
 
