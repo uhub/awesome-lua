@@ -63,7 +63,7 @@ Last commit..
 <summary>🟡 51 [groverburger/g3d](https://github.com/groverburger/g3d) – Simple and easy 3D engine for LÖVE.</summary>
 
 **Topics**: `g3d`, `love2d`, `lua`, `simple` \
-**Watchers**: 30 **Forks**: 27 **Stars**: 462 **Issues**: 6 \
+**Watchers**: 30 **Forks**: 27 **Stars**: 463 **Issues**: 6 \
 **Last commit**: 2023-11-08 (42 days ago) \
 **Created at**: 2019-02-26 \
 **License**: MIT License
@@ -273,7 +273,7 @@ Last commit..
 
 **Topics**: `async`, `event`, `love`, `love2d`, `lua` \
 **Watchers**: 7 **Forks**: 6 **Stars**: 101 **Issues**: 0 \
-**Last commit**: 2022-06-13 (555 days ago) \
+**Last commit**: 2022-06-13 (556 days ago) \
 **Created at**: 2017-12-21 \
 **License**: zlib License
 
@@ -418,7 +418,7 @@ Last commit..
 <summary>⚪ 56 [xhcherry/GTA5-Stand-LuaAIO](https://github.com/xhcherry/GTA5-Stand-LuaAIO) – GTA5 Mod Stand Lua All in One；含综合、任务、crash、模组、娱乐等多种standlua于一体的存储库</summary>
 
 **Topics**: none \
-**Watchers**: 4 **Forks**: 145 **Stars**: 132 **Issues**: 5 \
+**Watchers**: 4 **Forks**: 145 **Stars**: 131 **Issues**: 5 \
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2023-01-25 \
 **License**: Apache License 2.0
@@ -429,8 +429,8 @@ Last commit..
 <summary>⚪ 53 [AmirrezaJaberi/FIREAC](https://github.com/AmirrezaJaberi/FIREAC) – ✅ FiveM Strongest Anticheat</summary>
 
 **Topics**: `anti-cheat`, `cfx-resource`, `fivem`, `fivem-lua`, `fivem-script`, `lua` \
-**Watchers**: 9 **Forks**: 46 **Stars**: 122 **Issues**: 13 \
-**Last commit**: 2023-12-19 (1 days ago) \
+**Watchers**: 9 **Forks**: 47 **Stars**: 122 **Issues**: 14 \
+**Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2022-01-20 \
 **License**: GNU Affero General Public License v3.0
 
@@ -441,7 +441,7 @@ Last commit..
 
 **Topics**: `fivem`, `fivem-mod`, `lua` \
 **Watchers**: 10 **Forks**: 189 **Stars**: 175 **Issues**: 8 \
-**Last commit**: 2023-12-04 (16 days ago) \
+**Last commit**: 2023-12-04 (17 days ago) \
 **Created at**: 2019-06-23 \
 **License**: MIT License
 
@@ -506,7 +506,7 @@ Last commit..
 <summary>⚫ -3 [xchopin/FiveM-RP-Boilerplate](https://github.com/xchopin/FiveM-RP-Boilerplate) – 🔫 Boilerplate for FiveM Roleplay servers. Save time and focus on your real project.</summary>
 
 **Topics**: `boilerplate`, `fivem`, `fivem-roleplay-servers`, `grand-theft-auto`, `gta`, `kit`, `lua`, `starter` \
-**Watchers**: 19 **Forks**: 124 **Stars**: 127 **Issues**: 4 \
+**Watchers**: 19 **Forks**: 123 **Stars**: 128 **Issues**: 4 \
 **Last commit**: 2019-08-31 (1572 days ago) \
 **Created at**: 2017-06-06 \
 **License**: none
@@ -542,7 +542,7 @@ Last commit..
 <summary>⚪ 58 [Quenty/NevermoreEngine](https://github.com/Quenty/NevermoreEngine) – ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox</summary>
 
 **Topics**: `game-development`, `lua`, `nevermore`, `rbxlua`, `roblox` \
-**Watchers**: 22 **Forks**: 121 **Stars**: 349 **Issues**: 51 \
+**Watchers**: 22 **Forks**: 121 **Stars**: 350 **Issues**: 51 \
 **Last commit**: 2023-12-14 (6 days ago) \
 **Created at**: 2013-09-17 \
 **License**: MIT License
@@ -631,7 +631,7 @@ Last commit..
 
 **Topics**: `lua`, `roblox` \
 **Watchers**: 5 **Forks**: 39 **Stars**: 171 **Issues**: 3 \
-**Last commit**: 2023-04-03 (261 days ago) \
+**Last commit**: 2023-04-03 (262 days ago) \
 **Created at**: 2018-06-26 \
 **License**: MIT License
 
@@ -667,7 +667,7 @@ Last commit..
 
 **Topics**: `character-creation`, `garrys-mod`, `gmod`, `lua` \
 **Watchers**: 34 **Forks**: 93 **Stars**: 194 **Issues**: 129 \
-**Last commit**: 2023-12-19 (1 days ago) \
+**Last commit**: 2023-12-21 (0 days ago) \
 **Created at**: 2013-05-22 \
 **License**: GNU General Public License v3.0
 
@@ -677,8 +677,8 @@ Last commit..
 <summary>⚪ 54 [thegrb93/StarfallEx](https://github.com/thegrb93/StarfallEx) – Starfall, but with active development and more features. Write Garry's mod chips similar to E2, but in lua</summary>
 
 **Topics**: none \
-**Watchers**: 16 **Forks**: 105 **Stars**: 182 **Issues**: 25 \
-**Last commit**: 2023-12-19 (1 days ago) \
+**Watchers**: 16 **Forks**: 105 **Stars**: 182 **Issues**: 26 \
+**Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2015-10-22 \
 **License**: Other
 
@@ -688,7 +688,7 @@ Last commit..
 <summary>🟢 49 [robotboy655/gmod-lua-menu](https://github.com/robotboy655/gmod-lua-menu) – A Lua powered ( No HTML ) main menu for Garry's Mod.</summary>
 
 **Topics**: none \
-**Watchers**: 11 **Forks**: 37 **Stars**: 133 **Issues**: 2 \
+**Watchers**: 11 **Forks**: 37 **Stars**: 134 **Issues**: 2 \
 **Last commit**: 2023-12-11 (9 days ago) \
 **Created at**: 2014-08-02 \
 **License**: none
@@ -959,7 +959,7 @@ Last commit..
 
 **Topics**: `algorithm`, `doudizhu`, `lua`, `majhong`, `paohuzi` \
 **Watchers**: 131 **Forks**: 861 **Stars**: 1905 **Issues**: 18 \
-**Last commit**: 2023-01-12 (342 days ago) \
+**Last commit**: 2023-01-12 (343 days ago) \
 **Created at**: 2017-01-03 \
 **License**: none
 
@@ -970,7 +970,7 @@ Last commit..
 
 **Topics**: `algorithm`, `doudizhu`, `lua`, `majhong`, `paohuzi` \
 **Watchers**: 131 **Forks**: 861 **Stars**: 1905 **Issues**: 18 \
-**Last commit**: 2023-01-12 (342 days ago) \
+**Last commit**: 2023-01-12 (343 days ago) \
 **Created at**: 2017-01-03 \
 **License**: none
 
@@ -1002,7 +1002,7 @@ Last commit..
 <summary>⚫ 53 [liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO) – an unity mmo demo, base on ecs(game play), xlua(ui)</summary>
 
 **Topics**: `ecs`, `entities`, `gameplay`, `lua`, `lua-ecs`, `mmo`, `unity`, `xlua` \
-**Watchers**: 84 **Forks**: 409 **Stars**: 1480 **Issues**: 15 \
+**Watchers**: 84 **Forks**: 409 **Stars**: 1481 **Issues**: 15 \
 **Last commit**: 2021-07-01 (902 days ago) \
 **Created at**: 2018-07-11 \
 **License**: MIT License
@@ -1179,7 +1179,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 7 **Forks**: 52 **Stars**: 103 **Issues**: 0 \
-**Last commit**: 2018-03-22 (2099 days ago) \
+**Last commit**: 2018-03-22 (2100 days ago) \
 **Created at**: 2018-03-21 \
 **License**: GNU Lesser General Public License v3.0
 

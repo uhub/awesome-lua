@@ -39,7 +39,7 @@ Last commit..
 <summary>⚪ 164 [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway</summary>
 
 **Topics**: `api`, `api-gateway`, `api-management`, `apigateway`, `apis`, `apisix`, `cloud-native`, `devops`, `docker`, `iot`, `kubernetes`, `kubernetes-ingress`, `kubernetes-ingress-controller`, `loadbalancing`, `luajit`, `microservices`, `nginx`, `reverse-proxy`, `serverless`, `service-mesh` \
-**Watchers**: 312 **Forks**: 2367 **Stars**: 13082 **Issues**: 437 \
+**Watchers**: 312 **Forks**: 2367 **Stars**: 13084 **Issues**: 438 \
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2019-04-10 \
 **License**: Apache License 2.0
@@ -50,7 +50,7 @@ Last commit..
 <summary>🟢 110 [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) – A lightweight text editor written in Lua</summary>
 
 **Topics**: `code`, `editor`, `lua` \
-**Watchers**: 49 **Forks**: 188 **Stars**: 4131 **Issues**: 183 \
+**Watchers**: 49 **Forks**: 188 **Stars**: 4133 **Issues**: 183 \
 **Last commit**: 2023-12-08 (12 days ago) \
 **Created at**: 2020-05-24 \
 **License**: MIT License
@@ -72,7 +72,7 @@ Last commit..
 <summary>🟢 100 [skywind3000/z.lua](https://github.com/skywind3000/z.lua) – :zap: A new cd command that helps you navigate faster by learning your habits.</summary>
 
 **Topics**: `autojump`, `bash`, `cd`, `fasd`, `fish`, `fishshell`, `fuzzy`, `fzf`, `j`, `jump`, `plugin`, `powershell`, `shell`, `z`, `zsh`, `zsh-plugin` \
-**Watchers**: 37 **Forks**: 144 **Stars**: 2854 **Issues**: 59 \
+**Watchers**: 37 **Forks**: 144 **Stars**: 2855 **Issues**: 59 \
 **Last commit**: 2023-12-10 (10 days ago) \
 **Created at**: 2018-03-21 \
 **License**: MIT License
@@ -94,7 +94,7 @@ Last commit..
 <summary>⚪ 85 [jgm/djot](https://github.com/jgm/djot) – A light markup language</summary>
 
 **Topics**: `commonmark`, `lua`, `markdown`, `markup-language`, `pandoc` \
-**Watchers**: 28 **Forks**: 38 **Stars**: 1371 **Issues**: 87 \
+**Watchers**: 28 **Forks**: 38 **Stars**: 1372 **Issues**: 87 \
 **Last commit**: 2023-12-15 (5 days ago) \
 **Created at**: 2022-07-11 \
 **License**: MIT License
@@ -105,7 +105,7 @@ Last commit..
 <summary>🟢 83 [starwing/lua-protobuf](https://github.com/starwing/lua-protobuf) – A Lua module to work with Google protobuf</summary>
 
 **Topics**: `lua`, `protobuf`, `single-header-lib` \
-**Watchers**: 91 **Forks**: 387 **Stars**: 1629 **Issues**: 34 \
+**Watchers**: 91 **Forks**: 387 **Stars**: 1628 **Issues**: 34 \
 **Last commit**: 2023-12-06 (14 days ago) \
 **Created at**: 2015-05-03 \
 **License**: MIT License
@@ -116,8 +116,8 @@ Last commit..
 <summary>⚪ 68 [orbitalquark/textadept](https://github.com/orbitalquark/textadept) – Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.</summary>
 
 **Topics**: `cross-platform`, `curses`, `editor`, `gtk`, `lua`, `qt`, `scintilla`, `terminal`, `text-editor`, `textadept` \
-**Watchers**: 23 **Forks**: 33 **Stars**: 503 **Issues**: 19 \
-**Last commit**: 2023-12-19 (1 days ago) \
+**Watchers**: 23 **Forks**: 34 **Stars**: 504 **Issues**: 19 \
+**Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2020-09-10 \
 **License**: MIT License
 
@@ -138,8 +138,8 @@ Last commit..
 <summary>⚪ 64 [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) – a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes</summary>
 
 **Topics**: `c`, `freifunk`, `gluon`, `hacktoberfest`, `lua`, `mesh-networks`, `openwrt` \
-**Watchers**: 63 **Forks**: 325 **Stars**: 518 **Issues**: 149 \
-**Last commit**: 2023-12-20 (0 days ago) \
+**Watchers**: 63 **Forks**: 325 **Stars**: 518 **Issues**: 151 \
+**Last commit**: 2023-12-21 (0 days ago) \
 **Created at**: 2013-02-11 \
 **License**: Other
 
@@ -182,7 +182,7 @@ Last commit..
 <summary>⚪ 58 [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) – A Lua implementation at attempting to bring local network multiplayer to BeamNG.drive</summary>
 
 **Topics**: none \
-**Watchers**: 15 **Forks**: 69 **Stars**: 273 **Issues**: 54 \
+**Watchers**: 15 **Forks**: 69 **Stars**: 273 **Issues**: 57 \
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2019-05-15 \
 **License**: Other
@@ -193,8 +193,8 @@ Last commit..
 <summary>⚪ 58 [LandSandBoat/server](https://github.com/LandSandBoat/server) – :sailboat: LandSandBoat - a server emulator for Final Fantasy XI. Just an X-34 landspeeder out for a drive.</summary>
 
 **Topics**: `c-plus-plus`, `emulator`, `ffxi`, `final-fantasy`, `final-fantasy-xi`, `landsandboat`, `lua`, `mmorpg`, `mmorpg-server`, `server-emulator` \
-**Watchers**: 21 **Forks**: 433 **Stars**: 219 **Issues**: 597 \
-**Last commit**: 2023-12-20 (0 days ago) \
+**Watchers**: 21 **Forks**: 433 **Stars**: 219 **Issues**: 599 \
+**Last commit**: 2023-12-21 (0 days ago) \
 **Created at**: 2021-04-01 \
 **License**: GNU General Public License v3.0
 
@@ -380,7 +380,7 @@ Last commit..
 <summary>🔴 52 [kiccer/Soldier76](https://github.com/kiccer/Soldier76) – PUBG - 罗技鼠标宏 | 兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro | Support 12 kinds of guns without recoil!]</summary>
 
 **Topics**: `logitech`, `lua`, `macro`, `no-recoil`, `pubg`, `soldier76` \
-**Watchers**: 26 **Forks**: 337 **Stars**: 1380 **Issues**: 2 \
+**Watchers**: 26 **Forks**: 337 **Stars**: 1381 **Issues**: 2 \
 **Last commit**: 2023-03-08 (288 days ago) \
 **Created at**: 2019-03-07 \
 **License**: GNU General Public License v3.0
@@ -424,7 +424,7 @@ Last commit..
 <summary>⚪ 51 [kepler155c/opus](https://github.com/kepler155c/opus) – ComputerCraft OS</summary>
 
 **Topics**: `computercraft`, `lua`, `minecraft` \
-**Watchers**: 7 **Forks**: 40 **Stars**: 136 **Issues**: 9 \
+**Watchers**: 7 **Forks**: 40 **Stars**: 137 **Issues**: 9 \
 **Last commit**: 2023-12-17 (3 days ago) \
 **Created at**: 2016-12-11 \
 **License**: MIT License
@@ -439,6 +439,17 @@ Last commit..
 **Last commit**: 2020-10-17 (1159 days ago) \
 **Created at**: 2020-07-04 \
 **License**: Other
+
+</details>
+
+<details>
+<summary>⚪ 50 [koreader/koreader-base](https://github.com/koreader/koreader-base) – Base framework offering a Lua scriptable environment for creating document readers</summary>
+
+**Topics**: `djvu`, `emulator`, `epub`, `ffi`, `koreader`, `leptonica`, `lua`, `luajit`, `mupdf`, `pdf`, `sdl`, `tesseract`, `ubuntu` \
+**Watchers**: 25 **Forks**: 95 **Stars**: 110 **Issues**: 14 \
+**Last commit**: 2023-12-20 (0 days ago) \
+**Created at**: 2013-03-24 \
+**License**: GNU Affero General Public License v3.0
 
 </details>
 
@@ -505,17 +516,6 @@ Last commit..
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2019-05-16 \
 **License**: Other
-
-</details>
-
-<details>
-<summary>⚪ 49 [koreader/koreader-base](https://github.com/koreader/koreader-base) – Base framework offering a Lua scriptable environment for creating document readers</summary>
-
-**Topics**: `djvu`, `emulator`, `epub`, `ffi`, `koreader`, `leptonica`, `lua`, `luajit`, `mupdf`, `pdf`, `sdl`, `tesseract`, `ubuntu` \
-**Watchers**: 25 **Forks**: 95 **Stars**: 110 **Issues**: 13 \
-**Last commit**: 2023-12-17 (3 days ago) \
-**Created at**: 2013-03-24 \
-**License**: GNU Affero General Public License v3.0
 
 </details>
 
@@ -611,7 +611,7 @@ Last commit..
 <summary>🟢 46 [iNavFlight/OpenTX-Telemetry-Widget](https://github.com/iNavFlight/OpenTX-Telemetry-Widget) – INAV Lua Telemetry with support for EdgeTX</summary>
 
 **Topics**: `hacktoberfest` \
-**Watchers**: 11 **Forks**: 23 **Stars**: 126 **Issues**: 5 \
+**Watchers**: 11 **Forks**: 23 **Stars**: 127 **Issues**: 5 \
 **Last commit**: 2023-11-30 (20 days ago) \
 **Created at**: 2021-02-23 \
 **License**: GNU General Public License v3.0
@@ -666,7 +666,7 @@ Last commit..
 <summary>🟠 45 [kikito/bump.lua](https://github.com/kikito/bump.lua) – A collision detection library for Lua</summary>
 
 **Topics**: none \
-**Watchers**: 33 **Forks**: 89 **Stars**: 864 **Issues**: 12 \
+**Watchers**: 33 **Forks**: 89 **Stars**: 865 **Issues**: 12 \
 **Last commit**: 2023-09-29 (82 days ago) \
 **Created at**: 2012-05-27 \
 **License**: MIT License
@@ -685,17 +685,6 @@ Last commit..
 </details>
 
 <details>
-<summary>🟢 44 [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) – ...</summary>
-
-**Topics**: `dotfiles`, `lua`, `neovim` \
-**Watchers**: 2 **Forks**: 11 **Stars**: 118 **Issues**: 0 \
-**Last commit**: 2023-11-29 (21 days ago) \
-**Created at**: 2018-02-22 \
-**License**: none
-
-</details>
-
-<details>
 <summary>⚫ 44 [cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection) – Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)</summary>
 
 **Topics**: `cnn`, `deep-learning`, `lane-detection`, `lua`, `pytorch`, `tensorflow` \
@@ -703,6 +692,17 @@ Last commit..
 **Last commit**: 2022-06-21 (547 days ago) \
 **Created at**: 2018-10-12 \
 **License**: MIT License
+
+</details>
+
+<details>
+<summary>🟢 44 [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) – ...</summary>
+
+**Topics**: `dotfiles`, `lua`, `neovim` \
+**Watchers**: 2 **Forks**: 11 **Stars**: 118 **Issues**: 0 \
+**Last commit**: 2023-11-29 (22 days ago) \
+**Created at**: 2018-02-22 \
+**License**: none
 
 </details>
 
@@ -817,11 +817,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟠 37 [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) – Workflow Enhancements for Creatives</summary>
+<summary>🟠 36 [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) – Workflow Enhancements for Creatives</summary>
 
 **Topics**: `finalcutpro`, `hammerspoon`, `lua`, `macos`, `video-editing` \
 **Watchers**: 12 **Forks**: 38 **Stars**: 359 **Issues**: 431 \
-**Last commit**: 2023-10-09 (72 days ago) \
+**Last commit**: 2023-10-09 (73 days ago) \
 **Created at**: 2016-11-24 \
 **License**: MIT License
 
@@ -875,7 +875,7 @@ Last commit..
 <summary>🔴 32 [bakpakin/tiny-ecs](https://github.com/bakpakin/tiny-ecs) – ECS for Lua </summary>
 
 **Topics**: `entity-component`, `entity-component-system`, `love2d`, `lua` \
-**Watchers**: 31 **Forks**: 60 **Stars**: 604 **Issues**: 4 \
+**Watchers**: 31 **Forks**: 60 **Stars**: 603 **Issues**: 4 \
 **Last commit**: 2023-03-15 (281 days ago) \
 **Created at**: 2015-03-21 \
 **License**: MIT License
@@ -886,7 +886,7 @@ Last commit..
 <summary>🟤 32 [vsergeev/luaradio](https://github.com/vsergeev/luaradio) – A lightweight, embeddable software-defined radio framework built on LuaJIT</summary>
 
 **Topics**: `lua`, `luajit`, `luaradio`, `radio`, `sdr` \
-**Watchers**: 35 **Forks**: 66 **Stars**: 586 **Issues**: 11 \
+**Watchers**: 35 **Forks**: 66 **Stars**: 587 **Issues**: 11 \
 **Last commit**: 2023-07-13 (160 days ago) \
 **Created at**: 2016-01-30 \
 **License**: Other
@@ -975,7 +975,7 @@ Last commit..
 
 **Topics**: `api-gateway`, `apigateway`, `apioak`, `apis`, `cloud-native`, `dynamic-upstream`, `gateway`, `gateway-api`, `gateway-microservice`, `lua`, `luajit`, `microservice`, `nginx`, `nginx-proxy`, `openresty`, `serverless`, `service-mesh` \
 **Watchers**: 19 **Forks**: 58 **Stars**: 407 **Issues**: 2 \
-**Last commit**: 2023-04-07 (257 days ago) \
+**Last commit**: 2023-04-07 (258 days ago) \
 **Created at**: 2019-10-28 \
 **License**: Apache License 2.0
 
@@ -1041,7 +1041,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 27 **Forks**: 77 **Stars**: 377 **Issues**: 27 \
-**Last commit**: 2022-03-11 (649 days ago) \
+**Last commit**: 2022-03-11 (650 days ago) \
 **Created at**: 2013-01-26 \
 **License**: none
 
@@ -1096,7 +1096,7 @@ Last commit..
 
 **Topics**: `lua`, `neovim` \
 **Watchers**: 6 **Forks**: 14 **Stars**: 286 **Issues**: 6 \
-**Last commit**: 2023-08-22 (120 days ago) \
+**Last commit**: 2023-08-22 (121 days ago) \
 **Created at**: 2020-05-03 \
 **License**: MIT License
 
@@ -1459,7 +1459,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 36 **Forks**: 140 **Stars**: 204 **Issues**: 7 \
-**Last commit**: 2020-07-30 (1238 days ago) \
+**Last commit**: 2020-07-30 (1239 days ago) \
 **Created at**: 2017-06-21 \
 **License**: none
 
@@ -1697,23 +1697,23 @@ Last commit..
 </details>
 
 <details>
+<summary>⚫ 17 [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) – An extended Lua macro preprocessor</summary>
+
+**Topics**: none \
+**Watchers**: 14 **Forks**: 25 **Stars**: 143 **Issues**: 5 \
+**Last commit**: 2022-11-16 (399 days ago) \
+**Created at**: 2011-05-01 \
+**License**: none
+
+</details>
+
+<details>
 <summary>⚫ 17 [igrigorik/tokyo-recipes](https://github.com/igrigorik/tokyo-recipes) – Lean & mean Tokyo Cabinet recipes (with Lua)</summary>
 
 **Topics**: none \
 **Watchers**: 5 **Forks**: 13 **Stars**: 144 **Issues**: 0 \
 **Last commit**: 2010-08-14 (4876 days ago) \
 **Created at**: 2009-07-08 \
-**License**: none
-
-</details>
-
-<details>
-<summary>⚫ 17 [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) – An extended Lua macro preprocessor</summary>
-
-**Topics**: none \
-**Watchers**: 14 **Forks**: 25 **Stars**: 142 **Issues**: 5 \
-**Last commit**: 2022-11-16 (399 days ago) \
-**Created at**: 2011-05-01 \
 **License**: none
 
 </details>
@@ -1756,7 +1756,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 15 **Stars**: 137 **Issues**: 4 \
-**Last commit**: 2021-02-11 (1042 days ago) \
+**Last commit**: 2021-02-11 (1043 days ago) \
 **Created at**: 2014-02-07 \
 **License**: Other
 
@@ -2185,7 +2185,7 @@ Last commit..
 
 **Topics**: `esoteric-language`, `livecoding`, `midi`, `monome`, `norns`, `programming-language` \
 **Watchers**: 7 **Forks**: 19 **Stars**: 82 **Issues**: 3 \
-**Last commit**: 2023-01-28 (326 days ago) \
+**Last commit**: 2023-01-28 (327 days ago) \
 **Created at**: 2019-05-03 \
 **License**: none
 
@@ -2207,7 +2207,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 22 **Stars**: 86 **Issues**: 0 \
-**Last commit**: 2021-01-12 (1072 days ago) \
+**Last commit**: 2021-01-12 (1073 days ago) \
 **Created at**: 2015-12-04 \
 **License**: MIT License
 

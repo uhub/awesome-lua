@@ -50,7 +50,7 @@ Last commit..
 <summary>🟡 63 [rxi/lume](https://github.com/rxi/lume) – Lua functions geared towards gamedev</summary>
 
 **Topics**: none \
-**Watchers**: 29 **Forks**: 79 **Stars**: 885 **Issues**: 19 \
+**Watchers**: 29 **Forks**: 79 **Stars**: 886 **Issues**: 19 \
 **Last commit**: 2023-11-19 (31 days ago) \
 **Created at**: 2014-02-27 \
 **License**: MIT License
@@ -61,7 +61,7 @@ Last commit..
 <summary>🟠 57 [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) – A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.</summary>
 
 **Topics**: `lua`, `lua-library`, `lua-modules`, `luajit`, `luarocks`, `penlight` \
-**Watchers**: 65 **Forks**: 238 **Stars**: 1762 **Issues**: 32 \
+**Watchers**: 65 **Forks**: 238 **Stars**: 1761 **Issues**: 32 \
 **Last commit**: 2023-09-21 (90 days ago) \
 **Created at**: 2010-03-09 \
 **License**: MIT License
@@ -72,8 +72,8 @@ Last commit..
 <summary>⚫ 31 [Yonaba/Moses](https://github.com/Yonaba/Moses) – Utility library for functional programming  in Lua</summary>
 
 **Topics**: `array`, `collection`, `functional`, `functional-programming`, `lua`, `object`, `table`, `underscore` \
-**Watchers**: 30 **Forks**: 106 **Stars**: 607 **Issues**: 6 \
-**Last commit**: 2019-12-18 (1463 days ago) \
+**Watchers**: 30 **Forks**: 106 **Stars**: 606 **Issues**: 6 \
+**Last commit**: 2019-12-18 (1464 days ago) \
 **Created at**: 2012-07-24 \
 **License**: MIT License
 
@@ -171,7 +171,7 @@ Last commit..
 <summary>⚫ 18 [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) – A little library of useful Lua functions, intended as the 'light' version of Penlight</summary>
 
 **Topics**: none \
-**Watchers**: 10 **Forks**: 18 **Stars**: 161 **Issues**: 11 \
+**Watchers**: 10 **Forks**: 18 **Stars**: 162 **Issues**: 11 \
 **Last commit**: 2022-07-05 (533 days ago) \
 **Created at**: 2012-02-17 \
 **License**: none
@@ -238,7 +238,7 @@ Last commit..
 
 **Topics**: `intersection`, `lua`, `math` \
 **Watchers**: 7 **Forks**: 12 **Stars**: 80 **Issues**: 2 \
-**Last commit**: 2023-04-21 (243 days ago) \
+**Last commit**: 2023-04-21 (244 days ago) \
 **Created at**: 2014-01-28 \
 **License**: zlib License
 
@@ -293,7 +293,7 @@ Last commit..
 
 **Topics**: `lua`, `lua-library`, `string-manipulation` \
 **Watchers**: 5 **Forks**: 11 **Stars**: 63 **Issues**: 5 \
-**Last commit**: 2022-05-19 (580 days ago) \
+**Last commit**: 2022-05-19 (581 days ago) \
 **Created at**: 2011-04-26 \
 **License**: zlib License
 
@@ -315,7 +315,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 11 **Forks**: 15 **Stars**: 127 **Issues**: 0 \
-**Last commit**: 2014-03-10 (3572 days ago) \
+**Last commit**: 2014-03-10 (3573 days ago) \
 **Created at**: 2012-10-01 \
 **License**: MIT License
 
@@ -420,7 +420,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 41 **Forks**: 369 **Stars**: 1656 **Issues**: 23 \
-**Last commit**: 2023-11-28 (22 days ago) \
+**Last commit**: 2023-11-28 (23 days ago) \
 **Created at**: 2015-08-12 \
 **License**: MIT License
 
@@ -631,7 +631,7 @@ Last commit..
 <summary>🔴 50 [kikito/middleclass](https://github.com/kikito/middleclass) – Object-orientation for Lua</summary>
 
 **Topics**: none \
-**Watchers**: 89 **Forks**: 193 **Stars**: 1673 **Issues**: 6 \
+**Watchers**: 89 **Forks**: 193 **Stars**: 1672 **Issues**: 6 \
 **Last commit**: 2023-03-05 (290 days ago) \
 **Created at**: 2010-04-21 \
 **License**: MIT License
@@ -642,7 +642,7 @@ Last commit..
 <summary>⚫ 35 [rxi/classic](https://github.com/rxi/classic) – Tiny class module for Lua</summary>
 
 **Topics**: none \
-**Watchers**: 22 **Forks**: 91 **Stars**: 756 **Issues**: 15 \
+**Watchers**: 22 **Forks**: 91 **Stars**: 757 **Issues**: 15 \
 **Last commit**: 2021-12-31 (719 days ago) \
 **Created at**: 2014-02-26 \
 **License**: MIT License
@@ -653,7 +653,7 @@ Last commit..
 <summary>⚫ 26 [Yonaba/30log](https://github.com/Yonaba/30log) – 30 lines library for object orientation in Lua</summary>
 
 **Topics**: `lua`, `object-oriented`, `oop-library` \
-**Watchers**: 37 **Forks**: 51 **Stars**: 415 **Issues**: 9 \
+**Watchers**: 37 **Forks**: 51 **Stars**: 414 **Issues**: 9 \
 **Last commit**: 2021-05-08 (957 days ago) \
 **Created at**: 2012-08-24 \
 **License**: Other

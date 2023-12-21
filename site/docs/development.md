@@ -39,7 +39,7 @@ Last commit..
 <summary>⚪ 100 [luarocks/luarocks](https://github.com/luarocks/luarocks) – LuaRocks is the package manager for the Lua programming language.</summary>
 
 **Topics**: `lua`, `lua-modules`, `luajit`, `luarocks`, `package-management`, `package-manager` \
-**Watchers**: 101 **Forks**: 427 **Stars**: 2964 **Issues**: 257 \
+**Watchers**: 101 **Forks**: 427 **Stars**: 2963 **Issues**: 257 \
 **Last commit**: 2023-12-13 (7 days ago) \
 **Created at**: 2010-03-20 \
 **License**: MIT License
@@ -50,8 +50,8 @@ Last commit..
 <summary>🟢 99 [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) – A language server that offers Lua language support - programmed in Lua</summary>
 
 **Topics**: `hacktoberfest`, `language-server`, `lpeg`, `lpeglabel`, `lsp`, `lsp-server`, `lua` \
-**Watchers**: 31 **Forks**: 234 **Stars**: 2741 **Issues**: 342 \
-**Last commit**: 2023-12-11 (9 days ago) \
+**Watchers**: 31 **Forks**: 234 **Stars**: 2740 **Issues**: 342 \
+**Last commit**: 2023-12-11 (10 days ago) \
 **Created at**: 2018-09-07 \
 **License**: MIT License
 
@@ -61,8 +61,8 @@ Last commit..
 <summary>🟢 99 [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) – A language server that offers Lua language support - programmed in Lua</summary>
 
 **Topics**: `hacktoberfest`, `language-server`, `lpeg`, `lpeglabel`, `lsp`, `lsp-server`, `lua` \
-**Watchers**: 31 **Forks**: 234 **Stars**: 2741 **Issues**: 342 \
-**Last commit**: 2023-12-11 (9 days ago) \
+**Watchers**: 31 **Forks**: 234 **Stars**: 2740 **Issues**: 342 \
+**Last commit**: 2023-12-11 (10 days ago) \
 **Created at**: 2018-09-07 \
 **License**: MIT License
 
@@ -73,7 +73,7 @@ Last commit..
 
 **Topics**: `debugger`, `editor`, `ide`, `lua`, `lua-engines`, `syntax-highlighting`, `wxwidgets-applications`, `zerobrane`, `zerobrane-studio` \
 **Watchers**: 151 **Forks**: 523 **Stars**: 2532 **Issues**: 89 \
-**Last commit**: 2023-11-28 (22 days ago) \
+**Last commit**: 2023-11-28 (23 days ago) \
 **Created at**: 2011-12-05 \
 **License**: Other
 
@@ -94,7 +94,7 @@ Last commit..
 <summary>🟡 41 [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) – Release lua-language-server for VSCode</summary>
 
 **Topics**: `lua`, `lua-language-server`, `vscode-extension` \
-**Watchers**: 7 **Forks**: 43 **Stars**: 151 **Issues**: 6 \
+**Watchers**: 7 **Forks**: 44 **Stars**: 151 **Issues**: 6 \
 **Last commit**: 2023-11-14 (36 days ago) \
 **Created at**: 2019-11-22 \
 **License**: MIT License
@@ -105,7 +105,7 @@ Last commit..
 <summary>🟡 41 [sumneko/vscode-lua](https://github.com/sumneko/vscode-lua) – Release lua-language-server for VSCode</summary>
 
 **Topics**: `lua`, `lua-language-server`, `vscode-extension` \
-**Watchers**: 7 **Forks**: 43 **Stars**: 151 **Issues**: 6 \
+**Watchers**: 7 **Forks**: 44 **Stars**: 151 **Issues**: 6 \
 **Last commit**: 2023-11-14 (36 days ago) \
 **Created at**: 2019-11-22 \
 **License**: MIT License
@@ -113,11 +113,11 @@ Last commit..
 </details>
 
 <details>
-<summary>🟤 37 [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) – Lua IDE/Debugger Plugin for VSCode</summary>
+<summary>🟤 36 [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) – Lua IDE/Debugger Plugin for VSCode</summary>
 
 **Topics**: `emmylua` \
 **Watchers**: 26 **Forks**: 77 **Stars**: 583 **Issues**: 32 \
-**Last commit**: 2023-09-18 (93 days ago) \
+**Last commit**: 2023-09-18 (94 days ago) \
 **Created at**: 2018-03-22 \
 **License**: none
 
@@ -197,7 +197,7 @@ Last commit..
 
 **Topics**: `debug`, `debugger`, `lua` \
 **Watchers**: 20 **Forks**: 83 **Stars**: 395 **Issues**: 38 \
-**Last commit**: 2023-11-10 (40 days ago) \
+**Last commit**: 2023-11-10 (41 days ago) \
 **Created at**: 2016-09-21 \
 **License**: MIT License
 
@@ -356,7 +356,7 @@ Last commit..
 <summary>⚪ 64 [bluebird75/luaunit](https://github.com/bluebird75/luaunit) – LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be used directly or work with Continuous Integration platforms (Jenkins, Maven, ...).</summary>
 
 **Topics**: `assertions`, `jenkins`, `lua`, `luaunit`, `maven`, `unit-testing` \
-**Watchers**: 19 **Forks**: 136 **Stars**: 536 **Issues**: 14 \
+**Watchers**: 19 **Forks**: 136 **Stars**: 535 **Issues**: 14 \
 **Last commit**: 2023-12-17 (3 days ago) \
 **Created at**: 2012-07-26 \
 **License**: Other
@@ -415,7 +415,7 @@ Last commit..
 
 **Topics**: `lua`, `lua51`, `luajit`, `luau`, `minification`, `obfuscation`, `obfuscator` \
 **Watchers**: 10 **Forks**: 54 **Stars**: 160 **Issues**: 21 \
-**Last commit**: 2023-12-20 (0 days ago) \
+**Last commit**: 2023-12-20 (1 days ago) \
 **Created at**: 2021-12-27 \
 **License**: GNU Affero General Public License v3.0
 
@@ -426,7 +426,7 @@ Last commit..
 
 **Topics**: `lua`, `lua51`, `luajit`, `luau`, `minification`, `obfuscation`, `obfuscator` \
 **Watchers**: 10 **Forks**: 54 **Stars**: 160 **Issues**: 21 \
-**Last commit**: 2023-12-20 (0 days ago) \
+**Last commit**: 2023-12-20 (1 days ago) \
 **Created at**: 2021-12-27 \
 **License**: GNU Affero General Public License v3.0
 
@@ -447,8 +447,8 @@ Last commit..
 <summary>🔴 34 [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) – LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty-printed example files.</summary>
 
 **Topics**: `code-documentation`, `documentation`, `documentation-tool`, `ldoc`, `lua`, `luadoc`, `penlight` \
-**Watchers**: 31 **Forks**: 175 **Stars**: 721 **Issues**: 96 \
-**Last commit**: 2023-05-13 (221 days ago) \
+**Watchers**: 31 **Forks**: 175 **Stars**: 720 **Issues**: 96 \
+**Last commit**: 2023-05-13 (222 days ago) \
 **Created at**: 2011-04-12 \
 **License**: Other
 
@@ -503,7 +503,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 15 **Forks**: 14 **Stars**: 164 **Issues**: 11 \
-**Last commit**: 2016-04-22 (2798 days ago) \
+**Last commit**: 2016-04-22 (2799 days ago) \
 **Created at**: 2010-07-23 \
 **License**: Other
 
@@ -549,7 +549,7 @@ Last commit..
 <summary>⚪ 140 [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua</summary>
 
 **Topics**: `build`, `build-tool`, `c`, `c-plus-plus`, `cmake`, `cross-toolchains`, `linux`, `lua`, `makefile`, `objective-c`, `package-manager`, `tbox`, `visual-studio`, `wdk`, `xmake` \
-**Watchers**: 135 **Forks**: 681 **Stars**: 8209 **Issues**: 111 \
+**Watchers**: 135 **Forks**: 680 **Stars**: 8208 **Issues**: 111 \
 **Last commit**: 2023-12-20 (0 days ago) \
 **Created at**: 2015-04-23 \
 **License**: Apache License 2.0
@@ -560,7 +560,7 @@ Last commit..
 <summary>🟡 52 [ers35/luastatic](https://github.com/ers35/luastatic) – Build a standalone executable from a Lua program.</summary>
 
 **Topics**: `lua` \
-**Watchers**: 22 **Forks**: 43 **Stars**: 725 **Issues**: 10 \
+**Watchers**: 22 **Forks**: 43 **Stars**: 724 **Issues**: 10 \
 **Last commit**: 2023-10-28 (53 days ago) \
 **Created at**: 2015-10-24 \
 **License**: Creative Commons Zero v1.0 Universal
@@ -607,7 +607,7 @@ Last commit..
 <summary>🟤 44 [kikito/inspect.lua](https://github.com/kikito/inspect.lua) – Human-readable representation of Lua tables</summary>
 
 **Topics**: `human-readable`, `lua`, `tables` \
-**Watchers**: 48 **Forks**: 199 **Stars**: 1248 **Issues**: 9 \
+**Watchers**: 48 **Forks**: 200 **Stars**: 1248 **Issues**: 9 \
 **Last commit**: 2023-09-01 (110 days ago) \
 **Created at**: 2011-04-20 \
 **License**: MIT License
@@ -630,7 +630,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 14 **Forks**: 80 **Stars**: 185 **Issues**: 2 \
-**Last commit**: 2020-03-09 (1381 days ago) \
+**Last commit**: 2020-03-09 (1382 days ago) \
 **Created at**: 2016-01-25 \
 **License**: MIT License
 
@@ -687,7 +687,7 @@ Last commit..
 <summary>🟡 90 [leafo/moonscript](https://github.com/leafo/moonscript) – :crescent_moon: A language that compiles to Lua</summary>
 
 **Topics**: `language`, `lua`, `moonscript`, `parsing-expression-grammar`, `transpiler` \
-**Watchers**: 91 **Forks**: 192 **Stars**: 3066 **Issues**: 183 \
+**Watchers**: 91 **Forks**: 192 **Stars**: 3065 **Issues**: 183 \
 **Last commit**: 2023-11-06 (44 days ago) \
 **Created at**: 2011-05-23 \
 **License**: none
@@ -698,7 +698,7 @@ Last commit..
 <summary>🟡 81 [edubart/nelua-lang](https://github.com/edubart/nelua-lang) – Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.</summary>
 
 **Topics**: `c`, `compiler`, `efficient`, `language`, `lua`, `luajit`, `metaprogramming`, `minimal`, `nelua`, `programming-language`, `statically-typed` \
-**Watchers**: 45 **Forks**: 56 **Stars**: 1722 **Issues**: 6 \
+**Watchers**: 45 **Forks**: 57 **Stars**: 1721 **Issues**: 6 \
 **Last commit**: 2023-11-19 (31 days ago) \
 **Created at**: 2017-10-28 \
 **License**: MIT License
@@ -709,7 +709,7 @@ Last commit..
 <summary>🟢 43 [teal-language/teal-types](https://github.com/teal-language/teal-types) – Teal type definitions of Lua libraries!</summary>
 
 **Topics**: none \
-**Watchers**: 9 **Forks**: 23 **Stars**: 94 **Issues**: 4 \
+**Watchers**: 9 **Forks**: 24 **Stars**: 94 **Issues**: 4 \
 **Last commit**: 2023-11-29 (21 days ago) \
 **Created at**: 2020-04-04 \
 **License**: MIT License
@@ -721,7 +721,7 @@ Last commit..
 
 **Topics**: `decompiler`, `lua`, `lua-decompiler` \
 **Watchers**: 48 **Forks**: 328 **Stars**: 1039 **Issues**: 59 \
-**Last commit**: 2021-06-11 (922 days ago) \
+**Last commit**: 2021-06-11 (923 days ago) \
 **Created at**: 2014-07-28 \
 **License**: none
 

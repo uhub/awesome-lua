@@ -77,7 +77,7 @@ Last commit..
 <summary>🔴 31 [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) – SQLite LuaJIT binding with a very simple api.</summary>
 
 **Topics**: `database`, `luajit`, `luarocks`, `neovim`, `sqlite` \
-**Watchers**: 6 **Forks**: 24 **Stars**: 416 **Issues**: 15 \
+**Watchers**: 6 **Forks**: 24 **Stars**: 417 **Issues**: 15 \
 **Last commit**: 2023-05-08 (226 days ago) \
 **Created at**: 2020-12-29 \
 **License**: MIT License
@@ -102,8 +102,8 @@ Last commit..
 <summary>⚪ 107 [tarantool/tarantool](https://github.com/tarantool/tarantool) – Get your data in RAM. Get compute close to data. Enjoy the performance.</summary>
 
 **Topics**: `appserver`, `database`, `disk`, `in-memory`, `lua`, `msgpack`, `tarantool`, `transactions` \
-**Watchers**: 156 **Forks**: 369 **Stars**: 3271 **Issues**: 1284 \
-**Last commit**: 2023-12-20 (0 days ago) \
+**Watchers**: 156 **Forks**: 369 **Stars**: 3272 **Issues**: 1288 \
+**Last commit**: 2023-12-21 (0 days ago) \
 **Created at**: 2010-09-15 \
 **License**: Other
 

@@ -7,7 +7,7 @@ do
 	package.path = string.format("%s;%s;%s", package.path, lrpa .. "/?.lua", lrpa .. "/?/init.lua")
 end
 
--- local line = "* [MiaadTeam/lesvim](https://github.com/MiaadTeam/lesvim) - Nvim config focus on Javascript, Typescript, Rust and Lua - 🚀 💪 ( Fast and Powerfull ) - Deno and other typescript LSP working well together"
+-- local line = ""
 -- local repo_url, description = line:match("%* %[.-%]%((https://github%.com/.-)%) %- (.+)$")
 -- print(repo_url)
 -- if 1 then return end
@@ -101,6 +101,7 @@ local function github_request(token, endpoint)
 		end
 	end
 
+	-- local url = "https://api.github.com" .. endpoint
 	local url = "https://awesome-lua.amd.workers.dev" .. endpoint
 	local body, code, headers = request("GET", url, nil, {
 		["User-Agent"] = "Mozilla/5.0 (compatible; Lua; Windows NT)",
@@ -115,7 +116,8 @@ local function github_request(token, endpoint)
 	end
 
 	local response = json.decode(body)
-	return response, {
+	local limit_headers_exists = headers["x-ratelimit-limit"] -- not exists for cached responses
+	return response, limit_headers_exists and {
 		rate_limit_limit = tonumber(headers["x-ratelimit-limit"]),
 		rate_limit_reset = tonumber(headers["x-ratelimit-reset"]),
 		rate_limit_used  = tonumber(headers["x-ratelimit-used"]),
@@ -405,6 +407,7 @@ local function parse_date(str) -- 2023-11-30T12:02:18Z to timestamp
 end
 
 local function pick_extended_info(full_info)
+	-- print({full_info = full_info})
 	local last_commit = parse_date(full_info.pushed_at)
 
 	local extended_item_info = { --- @class ExtendedItemInfo
@@ -427,6 +430,7 @@ end
 --- @param item ParsedHeaderItem
 local function get_extended_item_info(item)
 	local info, rate_limits = get_repo_info(item.owner, item.repo)
+	-- print("owner_repo", item.owner .. "/" .. item.repo)
 	local extended_info = pick_extended_info(info)
 	-- item.info = filtered_info
 	return extended_info, rate_limits

@@ -41,7 +41,7 @@ Last commit..
 <summary>🟠 83 [luvit/luvit](https://github.com/luvit/luvit) – Lua + libUV + jIT = pure awesomesauce</summary>
 
 **Topics**: `hacktoberfest`, `libuv`, `lua`, `luajit`, `luvit` \
-**Watchers**: 172 **Forks**: 387 **Stars**: 3720 **Issues**: 86 \
+**Watchers**: 172 **Forks**: 387 **Stars**: 3719 **Issues**: 86 \
 **Last commit**: 2023-09-30 (81 days ago) \
 **Created at**: 2011-09-10 \
 **License**: Apache License 2.0
@@ -86,7 +86,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 12 **Forks**: 27 **Stars**: 257 **Issues**: 13 \
-**Last commit**: 2013-09-20 (3743 days ago) \
+**Last commit**: 2013-09-20 (3744 days ago) \
 **Created at**: 2011-05-21 \
 **License**: none
 
@@ -198,7 +198,7 @@ Last commit..
 <summary>🟤 35 [daurnimator/lua-http](https://github.com/daurnimator/lua-http) – HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.</summary>
 
 **Topics**: `cqueues`, `http`, `http2`, `lua`, `network` \
-**Watchers**: 37 **Forks**: 81 **Stars**: 740 **Issues**: 55 \
+**Watchers**: 37 **Forks**: 81 **Stars**: 739 **Issues**: 55 \
 **Last commit**: 2023-08-28 (114 days ago) \
 **Created at**: 2015-01-29 \
 **License**: MIT License
@@ -425,7 +425,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 13 **Forks**: 8 **Stars**: 72 **Issues**: 7 \
-**Last commit**: 2020-01-02 (1448 days ago) \
+**Last commit**: 2020-01-02 (1449 days ago) \
 **Created at**: 2011-05-03 \
 **License**: none
 
@@ -449,8 +449,8 @@ Last commit..
 <summary>🟢 84 [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) – On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.</summary>
 
 **Topics**: `letsencrypt`, `lua`, `nginx`, `openresty`, `ssl`, `ssl-certificate` \
-**Watchers**: 45 **Forks**: 180 **Stars**: 1902 **Issues**: 118 \
-**Last commit**: 2023-11-23 (27 days ago) \
+**Watchers**: 45 **Forks**: 181 **Stars**: 1902 **Issues**: 118 \
+**Last commit**: 2023-11-23 (28 days ago) \
 **Created at**: 2016-01-25 \
 **License**: MIT License
 
@@ -471,7 +471,7 @@ Last commit..
 <summary>🔴 76 [loveshell/ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) – ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙</summary>
 
 **Topics**: none \
-**Watchers**: 237 **Forks**: 1458 **Stars**: 3835 **Issues**: 83 \
+**Watchers**: 237 **Forks**: 1458 **Stars**: 3836 **Issues**: 83 \
 **Last commit**: 2022-12-23 (362 days ago) \
 **Created at**: 2013-03-23 \
 **License**: none
@@ -504,7 +504,7 @@ Last commit..
 <summary>🔴 67 [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) – CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.</summary>
 
 **Topics**: `cdn`, `docker-compose`, `grafana`, `load-balancer`, `lua`, `luajit`, `nginx`, `openresty`, `prometheus`, `sre`, `tutorial`, `wrk` \
-**Watchers**: 33 **Forks**: 164 **Stars**: 2778 **Issues**: 3 \
+**Watchers**: 33 **Forks**: 164 **Stars**: 2779 **Issues**: 3 \
 **Last commit**: 2023-03-21 (275 days ago) \
 **Created at**: 2021-12-23 \
 **License**: BSD 3-Clause "New" or "Revised" License
@@ -823,7 +823,7 @@ Last commit..
 <summary>🟤 24 [openresty/lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) – A generic consistent hash implementation for OpenResty/Lua</summary>
 
 **Topics**: none \
-**Watchers**: 26 **Forks**: 75 **Stars**: 313 **Issues**: 13 \
+**Watchers**: 26 **Forks**: 75 **Stars**: 312 **Issues**: 13 \
 **Last commit**: 2023-08-23 (120 days ago) \
 **Created at**: 2016-01-14 \
 **License**: none
@@ -890,7 +890,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 21 **Forks**: 101 **Stars**: 258 **Issues**: 9 \
-**Last commit**: 2022-05-26 (573 days ago) \
+**Last commit**: 2022-05-26 (574 days ago) \
 **Created at**: 2014-12-11 \
 **License**: MIT License
 
@@ -901,7 +901,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 50 **Forks**: 71 **Stars**: 240 **Issues**: 0 \
-**Last commit**: 2014-05-28 (3493 days ago) \
+**Last commit**: 2014-05-28 (3494 days ago) \
 **Created at**: 2012-02-09 \
 **License**: Apache License 2.0
 
@@ -923,7 +923,7 @@ Last commit..
 
 **Topics**: `apm`, `dapper`, `distributed-tracing`, `lua`, `nginx`, `observability`, `skywalking` \
 **Watchers**: 44 **Forks**: 66 **Stars**: 172 **Issues**: 0 \
-**Last commit**: 2022-12-22 (363 days ago) \
+**Last commit**: 2022-12-22 (364 days ago) \
 **Created at**: 2020-02-19 \
 **License**: Apache License 2.0
 
@@ -1000,7 +1000,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 26 **Forks**: 70 **Stars**: 177 **Issues**: 5 \
-**Last commit**: 2014-05-25 (3496 days ago) \
+**Last commit**: 2014-05-25 (3497 days ago) \
 **Created at**: 2014-05-22 \
 **License**: none
 
@@ -1176,7 +1176,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 32 **Stars**: 128 **Issues**: 1 \
-**Last commit**: 2019-09-25 (1547 days ago) \
+**Last commit**: 2019-09-25 (1548 days ago) \
 **Created at**: 2015-05-30 \
 **License**: none
 
@@ -1209,7 +1209,7 @@ Last commit..
 
 **Topics**: `cidr-format`, `ipv4`, `ipv6-address`, `lua`, `openresty`, `parse` \
 **Watchers**: 5 **Forks**: 40 **Stars**: 112 **Issues**: 5 \
-**Last commit**: 2023-06-19 (184 days ago) \
+**Last commit**: 2023-06-19 (185 days ago) \
 **Created at**: 2019-09-08 \
 **License**: Apache License 2.0
 
@@ -1253,7 +1253,7 @@ Last commit..
 
 **Topics**: `cassandra`, `lua`, `lua-resty`, `luajit`, `ngx-lua`, `openresty` \
 **Watchers**: 14 **Forks**: 36 **Stars**: 99 **Issues**: 12 \
-**Last commit**: 2022-09-20 (456 days ago) \
+**Last commit**: 2022-09-20 (457 days ago) \
 **Created at**: 2015-05-31 \
 **License**: Other
 
@@ -1363,7 +1363,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 25 **Forks**: 30 **Stars**: 86 **Issues**: 0 \
-**Last commit**: 2023-08-12 (130 days ago) \
+**Last commit**: 2023-08-12 (131 days ago) \
 **Created at**: 2016-10-26 \
 **License**: none
 
@@ -1407,7 +1407,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 10 **Forks**: 37 **Stars**: 83 **Issues**: 0 \
-**Last commit**: 2020-04-27 (1332 days ago) \
+**Last commit**: 2020-04-27 (1333 days ago) \
 **Created at**: 2016-03-16 \
 **License**: none
 
@@ -1528,7 +1528,7 @@ Last commit..
 
 **Topics**: `abtest`, `api-cc`, `lua`, `nginx`, `nginx-lua` \
 **Watchers**: 7 **Forks**: 36 **Stars**: 70 **Issues**: 0 \
-**Last commit**: 2017-10-31 (2241 days ago) \
+**Last commit**: 2017-10-31 (2242 days ago) \
 **Created at**: 2016-03-31 \
 **License**: MIT License
 
@@ -1616,7 +1616,7 @@ Last commit..
 
 **Topics**: none \
 **Watchers**: 42 **Forks**: 111 **Stars**: 496 **Issues**: 13 \
-**Last commit**: 2019-11-11 (1500 days ago) \
+**Last commit**: 2019-11-11 (1501 days ago) \
 **Created at**: 2016-08-18 \
 **License**: none
 
