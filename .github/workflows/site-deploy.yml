@@ -1,6 +1,9 @@
 name: Deploy to GitHub Pages
 
 on:
+  schedule:
+    - cron: "0 12 * * 1"
+
   push:
     branches:
       - master
@@ -20,6 +23,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: leafo/gh-actions-lua@v9
+      - uses: leafo/gh-actions-luarocks@v4
+      - run: luarocks install lua-cjson
+      - run: luarocks install copas
+      - run: luarocks install lua-requests-async
+      - run: lua ../init.lua ../README.md docs/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v3
         with:
           node-version: 18

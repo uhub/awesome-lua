@@ -1,12 +1,3 @@
--- @workspace напиши Lua код, который прочтет и спарсит файл README.md и выдаст результат в формате {{header_level = level, header_name = name, items = {{repo_url = url, description = description}, ...}}}
-
-do
-	local path = "/Users/amd/Documents/lua-tlib/lua"
-	local lrpa = "/Users/amd/.luarocks/share/lua/5.3"
-	package.path = string.format("%s;%s;%s", package.path, path .. "/?.lua", path .. "/?/init.lua")
-	package.path = string.format("%s;%s;%s", package.path, lrpa .. "/?.lua", lrpa .. "/?/init.lua")
-end
-
 -- local line = ""
 -- local repo_url, description = line:match("%* %[.-%]%((https://github%.com/.-)%) %- (.+)$")
 -- print(repo_url)
@@ -82,11 +73,11 @@ local function parseReadmeFile(filepath)
 	return headers
 end
 
-local GITHUB_TOKEN = ""
-local DEV = true
-local parsed_headers = parseReadmeFile("./README.md")
+local GITHUB_TOKEN = assert(os.getenv("GITHUB_TOKEN"), "GITHUB_TOKEN env is not set")
+local DEV = os.getenv("LUA_ENV") == "development"
+local parsed_headers = parseReadmeFile(arg[1] or "./README.md")
 
-local print = require("tlib").PRINT
+-- local print = require("tlib").PRINT
 local copas = require("copas")
 local request = require("http_v2").copas_request
 local json  = require("cjson")
@@ -116,8 +107,7 @@ local function github_request(token, endpoint)
 	end
 
 	local response = json.decode(body)
-	local limit_headers_exists = headers["x-ratelimit-limit"] -- not exists for cached responses
-	return response, limit_headers_exists and {
+	return response, headers and headers["x-ratelimit-limit"] and { -- not exists for cached responses
 		rate_limit_limit = tonumber(headers["x-ratelimit-limit"]),
 		rate_limit_reset = tonumber(headers["x-ratelimit-reset"]),
 		rate_limit_used  = tonumber(headers["x-ratelimit-used"]),
@@ -384,7 +374,7 @@ local function create_category_file(category_tree)
 	})
 
 	local slug = generate_slug(category_tree[1].header_name)
-	file_write("site/docs/" .. slug .. ".md", content)
+	file_write((arg[2] or "site/docs"):gsub("/$", "") .. "/" .. slug .. ".md", content)
 end
 
 --- @param category_tree ParsedHeaders
@@ -398,7 +388,7 @@ local function create_index_file(category_tree)
 		main_body      = create_body(category_tree, generate_list_item),
 	})
 
-	file_write("site/docs/index.md", content)
+	file_write((arg[2] or "site/docs"):gsub("/$", "") .. "/index.md", content)
 end
 
 local function parse_date(str) -- 2023-11-30T12:02:18Z to timestamp
@@ -443,7 +433,7 @@ local function extend_all_items_async(all_headers, callback)
 	local done = 0
 	for _, header in ipairs(all_headers) do
 		for _, item in ipairs(header.items) do
-			copas.pause(DEV and 0 or 0.05) -- prevents copas.lua:1510: bad argument #2 to 'select' (descriptor too large for set size)
+			copas.pause(0) -- prevents copas.lua:1510: bad argument #2 to 'select' (descriptor too large for set size)
 			copas.addthread(function()
 				local inf, limits = get_extended_item_info(item)
 				local limits_str = limits and string.format("Rate limits: %d/%d, reset in %d seconds",
