@@ -971,6 +971,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [deepmind/dqn](https://github.com/deepmind/dqn) - Lua/Torch implementation of DQN (Nature, 2015)
 * [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
 * [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
+* [f4z3r/sofa](https://github.com/f4z3r/sofa) - A command execution engine powered by rofi.
 * [huggingface/hfcc.nvim](https://github.com/huggingface/hfcc.nvim) - Hugging Face Code Completion for neovim
 * [huajiqaq/Hydrogen](https://github.com/huajiqaq/Hydrogen) - 一个由Lua编写的第三方知乎客户端
 * [deepmind/classic](https://github.com/deepmind/classic) - A class system for Lua.
