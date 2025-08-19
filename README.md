@@ -2,6 +2,8 @@
 
 A curated list of awesome Lua frameworks, libraries and software.
 
+*  [Barracuda App Server](https://github.com/RealTimeLogic/BAS) - A web and application server designed for embedded systems with a Lua framework called [LSP](https://realtimelogic.com/products/lua-server-pages/).
+*  [Xedge32](https://github.com/RealTimeLogic/Xedge32) - An IoT and Web development environment designed for the ESP32 microcontroller.
 * [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
