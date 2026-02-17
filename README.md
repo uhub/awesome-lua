@@ -1324,5 +1324,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [brimworks/lua-http-parser](https://github.com/brimworks/lua-http-parser) - Lua binding to Ryan Dahl's "http-parser".
 * [wubonetcn/luawaf](https://github.com/wubonetcn/luawaf) - A secure and privately deployable web application firewall(WAF).一个安全、可私有部署的Web应用防火墙(WAF)。
 * [Yonaba/Lua-Class-System](https://github.com/Yonaba/Lua-Class-System) - Lua Class System (LCS) is a small library which offers a clean, minimalistic but powerful  API for (Pseudo) Object Oriented programming style using Lua.
+* [Cubzh](https://github.com/cubzh/cubzh) - Cubzh is an open-source game engine written in Lua, C, C++ that allows anyone to rapidly script cross-platform (multiplayer) games
 * [mebens/strong](https://github.com/mebens/strong) - A Lua library that makes your strings stronger!
 * [bungle/lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) - LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library.
