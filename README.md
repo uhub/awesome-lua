@@ -15,31 +15,17 @@ A curated list of awesome Lua frameworks, libraries and software.
 * Web
 	* [Web Frameworks](#web-frameworks)
 	* [HTTP and Networking Clients](#http-and-networking-clients)
-	* [API and GraphQL](#api-and-graphql)
-	* [Frontend and UI Components](#frontend-and-ui-components)
 	* [Web Servers and Proxies](#web-servers-and-proxies)
-	* [Scraping and Crawling](#scraping-and-crawling)
 * Data and Storage
-	* [Databases](#databases)
 	* [Database Clients and ORMs](#database-clients-and-orms)
 	* [Serialization and Formats](#serialization-and-formats)
 	* [Caching and Queues](#caching-and-queues)
-	* [Search and Indexing](#search-and-indexing)
-* Machine Learning and AI
-	* [Machine Learning Frameworks](#machine-learning-frameworks)
-	* [Computer Vision](#computer-vision)
-	* [Natural Language Processing](#natural-language-processing)
-	* [Data Science and Analytics](#data-science-and-analytics)
 * Networking and Distributed
 	* [Networking](#networking)
 	* [RPC and Messaging](#rpc-and-messaging)
-	* [Distributed Systems](#distributed-systems)
-	* [Cloud and Infrastructure](#cloud-and-infrastructure)
 	* [Monitoring and Observability](#monitoring-and-observability)
 * User Interface
 	* [GUI Toolkits](#gui-toolkits)
-	* [Terminal and Console UI](#terminal-and-console-ui)
-	* [Mobile](#mobile)
 	* [Applications and End User Tools](#applications-and-end-user-tools)
 * Graphics and Media
 	* [Graphics and Rendering](#graphics-and-rendering)
@@ -50,24 +36,15 @@ A curated list of awesome Lua frameworks, libraries and software.
 	* [Cryptography](#cryptography)
 	* [Security Tools](#security-tools)
 	* [Authentication and Authorization](#authentication-and-authorization)
-	* [Reverse Engineering](#reverse-engineering)
 * Concurrency and Performance
 	* [Concurrency and Parallelism](#concurrency-and-parallelism)
-	* [Performance and Optimization](#performance-and-optimization)
 * Testing and Quality
 	* [Testing](#testing)
 * Utilities
-	* [Command Line Tools](#command-line-tools)
-	* [Logging and Configuration](#logging-and-configuration)
 	* [Text Processing](#text-processing)
-	* [Files and Operating System](#files-and-operating-system)
-	* [Date and Time](#date-and-time)
 	* [Automation and Scripting](#automation-and-scripting)
 	* [General Purpose Libraries](#general-purpose-libraries)
-* Systems and Hardware
-	* [Embedded and Firmware](#embedded-and-firmware)
 * Science and Math
-	* [Mathematics](#mathematics)
 	* [Scientific Computing](#scientific-computing)
 * [Other](#other)
 
@@ -192,6 +169,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 ### Editor and IDE Support
 
 * [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+* [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim *(archived)*
 * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 * [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -665,6 +643,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 * [joelazar/nvim-config](https://github.com/joelazar/nvim-config) - My neovim config
 * [obaland/vfiler.vim](https://github.com/obaland/vfiler.vim) - :file_folder: File explorer plugin for Neovim/Vim
+* [charliie-dev/nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
 * [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex. *(archived)*
 * [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) - Quickly switch between projects and automate startup tasks.
 * [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) - Tmux completion source for nvim-cmp and nvim-compe
@@ -684,6 +663,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
 * [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) - A neovim plugin to work with floating windows.
 * [monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) - OneDark NeoVim theme written in Lua
+* [theorytoe/nii-nvim](https://github.com/theorytoe/nii-nvim) - A minimal neovim configuration *(archived)*
 * [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
 * [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 * [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - Another directory/file explorer for Neovim written in Lua
@@ -691,12 +671,14 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) - A surround text object plugin for neovim written in lua. (Fork from blackCauldron7/surround.nvim) *(archived)*
 * [Ellypse/IntelliJ-IDEA-Lua-IDE-WoW-API](https://github.com/Ellypse/IntelliJ-IDEA-Lua-IDE-WoW-API) - WoW Lua API to use with the Lua IDE plugin for IntelliJ IDEA
 * [danielnehrig/nvim](https://github.com/danielnehrig/nvim) - neovim lua cfg
+* [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 * [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) - macros to configure neovim in fennel
 * [zanglg/nova.nvim](https://github.com/zanglg/nova.nvim) - Another color scheme for neovim written in lua, WIP
 * [neovim/lua-client](https://github.com/neovim/lua-client) - DEPRECATED *(archived)*
 * [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) - Statusline + Telescope integration for viewing and interacting with GitHub notifications
 * [RishabhRD/popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible popup window
 * [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color *(archived)*
+* [Dich0tomy/oxocarbon-lua.nvim](https://github.com/Dich0tomy/oxocarbon-lua.nvim) - A lua rewrite of the original oxocarbon theme. *(archived)*
 * [jaawerth/fennel-nvim](https://github.com/jaawerth/fennel-nvim) - running fennel-lang natively in neovim
 * [elihugarret/Moonlet](https://github.com/elihugarret/Moonlet) - Live coding with Lua.
 * [NodeUSB/nodemcu-ide](https://github.com/NodeUSB/nodemcu-ide) - Browser based Lua IDE for ESP8266 SoC
@@ -704,11 +686,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) - Nvim-plugin what wraps vim-which-key to simplify setup in lua
 * [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter *(archived)*
 * [s1n7ax/dotnvim](https://github.com/s1n7ax/dotnvim) - Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...
-* [charliie-dev/nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua) - Lazy AF neovim config, well structured in lua.
-* [Dich0tomy/oxocarbon-lua.nvim](https://github.com/Dich0tomy/oxocarbon-lua.nvim) - A lua rewrite of the original oxocarbon theme.
-* [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
-* [theorytoe/nii-nvim](https://github.com/theorytoe/nii-nvim) - A minimal neovim configuration
-* [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## Web
 
@@ -730,12 +707,12 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [benglard/waffle](https://github.com/benglard/waffle) - Fast, asynchronous web framework for Lua/Torch
 * [luastar/luastar](https://github.com/luastar/luastar) - 一个基于openresty的http接口开发框架或网关
 * [keplerproject/orbit](https://github.com/keplerproject/orbit) - Orbit is an MVC web framework for Lua. *(archived)*
+* [junwei000/nana](https://github.com/junwei000/nana) - Lua http api framework
 * [Olivine-Labs/lusty](https://github.com/Olivine-Labs/lusty) - Lua RESTful Web Application Framework
 * [bungle/lua-resty-route](https://github.com/bungle/lua-resty-route) - URL Routing Library for OpenResty Supporting Pluggable Matching Engines
 * [pintsized/lua-resty-rack](https://github.com/pintsized/lua-resty-rack) - A simple and extensible HTTP server framework for OpenResty.
 * [keplerproject/wsapi](https://github.com/keplerproject/wsapi) - WSAPI is an API that abstracts the web server from Lua web applications.
 * [andycai/kodelua](https://github.com/andycai/kodelua) - Kode is a free Open Source Model-View-Controller framework using Lua. *(archived)*
-* [junwei000/nana](https://github.com/junwei000/nana) - Lua http api framework
 
 ### HTTP and Networking Clients
 
@@ -751,18 +728,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [tokers/lua-resty-http2](https://github.com/tokers/lua-resty-http2) - The HTTP/2 Protocol (Client Side) Implementation for OpenResty.
 * [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) - A unified http/s client library for lua *(archived)*
 * [brimworks/lua-http-parser](https://github.com/brimworks/lua-http-parser) - Lua binding to Ryan Dahl's "http-parser".
-
-### API and GraphQL
-
-* [bjornbytes/graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL implementation in Lua
-* [solso/api-aggregator](https://github.com/solso/api-aggregator) - Aggregate REST API calls easily on a sandboxed Nginx+Lua env
-* [ysugimoto/lua-resty-grpc-gateway](https://github.com/ysugimoto/lua-resty-grpc-gateway) - REST <-> gRPC gateway library implementation with OpenResty
-
-### Frontend and UI Components
-
-* [jsdotlua/react-lua](https://github.com/jsdotlua/react-lua) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
-* [Roblox/roact-rodux](https://github.com/Roblox/roact-rodux) - A connector between Roact and Rodux, similar to react-redux
-* [Roblox/react-luau](https://github.com/Roblox/react-luau) - A comprehensive translation of upstream React 17.x into Luau. This is a read-only mirror.
 
 ### Web Servers and Proxies
 
@@ -788,15 +753,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [grasses/nginx-lua-static-merger](https://github.com/grasses/nginx-lua-static-merger) - Static files merger base on openresty
 * [spro/simon](https://github.com/spro/simon) - Dynamic routing/vhosts for nginx with Lua + Redis
 
-### Scraping and Crawling
-
-* [HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader) - A general-purpose doujinshi and image gallery downloader
-
 ## Data and Storage
-
-### Databases
-
-* [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 
 ### Database Clients and ORMs
 
@@ -857,37 +814,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [starius/lua-lru](https://github.com/starius/lua-lru) - LRU cache in Lua
 * [ledgetech/lua-resty-qless](https://github.com/ledgetech/lua-resty-qless) - Lua binding to Qless (Queue / Pipeline management) for OpenResty / Redis
 
-### Search and Indexing
-
-* [romgrk/fzy-lua-native](https://github.com/romgrk/fzy-lua-native) - Luajit FFI bindings to FZY
-* [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
-
-## Machine Learning and AI
-
-### Machine Learning Frameworks
-
-* [google-deepmind/dqn](https://github.com/google-deepmind/dqn) - Lua/Torch implementation of DQN (Nature, 2015) *(archived)*
-* [mam91/neat-genetic-mario](https://github.com/mam91/neat-genetic-mario) - Update of Seth Bling's MarI/O
-* [nicknlsn/MarioKart64NEAT](https://github.com/nicknlsn/MarioKart64NEAT) - NEAT implementation in Lua for Mario Kart 64 and the BizHawk emulator
-* [clementfarabet/lua---nnx](https://github.com/clementfarabet/lua---nnx) - An extension to Torch7's nn package.
-
-### Computer Vision
-
-* [cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection) - Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)
-* [aleju/face-generator](https://github.com/aleju/face-generator) - Generate human faces with neural networks
-* [kenshohara/3D-ResNets](https://github.com/kenshohara/3D-ResNets) - 3D ResNets for Action Recognition
-
-### Natural Language Processing
-
-* [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) - Facebook AI Research Sequence-to-Sequence Toolkit *(archived)*
-* [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) - Open Source Neural Machine Translation in Torch (deprecated) *(archived)*
-* [posenhuang/NPMT](https://github.com/posenhuang/NPMT) - Towards Neural Phrase-based Machine Translation
-
-### Data Science and Analytics
-
-* [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
-* [moneymanagerex/general-reports](https://github.com/moneymanagerex/general-reports) - Bunch of general reports for Money Manager Ex
-
 ## Networking and Distributed
 
 ### Networking
@@ -903,6 +829,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [libmoon/libmoon](https://github.com/libmoon/libmoon) - libmoon is a library for fast and flexible packet processing with DPDK and LuaJIT.
 * [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 * [zhaojh329/wifidog-ng](https://github.com/zhaojh329/wifidog-ng) - Next generation WifiDog implemented in Lua and kernel module.
+* [Open-Markets-Initiative/omi-wireshark-lua](https://github.com/Open-Markets-Initiative/omi-wireshark-lua) - Source generated cross platform Wireshark dissectors
 * [JaapBraam/LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway) - A LoRaWan Gateway in LUA
 * [128technology/protobuf_dissector](https://github.com/128technology/protobuf_dissector) - A Wireshark Lua plugin for decoding Google protobuf packets
 * [camchenry/sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games.
@@ -915,7 +842,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [duhoobo/lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) - I must be crazy trying to send mail with Nginx.
 * [DNS-OARC/drool](https://github.com/DNS-OARC/drool) - Moved to https://codeberg.org/DNS-OARC/drool *(archived)*
 * [vislee/lua-resty-dns-server](https://github.com/vislee/lua-resty-dns-server) - Lua DNS server driver for OpenResty
-* [Open-Markets-Initiative/omi-wireshark-lua](https://github.com/Open-Markets-Initiative/omi-wireshark-lua) - Source generated cross platform Wireshark dissectors
 
 ### RPC and Messaging
 
@@ -929,16 +855,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [KSDaemon/wiola](https://github.com/KSDaemon/wiola) - WAMP implementation in Lua
 * [nanomsg/luajit-nanomsg](https://github.com/nanomsg/luajit-nanomsg) - LuaJIT FFI binding to the nanomsg library
 
-### Distributed Systems
-
-* [leandromoreira/nginx-lua-redis-rate-measuring](https://github.com/leandromoreira/nginx-lua-redis-rate-measuring) - A lua library to provide distributed rate measurement using nginx + redis, you can use it to do a throttling system within many nodes.
-
-### Cloud and Infrastructure
-
-* [adobe-apiplatform/api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws) - AWS SDK for NGINX with Lua
-* [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
-* [leafo/heroku-openresty](https://github.com/leafo/heroku-openresty) - Run OpenResty on Heroku with the Lua buildpack
-
 ### Monitoring and Observability
 
 * [knyar/nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
@@ -947,11 +863,11 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [apache/skywalking-nginx-lua](https://github.com/apache/skywalking-nginx-lua) - The Nginx Lua agent for Apache SkyWalking
 * [Kong/lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) - Healthcheck library for OpenResty to validate upstream service status
 * [zheng-ji/ngx_lua_reqstatus](https://github.com/zheng-ji/ngx_lua_reqstatus) - 实时统计 nginx 状态的 lua 拓展
+* [sysulq/nginx-prometheus-metrics](https://github.com/sysulq/nginx-prometheus-metrics) - A production demo to collect prometheus metrics for nginx with lua embedded.
 * [zrbcool/prometheus-lua-nginx](https://github.com/zrbcool/prometheus-lua-nginx) - API Gateway monitoring tools, out-of-box dashboard helps you find out performance issue,help improve SLA.
 * [trisulnsm/trisul-scripts](https://github.com/trisulnsm/trisul-scripts) - Ready to run scripts for network analysis
 * [vovolie/lua-nginx-prometheus](https://github.com/vovolie/lua-nginx-prometheus) - Monitoring nginx using prometheus
 * [songweihang/knight](https://github.com/songweihang/knight) - Nginx Http 集群api 统计监控、灰度发布、频率控制
-* [sysulq/nginx-prometheus-metrics](https://github.com/sysulq/nginx-prometheus-metrics) - A production demo to collect prometheus metrics for nginx with lua embedded.
 
 ## User Interface
 
@@ -970,16 +886,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [PedroAlvesV/AbsTK](https://github.com/PedroAlvesV/AbsTK) - The Abstract Toolkit – a widget toolkit for GUI and text-mode applications.
 * [Michael-48/Iris](https://github.com/Michael-48/Iris) - Iris is an Immediate-Mode GUI Library for Roblox for creating debug and visualisation UI and tools and based on Dear ImGui.
 
-### Terminal and Console UI
-
-* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format
-* [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
-* [giann/sirocco](https://github.com/giann/sirocco) - 🦜 A collection of interactive command line prompts for Lua
-
-### Mobile
-
-* [hanks-zyh/hydrogenApp](https://github.com/hanks-zyh/hydrogenApp) - hydrogen is a pluggable android app
-
 ### Applications and End User Tools
 
 * [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -990,6 +896,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [doctorhetfield-cmd/simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) - A highly customizable UI plugin for KOReader that features a home screen, bottom navigation bar, top bar and desktop modules/widgets.
 * [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
 * [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - An easy to use, modern video player based on mpv （一个基于MPV,易于使用,现代化的视频播放器）
+* [Yazelix/nova](https://github.com/Yazelix/nova) - Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Mars, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and Anima.
 * [Questie/Questie](https://github.com/Questie/Questie) - Questie: The WoW Classic quest helper
 * [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
 * [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small lua package for Hyprland to provide awesome-like workspace behavior
@@ -1010,7 +917,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [ElvUI-Vanilla/ElvUI](https://github.com/ElvUI-Vanilla/ElvUI) - ElvUI for World of Warcraft - Vanilla (1.12.1) *(archived)*
 * [Aviana/YaHT](https://github.com/Aviana/YaHT) - Yet another Hunter Timer for WoW Classic *(archived)*
 * [wardz/ClassicCastbars](https://github.com/wardz/ClassicCastbars) - [WoW] Customizable target castbars for Classic and Retail.
-* [Yazelix/nova](https://github.com/Yazelix/nova) - zellij, yazi with nushell and lua scripting add a File Tree to Helix in an IDE-like experience
 
 ## Graphics and Media
 
@@ -1130,6 +1036,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [swkeep/keep-companion](https://github.com/swkeep/keep-companion) - Qbcore pet system
 * [MetaIdea/nms-amumss-lua-mod-script-collection](https://github.com/MetaIdea/nms-amumss-lua-mod-script-collection) - A collection of public amumss lua mod scripts for nms.
 * [kikito/love-loader](https://github.com/kikito/love-loader) - Threaded resource loading for LÖVE
+* [xcoding1024/behavior3lua](https://github.com/xcoding1024/behavior3lua) - behavior tree for lua
 * [tanema/behaviourtree.lua](https://github.com/tanema/behaviourtree.lua) - a simple behaviour tree library for lua ported from javascript
 * [xchopin/FiveM-RP-Boilerplate](https://github.com/xchopin/FiveM-RP-Boilerplate) - 🔫 Boilerplate for FiveM Roleplay servers. Save time and focus on your real project. *(archived)*
 * [htv04/funkin-rewritten](https://github.com/htv04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE *(archived)*
@@ -1156,6 +1063,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [handsomematt/3d2d-vgui](https://github.com/handsomematt/3d2d-vgui) - :eyes: Render and control 2D VGUI in 3D world space for Garry's Mod *(archived)*
 * [JoebRogers/PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 * [kektram/Keks-menu](https://github.com/kektram/Keks-menu) - Kek's menu is a 2take1 lua script that's focused on utilities and trolling.
+* [BlueAmulet/OCEmu](https://github.com/BlueAmulet/OCEmu) - OpenComputers Emulator in Lua. Depreciated *(archived)*
 * [lithammer/NeavUI](https://github.com/lithammer/NeavUI) - Development branch of Neav UI
 * [katono/rogue.vim](https://github.com/katono/rogue.vim) - Porting of Rogue-clone II for Vim
 * [actboy168/MoeHero](https://github.com/actboy168/MoeHero) - 我的英雄不可能那么萌
@@ -1173,9 +1081,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [mcclure/emu-coop](https://github.com/mcclure/emu-coop) - Lua scripts for turning 1-player games into 2-player games using inventory sharing.
 * [iopass4/behavior3-lua](https://github.com/iopass4/behavior3-lua) - behavior3-lua
 * [frederic2ec/onsetrp](https://github.com/frederic2ec/onsetrp) - [OUTDATED] OnsetRP framework *(archived)*
-* [BlueAmulet/OCEmu](https://github.com/BlueAmulet/OCEmu) - OpenComputers Emulator in Lua. Depreciated
 * [gabrielzenly/player-model-changer](https://github.com/gabrielzenly/player-model-changer) - 💉: gamesense lua script to change local player model
-* [xcoding1024/behavior3lua](https://github.com/xcoding1024/behavior3lua) - behavior tree for lua
 
 ### Audio
 
@@ -1278,15 +1184,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [ubergarm/openresty-nginx-jwt](https://github.com/ubergarm/openresty-nginx-jwt) - JWT Bearer Token authorization with nginx, openresty, and lua-resty-jwt.
 * [x25/luajwt](https://github.com/x25/luajwt) - JSON Web Tokens for Lua
 
-### Reverse Engineering
-
-* [miscusi-peek/cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge) - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
-* [viruscamp/luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
-* [Upbolt/Hydroxide](https://github.com/Upbolt/Hydroxide) - Lua runtime introspection and network capturing tool for games on the Roblox engine.
-* [hack0z/luject](https://github.com/hack0z/luject) - 🍹A static injector of dynamic library for application (android, iphoneos, macOS, windows, linux)
-* [efrederickson/LuaAssemblyTools](https://github.com/efrederickson/LuaAssemblyTools) - Lua Assembly/Bytecode Tools. Has functions for virtually all aspects of LASM, including reading/writing, verifying, stripping debug info, LASM decompilation, and LASM parsing.
-* [Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk) - A collection of Lua scripts and RAM watches for BizHawk.
-
 ## Concurrency and Performance
 
 ### Concurrency and Parallelism
@@ -1308,11 +1205,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [xfguo/luactor](https://github.com/xfguo/luactor) - A pure Lua (at least for now) Actor Model framework.
 * [moteus/lua-llthreads2](https://github.com/moteus/lua-llthreads2) - `llthreads` library rewritten without `LuaNativeObjects` code generator
 
-### Performance and Optimization
-
-* [lujian101/LuaTableOptimizer](https://github.com/lujian101/LuaTableOptimizer) - simple readonly lua table optimizer
-* [timotta/wrk-scripts](https://github.com/timotta/wrk-scripts) - Script Lua to work better with wrk
-
 ## Testing and Quality
 
 ### Testing
@@ -1331,21 +1223,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [mirven/luaspec](https://github.com/mirven/luaspec) - A specification framework for lua
 
 ## Utilities
-
-### Command Line Tools
-
-* [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
-* [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
-* [mpeterv/argparse](https://github.com/mpeterv/argparse) - Feature-rich command line parser for Lua
-* [lunarmodules/lua_cliargs](https://github.com/lunarmodules/lua_cliargs) - A command-line argument parsing module for Lua.
-
-### Logging and Configuration
-
-* [rxi/log.lua](https://github.com/rxi/log.lua) - A tiny logging module for Lua
-* [Neopallium/lualogging](https://github.com/Neopallium/lualogging) - New maintainer at: https://github.com/lunarmodules/lualogging *(archived)*
-* [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your neovim lua plugins
-* [mtourne/nginx_log_by_lua](https://github.com/mtourne/nginx_log_by_lua) - Simple example of aggregated logging using log_by_lua hooks
-* [moteus/lua-log](https://github.com/moteus/lua-log) - Asynchronous logging library for Lua
 
 ### Text Processing
 
@@ -1369,6 +1246,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [jagt/pprint.lua](https://github.com/jagt/pprint.lua) - yet another lua pretty printer
 * [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
 * [aiq/basexx](https://github.com/aiq/basexx) - A Lua library which provides base2(bitfield), base16(hex), base32(crockford/rfc), base64(rfc/url), base85(z85) decoding and encoding.
+* [lunarmodules/lua-iconv](https://github.com/lunarmodules/lua-iconv) - Lua bindings for POSIX iconv
 * [keplerproject/luadoc](https://github.com/keplerproject/luadoc) - LuaDoc is obsolete, use LDoc instead → *(archived)*
 * [rgieseke/locco](https://github.com/rgieseke/locco) - Locco is Docco in Lua.
 * [mfenner/pandoc-jats](https://github.com/mfenner/pandoc-jats) - A Lua custom writer for Pandoc generating JATS XML *(archived)*
@@ -1376,18 +1254,6 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [henix/slt2](https://github.com/henix/slt2) - a simple Lua template processor *(archived)*
 * [mebens/strong](https://github.com/mebens/strong) - A Lua library that makes your strings stronger!
 * [woothee/lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) - Woothee Lua-Openresty implementation
-* [lunarmodules/lua-iconv](https://github.com/lunarmodules/lua-iconv) - Lua bindings for POSIX iconv
-
-### Files and Operating System
-
-* [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
-
-### Date and Time
-
-* [Tieske/date](https://github.com/Tieske/date) - Date & Time module for Lua 5.x
-* [rxi/tick](https://github.com/rxi/tick) - Lua module for delaying function calls
-* [kikito/cron.lua](https://github.com/kikito/cron.lua) - Time-related functions for Lua, inspired in javascript's setTimeout and setInterval
-* [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
 
 ### Automation and Scripting
 
@@ -1429,12 +1295,12 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [helderberto/dotfiles](https://github.com/helderberto/dotfiles) - ⚙️ Setup a macOS environment quickly and easily!
 * [psamim/telegram-cli-backup](https://github.com/psamim/telegram-cli-backup) - A simple Lua script to backup Telegram messages into a CSV or sqlite database
 * [Vallen217/dotfiles](https://github.com/Vallen217/dotfiles) - Sleek. Modern. Elegent... Dotfiles.
+* [sammy-ette/dotfiles](https://github.com/sammy-ette/dotfiles) - 🏵️
 * [MutePuker/TeleMute](https://github.com/MutePuker/TeleMute) - A Telegram-CLI Administration Telgram bot in Lua - New TG
 * [wiiaboo/mpv-scripts](https://github.com/wiiaboo/mpv-scripts) - Scripts I've made or adapted from others
 * [MArpogaus/awesome-ayu](https://github.com/MArpogaus/awesome-ayu) - Minimalistic awesome window manager theme using the gorgeous ayu color palette.
 * [rossy/mpv-repl](https://github.com/rossy/mpv-repl) - A graphical REPL for mpv input commands
 * [3rfaan/dotfiles](https://github.com/3rfaan/dotfiles) - Minimal dotfiles
-* [sammy-ette/dotfiles](https://github.com/sammy-ette/dotfiles) - 🌺
 
 ### General Purpose Libraries
 
@@ -1478,19 +1344,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [bungle/lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) - LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library.
 * [Yonaba/Lua-Class-System](https://github.com/Yonaba/Lua-Class-System) - Lua Class System (LCS) is a small library which offers a clean, minimalistic but powerful API for (Pseudo) Object Oriented programming style using Lua.
 
-## Systems and Hardware
-
-### Embedded and Firmware
-
-* [openLuat/Luat_2G_RDA_8955](https://github.com/openLuat/Luat_2G_RDA_8955) - Luat 2G开源项目，适用于Air202、Air800、Air201等，已经停止维护
-* [RealTadango/FrSky](https://github.com/RealTadango/FrSky) - My S.Port sensors and OpenTX Lua scripts
-
 ## Science and Math
-
-### Mathematics
-
-* [davidm/lua-matrix](https://github.com/davidm/lua-matrix) - Matrices and vectors of are real, complex, and symbolic elements, implemented as Lua tables.
-* [davisdude/mlib](https://github.com/davisdude/mlib) - A math and collisions library for Lua.
 
 ### Scientific Computing
 
@@ -1519,6 +1373,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.
 * [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 * [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
+* [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS
 * [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall)
 * [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 * [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)
@@ -1554,6 +1409,8 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine
 * [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 * [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
+* [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) - Facebook AI Research Sequence-to-Sequence Toolkit *(archived)*
+* [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 * [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 * [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 * [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
@@ -1568,6 +1425,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 * [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 * [Wscats/articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
+* [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 * [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 * [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) - Torch implementation of DeepMask and SharpMask *(archived)*
 * [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) - Service eggs for the pterodactyl panel *(archived)*
@@ -1585,6 +1443,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 * [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 * [kaishengtai/neuralart](https://github.com/kaishengtai/neuralart) - An implementation of the paper 'A Neural Algorithm of Artistic Style'.
+* [OpenNMT/OpenNMT](https://github.com/OpenNMT/OpenNMT) - Open Source Neural Machine Translation in Torch (deprecated) *(archived)*
 * [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 * [facebookarchive/fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch) - Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts *(archived)*
 * [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
@@ -1656,6 +1515,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
 * [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 * [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
+* [miscusi-peek/cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge) - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
 * [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 * [torch/nn](https://github.com/torch/nn)
 * [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
@@ -1663,6 +1523,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [vrld/hump](https://github.com/vrld/hump) - LÖVE Helper Utilities for Massive Progression
 * [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 * [facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) - A Torch implementation of the object detection network from "A MultiPath Network for Object Detection" (https://arxiv.org/abs/1604.02135) *(archived)*
+* [viruscamp/luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 * [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥 *(archived)*
 * [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
@@ -1696,6 +1557,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle) - UI Plugin for KOReader by @elfbutt and @joshuacant
 * [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text)
 * [karai17/Simple-Tiled-Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled library for LÖVE
+* [cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection) - Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)
 * [facebookarchive/fbcunn](https://github.com/facebookarchive/fbcunn) - Facebook's extensions to torch/cunn. *(archived)*
 * [Stefanuk12/ROBLOX](https://github.com/Stefanuk12/ROBLOX) - Public: All of my ROBLOX Scripts, etc. *(archived)*
 * [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
@@ -1757,6 +1619,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim) - Yacine's LLM nvim scripts
 * [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim plugin for zk
 * [zhangxiangxiao/Crepe](https://github.com/zhangxiangxiao/Crepe) - Character-level Convolutional Networks for Text Classification
+* [HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader) - A general-purpose doujinshi and image gallery downloader
 * [yagop/telegram-bot](https://github.com/yagop/telegram-bot) - UNMAINTAINED - A Telegram Bot based on plugins *(archived)*
 * [yoonkim/lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn) - LSTM language model with CNN over characters
 * [jiweil/Neural-Dialogue-Generation](https://github.com/jiweil/Neural-Dialogue-Generation)
@@ -1807,8 +1670,8 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
 * [garythung/trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
 * [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
-* [cvondrick/videogan](https://github.com/cvondrick/videogan) - Generating Videos with Scene Dynamics. NIPS 2016.
 * [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
+* [cvondrick/videogan](https://github.com/cvondrick/videogan) - Generating Videos with Scene Dynamics. NIPS 2016.
 * [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 * [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - A Neovim plugin that displays interactive vertical scrollbars and signs.
 * [jay-babu/mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim)
@@ -1830,8 +1693,8 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
 * [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim)
 * [rameshvarun/NeuralKart](https://github.com/rameshvarun/NeuralKart) - A Real-time Mario Kart 64 AI using ConvNets.
-* [Ulydev/push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE
 * [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) - 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。
+* [Ulydev/push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE
 * [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles) - ⌨️ The never ending updates of my dotfiles config
 * [Stephan-S/FS25_AutoDrive](https://github.com/Stephan-S/FS25_AutoDrive) - FS25 version of the AutoDrive mod
 * [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
@@ -1841,6 +1704,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 * [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 * [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
+* [google-deepmind/dqn](https://github.com/google-deepmind/dqn) - Lua/Torch implementation of DQN (Nature, 2015) *(archived)*
 * [opentibiabr/canary](https://github.com/opentibiabr/canary) - Canary Server 15.25 for OpenTibia community.
 * [QuadrupleA/sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 * [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
@@ -1890,6 +1754,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
 * [Stephan-S/FS22_AutoDrive](https://github.com/Stephan-S/FS22_AutoDrive) - FS22 version of the AutoDrive mod
 * [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
+* [jsdotlua/react-lua](https://github.com/jsdotlua/react-lua) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
 * [Mon4sm/monasm-dots](https://github.com/Mon4sm/monasm-dots) - My dotfiles
 * [overextended/ox_inventory](https://github.com/overextended/ox_inventory) - Slot-based inventory with metadata.
 * [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - A Metals plugin for Neovim
@@ -1899,6 +1764,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 * [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview *(archived)*
 * [yulunzhang/RDN](https://github.com/yulunzhang/RDN) - Torch code for our CVPR 2018 paper "Residual Dense Network for Image Super-Resolution" (Spotlight)
+* [Roblox/react-luau](https://github.com/Roblox/react-luau) - A comprehensive, but not exhaustive, translation of ReactJS 17.x into Luau. This is a read-only mirror.
 * [Tony15246/uosc_danmaku](https://github.com/Tony15246/uosc_danmaku) - 在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件 | Load DanDanPlay danmaku in MPV player, based on the uosc UI framework and DanDanPlay API.
 * [twitter-archive/torch-autograd](https://github.com/twitter-archive/torch-autograd) - Autograd automatically differentiates native Torch code *(archived)*
 * [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - *(archived)*
@@ -1927,8 +1793,8 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 * [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 * [L1L1/cardpeek](https://github.com/L1L1/cardpeek) - Automatically exported from code.google.com/p/cardpeek
-* [Runixe786/NThing-UI](https://github.com/Runixe786/NThing-UI) - Bring the aesthetics of NothingOS on your WIndows desktop devices. NThing UI features cool NothingOS inspired widgets, taskbar, menu's and more to give your PC a modern, clean and minimal look.
 * [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout *(archived)*
+* [Runixe786/NThing-UI](https://github.com/Runixe786/NThing-UI) - Bring the aesthetics of NothingOS on your WIndows desktop devices. NThing UI features cool NothingOS inspired widgets, taskbar, menu's and more to give your PC a modern, clean and minimal look.
 * [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
 * [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 * [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols
@@ -1948,6 +1814,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [nokia/kong-oidc](https://github.com/nokia/kong-oidc) - OIDC plugin for Kong *(archived)*
 * [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer
 * [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
+* [Upbolt/Hydroxide](https://github.com/Upbolt/Hydroxide) - Lua runtime introspection and network capturing tool for games on the Roblox engine.
 * [abhshkdz/neural-vqa](https://github.com/abhshkdz/neural-vqa) - :grey_question: Visual Question Answering in Torch
 * [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 * [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
@@ -1987,6 +1854,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 * [gaohuang/MSDNet](https://github.com/gaohuang/MSDNet) - Multi-Scale Dense Networks for Resource Efficient Image Classification （ICLR 2018 Oral）
 * [unknown321/dynamite](https://github.com/unknown321/dynamite) - 2 player co-op mod for MGSV:TPP
+* [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
 * [2DGD-F0TH/2DGD_F0TH](https://github.com/2DGD-F0TH/2DGD_F0TH) - [CC BY-NC-SA] A compendium of the community knowledge on game design and development
 * [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
 * [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
@@ -2094,7 +1962,49 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [yaringal/BayesianRNN](https://github.com/yaringal/BayesianRNN) - Code for the paper "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks"
 * [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) - 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部分词)， 长词优先(成语短语简拼)，英文大小写多格式输入，中英自动加空格，上屏历史回溯，快捷启动与切换App应用，多格式日期星期时间输入，长期更新 800W 词库
 * [siweia/NDui](https://github.com/siweia/NDui) - NDui for World of Warcraft
+* [rxi/log.lua](https://github.com/rxi/log.lua) - A tiny logging module for Lua
+* [hack0z/luject](https://github.com/hack0z/luject) - 🍹A static injector of dynamic library for application (android, iphoneos, macOS, windows, linux)
+* [aleju/face-generator](https://github.com/aleju/face-generator) - Generate human faces with neural networks
+* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format
+* [lujian101/LuaTableOptimizer](https://github.com/lujian101/LuaTableOptimizer) - simple readonly lua table optimizer
+* [mpeterv/argparse](https://github.com/mpeterv/argparse) - Feature-rich command line parser for Lua
+* [efrederickson/LuaAssemblyTools](https://github.com/efrederickson/LuaAssemblyTools) - Lua Assembly/Bytecode Tools. Has functions for virtually all aspects of LASM, including reading/writing, verifying, stripping debug info, LASM decompilation, and LASM parsing.
+* [Tieske/date](https://github.com/Tieske/date) - Date & Time module for Lua 5.x
+* [rxi/tick](https://github.com/rxi/tick) - Lua module for delaying function calls
+* [openLuat/Luat_2G_RDA_8955](https://github.com/openLuat/Luat_2G_RDA_8955) - Luat 2G开源项目，适用于Air202、Air800、Air201等，已经停止维护
+* [bjornbytes/graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL implementation in Lua
+* [kikito/cron.lua](https://github.com/kikito/cron.lua) - Time-related functions for Lua, inspired in javascript's setTimeout and setInterval
+* [mam91/neat-genetic-mario](https://github.com/mam91/neat-genetic-mario) - Update of Seth Bling's MarI/O
+* [nicknlsn/MarioKart64NEAT](https://github.com/nicknlsn/MarioKart64NEAT) - NEAT implementation in Lua for Mario Kart 64 and the BizHawk emulator
+* [posenhuang/NPMT](https://github.com/posenhuang/NPMT) - Towards Neural Phrase-based Machine Translation
+* [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
+* [adobe-apiplatform/api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws) - AWS SDK for NGINX with Lua
+* [hanks-zyh/hydrogenApp](https://github.com/hanks-zyh/hydrogenApp) - hydrogen is a pluggable android app
 * [zrong/lua](https://github.com/zrong/lua) - A lua library by zengrong.net
 * [cia76/QuikPy](https://github.com/cia76/QuikPy) - Библиотека-обертка, которая позволяет получить доступ к функционалу торгового теримнала QUIK из Python
+* [leandromoreira/nginx-lua-redis-rate-measuring](https://github.com/leandromoreira/nginx-lua-redis-rate-measuring) - A lua library to provide distributed rate measurement using nginx + redis, you can use it to do a throttling system within many nodes.
+* [davidm/lua-matrix](https://github.com/davidm/lua-matrix) - Matrices and vectors of are real, complex, and symbolic elements, implemented as Lua tables.
+* [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
+* [Neopallium/lualogging](https://github.com/Neopallium/lualogging) - New maintainer at: https://github.com/lunarmodules/lualogging *(archived)*
+* [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your neovim lua plugins
+* [mtourne/nginx_log_by_lua](https://github.com/mtourne/nginx_log_by_lua) - Simple example of aggregated logging using log_by_lua hooks
+* [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
+* [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
+* [lunarmodules/lua_cliargs](https://github.com/lunarmodules/lua_cliargs) - A command-line argument parsing module for Lua.
+* [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
+* [giann/sirocco](https://github.com/giann/sirocco) - 🦜 A collection of interactive command line prompts for Lua
+* [kenshohara/3D-ResNets](https://github.com/kenshohara/3D-ResNets) - 3D ResNets for Action Recognition
+* [romgrk/fzy-lua-native](https://github.com/romgrk/fzy-lua-native) - Luajit FFI bindings to FZY
 * [nick-nh/qlua](https://github.com/nick-nh/qlua) - Quik Lua indicators
+* [moteus/lua-log](https://github.com/moteus/lua-log) - Asynchronous logging library for Lua
+* [Roblox/roact-rodux](https://github.com/Roblox/roact-rodux) - A connector between Roact and Rodux, similar to react-redux
+* [clementfarabet/lua---nnx](https://github.com/clementfarabet/lua---nnx) - An extension to Torch7's nn package.
+* [Isotarge/ScriptHawk](https://github.com/Isotarge/ScriptHawk) - A collection of Lua scripts and RAM watches for BizHawk.
+* [solso/api-aggregator](https://github.com/solso/api-aggregator) - Aggregate REST API calls easily on a sandboxed Nginx+Lua env
+* [davisdude/mlib](https://github.com/davisdude/mlib) - A math and collisions library for Lua.
 * [boyliang/lua_badboy](https://github.com/boyliang/lua_badboy) - Some useful tools for lua
+* [RealTadango/FrSky](https://github.com/RealTadango/FrSky) - My S.Port sensors and OpenTX Lua scripts
+* [ysugimoto/lua-resty-grpc-gateway](https://github.com/ysugimoto/lua-resty-grpc-gateway) - REST <-> gRPC gateway library implementation with OpenResty
+* [moneymanagerex/general-reports](https://github.com/moneymanagerex/general-reports) - Bunch of general reports for Money Manager Ex
+* [leafo/heroku-openresty](https://github.com/leafo/heroku-openresty) - Run OpenResty on Heroku with the Lua buildpack
+* [timotta/wrk-scripts](https://github.com/timotta/wrk-scripts) - Script Lua to work better with wrk
