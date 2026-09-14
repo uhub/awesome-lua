@@ -728,6 +728,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [tokers/lua-resty-http2](https://github.com/tokers/lua-resty-http2) - The HTTP/2 Protocol (Client Side) Implementation for OpenResty.
 * [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) - A unified http/s client library for lua *(archived)*
 * [brimworks/lua-http-parser](https://github.com/brimworks/lua-http-parser) - Lua binding to Ryan Dahl's "http-parser".
+* [filispeen/discord.lua](https://github.com/filispeen/discord.lua) - Discord bot library and API wrapper for Lua on the Luvit runtime.
 
 ### Web Servers and Proxies
 
